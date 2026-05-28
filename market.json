@@ -77,6 +77,52 @@
       "importable": true,
       "previewable": true,
       "supported_in_v1": true
+    },
+    {
+      "id": "github-develop202-miguvideo",
+      "name": "develop202-咪咕频道包",
+      "description": "包含央视/地方卫视、体育、动漫、纪录片等多个分类的咪咕视频公开频道",
+      "kind": "dynamic_playlist",
+      "version": "2026.05.28",
+      "updated_at": "2026-05-28T00:00:00+08:00",
+      "manifest_url": "packages/github-develop202-miguvideo/manifest.json",
+      "region": {
+        "country": "cn",
+        "province": null,
+        "city": null
+      },
+      "operators": [
+        "cn"
+      ],
+      "language": [
+        "zh-cn"
+      ],
+      "categories": [
+        "tv",
+        "咪咕",
+        "央视",
+        "卫视",
+        "体育",
+        "动漫",
+        "纪录片"
+      ],
+      "tags": [
+        "中国",
+        "咪咕",
+        "央视",
+        "卫视",
+        "体育",
+        "动漫",
+        "纪录片",
+        "动态订阅"
+      ],
+      "status": "stable",
+      "source_origin": "community",
+      "source_policy": "community_index",
+      "risk_level": "low",
+      "importable": true,
+      "previewable": true,
+      "supported_in_v1": true
     }
   ]
 }
