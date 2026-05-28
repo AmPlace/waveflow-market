@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "id": "github-mzky-itvlist",
+  "name": "mzky-综合频道包",
+  "description": "多源 IPTV 综合频道列表，含央视、卫视、体育、卡通、少儿等多分类，同一频道多个备用源。",
+  "kind": "dynamic_playlist",
+  "version": "2026.05.28",
+  "updated_at": "2026-05-28T00:00:00+08:00",
+  "region": {
+    "country": "cn",
+    "province": null,
+    "city": null
+  },
+  "operators": ["cn"],
+  "language": ["zh-CN"],
+  "categories": ["tv", "央视", "卫视", "体育", "卡通", "少儿"],
+  "tags": ["IPTV", "央视", "卫视", "体育", "卡通", "少儿", "多源", "动态订阅"],
+  "status": "stable",
+  "source_origin": "community",
+  "source_policy": "community_index",
+  "risk_level": "low",
+  "importable": true,
+  "previewable": true,
+  "supported_in_v1": true,
+  "defaults": {
+    "source": {
+      "type": "HLS",
+      "requires_proxy": false,
+      "headers": {}
+    }
+  },
+  "channel_sources": [
+    {
+      "type": "playlist",
+      "id": "github-mzky-itvlist-m3u",
+      "name": "mzky-综合频道 M3U",
+      "url": "https://raw.githubusercontent.com/mzky/checklist/refs/heads/master/itvlist.m3u",
+      "format": "auto",
+      "headers": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    }
+  ]
+}

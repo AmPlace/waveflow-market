@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "id": "github-imdazui-fujian-unicast",
+  "name": "福建联通单播源",
+  "description": "福建联通 IPTV 单播源，RTSP 流媒体格式，含央视、卫视、厦门本地及购物频道。",
+  "kind": "dynamic_playlist",
+  "version": "2026.05.28",
+  "updated_at": "2026-05-28T00:00:00+08:00",
+  "region": {
+    "country": "cn",
+    "province": "福建",
+    "city": null
+  },
+  "operators": ["cn", "联通"],
+  "language": ["zh-CN"],
+  "categories": ["tv", "央视", "卫视", "地方台", "购物"],
+  "tags": ["福建", "联通", "单播", "反代", "IPTV", "央视", "卫视", "动态订阅"],
+  "status": "stable",
+  "source_origin": "community",
+  "source_policy": "community_index",
+  "risk_level": "low",
+  "importable": true,
+  "previewable": true,
+  "supported_in_v1": true,
+  "defaults": {
+    "source": {
+      "type": "RTSP",
+      "requires_proxy": true,
+      "headers": {}
+    }
+  },
+  "channel_sources": [
+    {
+      "type": "playlist",
+      "id": "github-imdazui-fujian-unicast-m3u",
+      "name": "福建联通单播源 M3U",
+      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E7%A6%8F%E5%BB%BA%E8%81%94%E9%80%9A%E5%8D%95%E6%92%AD%E6%BA%90.m3u",
+      "format": "auto",
+      "headers": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    }
+  ]
+}

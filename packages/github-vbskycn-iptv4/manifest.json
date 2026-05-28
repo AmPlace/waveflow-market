@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "id": "github-vbskycn-iptv4",
+  "name": "vbskycn-综合频道包",
+  "description": "综合 IPTV 频道列表，含央视、卫视、体育、儿童、电影、春晚、风景直播等丰富分类。",
+  "kind": "dynamic_playlist",
+  "version": "2026.05.28",
+  "updated_at": "2026-05-28T00:00:00+08:00",
+  "region": {
+    "country": "cn",
+    "province": null,
+    "city": null
+  },
+  "operators": ["cn"],
+  "language": ["zh-CN"],
+  "categories": ["tv", "央视", "卫视", "体育", "儿童", "电影", "风景", "春晚"],
+  "tags": ["IPTV", "央视", "卫视", "体育", "儿童", "电影", "春晚", "风景直播", "综合", "动态订阅"],
+  "status": "stable",
+  "source_origin": "community",
+  "source_policy": "community_index",
+  "risk_level": "low",
+  "importable": true,
+  "previewable": true,
+  "supported_in_v1": true,
+  "defaults": {
+    "source": {
+      "type": "HLS",
+      "requires_proxy": false,
+      "headers": {}
+    }
+  },
+  "channel_sources": [
+    {
+      "type": "playlist",
+      "id": "github-vbskycn-iptv4-m3u",
+      "name": "vbskycn-综合频道 M3U",
+      "url": "https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u",
+      "format": "auto",
+      "headers": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    }
+  ]
+}

@@ -16,10 +16,19 @@
         "province": null,
         "city": null
       },
-      "operators": ["global"],
-      "language": ["zh-CN"],
-      "categories": ["tv"],
-      "tags": ["YouTube", "动态订阅"],
+      "operators": [
+        "global"
+      ],
+      "language": [
+        "zh-CN"
+      ],
+      "categories": [
+        "tv"
+      ],
+      "tags": [
+        "YouTube",
+        "动态订阅"
+      ],
       "status": "stable",
       "source_origin": "community",
       "source_policy": "community_index",
@@ -41,10 +50,20 @@
         "province": null,
         "city": null
       },
-      "operators": ["jp"],
-      "language": ["ja-JP"],
-      "categories": ["tv"],
-      "tags": ["日本", "公开频道", "动态订阅"],
+      "operators": [
+        "jp"
+      ],
+      "language": [
+        "ja-JP"
+      ],
+      "categories": [
+        "tv"
+      ],
+      "tags": [
+        "日本",
+        "公开频道",
+        "动态订阅"
+      ],
       "status": "stable",
       "source_origin": "community",
       "source_policy": "community_index",
@@ -66,10 +85,24 @@
         "province": null,
         "city": null
       },
-      "operators": ["global"],
-      "language": ["en-US"],
-      "categories": ["tv", "kids", "animation"],
-      "tags": ["YouTube", "动画", "经典动画", "24/7", "公开直播"],
+      "operators": [
+        "global"
+      ],
+      "language": [
+        "en-US"
+      ],
+      "categories": [
+        "tv",
+        "kids",
+        "animation"
+      ],
+      "tags": [
+        "YouTube",
+        "动画",
+        "经典动画",
+        "24/7",
+        "公开直播"
+      ],
       "status": "stable",
       "source_origin": "official_web",
       "source_policy": "official_public",
@@ -114,6 +147,146 @@
         "体育",
         "动漫",
         "纪录片",
+        "动态订阅"
+      ],
+      "status": "stable",
+      "source_origin": "community",
+      "source_policy": "community_index",
+      "risk_level": "low",
+      "importable": true,
+      "previewable": true,
+      "supported_in_v1": true
+    },
+    {
+      "id": "github-mzky-itvlist",
+      "name": "mzky-综合频道包",
+      "description": "多源 IPTV 综合频道列表，含央视、卫视、体育、卡通、少儿等多分类，同一频道多个备用源。",
+      "kind": "dynamic_playlist",
+      "version": "2026.05.28",
+      "updated_at": "2026-05-28T00:00:00+08:00",
+      "manifest_url": "packages/github-mzky-itvlist/manifest.json",
+      "region": {
+        "country": "cn",
+        "province": null,
+        "city": null
+      },
+      "operators": [
+        "cn"
+      ],
+      "language": [
+        "zh-CN"
+      ],
+      "categories": [
+        "tv",
+        "央视",
+        "卫视",
+        "体育",
+        "卡通",
+        "少儿"
+      ],
+      "tags": [
+        "IPTV",
+        "央视",
+        "卫视",
+        "体育",
+        "卡通",
+        "少儿",
+        "多源",
+        "动态订阅"
+      ],
+      "status": "stable",
+      "source_origin": "community",
+      "source_policy": "community_index",
+      "risk_level": "low",
+      "importable": true,
+      "previewable": true,
+      "supported_in_v1": true
+    },
+    {
+      "id": "github-imdazui-fujian-unicast",
+      "name": "福建联通单播源",
+      "description": "福建联通 IPTV 单播源，RTSP 流媒体格式，含央视、卫视、厦门本地及购物频道。",
+      "kind": "dynamic_playlist",
+      "version": "2026.05.28",
+      "updated_at": "2026-05-28T00:00:00+08:00",
+      "manifest_url": "packages/github-imdazui-fujian-unicast/manifest.json",
+      "region": {
+        "country": "cn",
+        "province": "福建",
+        "city": null
+      },
+      "operators": [
+        "cn",
+        "联通"
+      ],
+      "language": [
+        "zh-CN"
+      ],
+      "categories": [
+        "tv",
+        "央视",
+        "卫视",
+        "地方台",
+        "购物",
+        "RTSP"
+      ],
+      "tags": [
+        "福建",
+        "联通",
+        "单播",
+        "反代",
+        "IPTV",
+        "央视",
+        "卫视",
+        "动态订阅"
+      ],
+      "status": "stable",
+      "source_origin": "community",
+      "source_policy": "community_index",
+      "risk_level": "low",
+      "importable": true,
+      "previewable": true,
+      "supported_in_v1": true
+    },
+    {
+      "id": "github-vbskycn-iptv4",
+      "name": "vbskycn-综合频道包",
+      "description": "综合 IPTV 频道列表，含央视、卫视、体育、儿童、电影、春晚、风景直播等丰富分类。",
+      "kind": "dynamic_playlist",
+      "version": "2026.05.28",
+      "updated_at": "2026-05-28T00:00:00+08:00",
+      "manifest_url": "packages/github-vbskycn-iptv4/manifest.json",
+      "region": {
+        "country": "cn",
+        "province": null,
+        "city": null
+      },
+      "operators": [
+        "cn"
+      ],
+      "language": [
+        "zh-CN"
+      ],
+      "categories": [
+        "tv",
+        "央视",
+        "卫视",
+        "体育",
+        "儿童",
+        "电影",
+        "风景",
+        "春晚"
+      ],
+      "tags": [
+        "IPTV",
+        "央视",
+        "卫视",
+        "体育",
+        "儿童",
+        "电影",
+        "春晚",
+        "风景直播",
+        "综合",
         "动态订阅"
       ],
       "status": "stable",
