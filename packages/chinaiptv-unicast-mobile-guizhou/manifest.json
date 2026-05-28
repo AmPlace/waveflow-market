@@ -56,7 +56,7 @@
       "type": "playlist",
       "id": "chinaiptv-unicast-mobile-guizhou-txt",
       "name": "贵州移动单播源",
-      "url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-guizhou/packages/chinaiptv-unicast-mobile-guizhou/channels.txt",
+      "url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-guizhou/channels.txt",
       "format": "txt",
       "headers": {
         "User-Agent": "Mozilla/5.0"

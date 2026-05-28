@@ -52,7 +52,7 @@
       "type": "playlist",
       "id": "chinaiptv-unicast-mobile-guangxi-txt",
       "name": "广西移动单播源",
-      "url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-guangxi/packages/chinaiptv-unicast-mobile-guangxi/channels.txt",
+      "url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-guangxi/channels.txt",
       "format": "txt",
       "headers": {
         "User-Agent": "Mozilla/5.0"

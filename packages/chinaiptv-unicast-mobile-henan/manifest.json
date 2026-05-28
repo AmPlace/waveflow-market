@@ -54,7 +54,7 @@
       "type": "playlist",
       "id": "chinaiptv-unicast-mobile-henan-txt",
       "name": "河南移动单播源",
-      "url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-henan/packages/chinaiptv-unicast-mobile-henan/channels.txt",
+      "url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-henan/channels.txt",
       "format": "txt",
       "headers": {
         "User-Agent": "Mozilla/5.0"

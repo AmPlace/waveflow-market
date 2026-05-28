@@ -56,7 +56,7 @@
       "type": "playlist",
       "id": "chinaiptv-unicast-mobile-beijing-txt",
       "name": "北京移动单播源",
-      "url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-beijing/packages/chinaiptv-unicast-mobile-beijing/channels.txt",
+      "url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-beijing/channels.txt",
       "format": "txt",
       "headers": {
         "User-Agent": "Mozilla/5.0"
