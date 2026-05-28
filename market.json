@@ -29,4 +29,36 @@
       "supported_in_v1": true
     }
   ]
+},
+{
+  "schema_version": 1,
+  "market_version": "2026.05.28",
+  "updated_at": "2026-05-28T00:00:00+08:00",
+  "packages": [
+    {
+      "id": "japantv-public",
+      "name": "japan 公开频道包",
+      "description": "从远程 M3U 订阅动态解析 YouTube 频道。",
+      "kind": "dynamic_playlist",
+      "version": "2026.05.28",
+      "updated_at": "2026-05-28T00:00:00+08:00",
+      "manifest_url": "packages/japantv-public/manifest.json",
+      "region": {
+        "country": "jp",
+        "province": null,
+        "city": null
+      },
+      "operators": ["jp"],
+      "language": ["jp-ja"],
+      "categories": ["tv"],
+      "tags": ["YouTube", "动态订阅"],
+      "status": "stable",
+      "source_origin": "community",
+      "source_policy": "community_index",
+      "risk_level": "low",
+      "importable": true,
+      "previewable": true,
+      "supported_in_v1": true
+    }
+  ]
 }
