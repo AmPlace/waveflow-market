@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "id": "waveflow-youtube-cartoon",
+  "name": "YouTube 经典动画频道包",
+  "description": "YouTube 上公开直播的经典动画与童年向动画频道。",
+  "kind": "playlist",
+  "version": "2026.05.28",
+  "updated_at": "2026-05-28T00:00:00+08:00",
+  "region": {
+    "country": "global",
+    "province": null,
+    "city": null
+  },
+  "operators": ["global"],
+  "language": ["en-US"],
+  "categories": ["tv", "kids", "animation"],
+  "tags": ["YouTube", "动画", "经典动画", "24/7", "公开直播", "WaveFlow 官方"],
+  "status": "stable",
+  "source_origin": "official_web",
+  "source_policy": "official_public",
+  "risk_level": "low",
+  "importable": true,
+  "previewable": true,
+  "supported_in_v1": true,
+  "defaults": {
+    "channel": {
+      "region": {
+        "country": "global",
+        "province": null
+      },
+      "operators": ["global"],
+      "language": ["en-US"],
+      "categories": ["kids", "animation"]
+    },
+    "source": {
+      "type": "youtube",
+      "requires_proxy":  false,
+      "headers": {}
+    }
+  },
+  "channel_sources": [
+    {
+      "type": "inline_channels",
+      "channels": [
+        {
+          "id": "yt-mrbean-live-action",
+          "name": "Mr Bean 真人版",
+          "group_name": "YouTube 经典动画",
+          "logo": "",
+          "epg": {
+            "tvg_id": "yt-mrbean-live-action",
+            "tvg_name": "Mr Bean 真人版"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/watch?v=aYco1VpAoWc"
+            }
+          ]
+        },
+        {
+          "id": "yt-wbkids-classic-cartoons",
+          "name": "WB Kids 经典动画",
+          "group_name": "YouTube 经典动画",
+          "logo": "",
+          "epg": {
+            "tvg_id": "yt-wbkids-classic-cartoons",
+            "tvg_name": "WB Kids 经典动画"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/watch?v=3kyl_G6aTRM"
+            }
+          ]
+        },
+        {
+          "id": "yt-tom-jerry-boomerang-uk-1",
+          "name": "猫和老鼠 Boomerang UK",
+          "group_name": "YouTube 经典动画",
+          "logo": "",
+          "epg": {
+            "tvg_id": "yt-tom-jerry-boomerang-uk-1",
+            "tvg_name": "猫和老鼠 Boomerang UK"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/watch?v=_XeGYNTiuSM"
+            }
+          ]
+        },
+        {
+          "id": "yt-mrbean-cartoon-s1",
+          "name": "憨豆先生动画 S1",
+          "group_name": "YouTube 经典动画",
+          "logo": "",
+          "epg": {
+            "tvg_id": "yt-mrbean-cartoon-s1",
+            "tvg_name": "憨豆先生动画 S1"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/watch?v=cMgDo5cH-Lg"
+            }
+          ]
+        },
+        {
+          "id": "yt-tom-jerry-boomerang-uk-2",
+          "name": "猫和老鼠新版马拉松",
+          "group_name": "YouTube 经典动画",
+          "logo": "",
+          "epg": {
+            "tvg_id": "yt-tom-jerry-boomerang-uk-2",
+            "tvg_name": "猫和老鼠新版马拉松"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/watch?v=6a23sxk5_vM"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
