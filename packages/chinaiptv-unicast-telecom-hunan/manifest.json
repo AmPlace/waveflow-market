@@ -1,44 +1,29 @@
 {
   "schema_version": 1,
-  "id": "github-vbskycn-iptv4",
-  "name": "vbskycn-综合频道包",
-  "description": "综合 IPTV 频道列表，含央视、卫视、体育、儿童、电影、春晚、风景直播等丰富分类。",
+  "id": "chinaiptv-unicast-telecom-hunan",
+  "name": "湖南电信IPTV单播源",
+  "description": "湖南地区电信IPTV单播频道列表，含央视, 卫视, 其它等分类，共1个频道。",
   "kind": "dynamic_playlist",
   "version": "2026.05.28",
   "updated_at": "2026-05-28T00:00:00+08:00",
   "region": {
     "country": "cn",
-    "province": null,
+    "province": "湖南",
     "city": null
   },
   "operators": [
-    "cn"
+    "cn",
+    "电信"
   ],
   "language": [
     "zh-CN"
   ],
-  "categories": [
-    "央视",
-    "卫视",
-    "春晚",
-    "电影",
-    "风景",
-    "少儿",
-    "体育",
-    "CHC",
-    "港片"
-  ],
+  "categories": [],
   "tags": [
+    "湖南",
+    "电信",
+    "单播",
     "IPTV",
-    "央视",
-    "卫视",
-    "春晚",
-    "电影",
-    "风景",
-    "少儿",
-    "体育",
-    "CHC",
-    "港片",
     "HLS"
   ],
   "status": "stable",
@@ -58,10 +43,10 @@
   "channel_sources": [
     {
       "type": "playlist",
-      "id": "github-vbskycn-iptv4-m3u",
-      "name": "vbskycn-综合频道 M3U",
-      "url": "https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u",
-      "format": "auto",
+      "id": "chinaiptv-unicast-telecom-hunan-txt",
+      "name": "湖南电信单播源",
+      "url": "packages/chinaiptv-unicast-telecom-hunan/channels.txt",
+      "format": "txt",
       "headers": {
         "User-Agent": "Mozilla/5.0"
       }

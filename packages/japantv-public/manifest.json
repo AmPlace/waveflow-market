@@ -11,10 +11,41 @@
     "province": null,
     "city": null
   },
-  "operators": ["jp"],
-  "language": ["ja-jp"],
-  "categories": ["tv"],
-  "tags": ["日本", "动态订阅"],
+  "operators": [
+    "jp"
+  ],
+  "language": [
+    "ja-jp"
+  ],
+  "categories": [
+    "地上デジタル",
+    "BS放送",
+    "CS放送",
+    "新闻",
+    "电影",
+    "体育",
+    "动漫",
+    "音乐",
+    "韩流",
+    "纪实",
+    "少儿",
+    "剧场"
+  ],
+  "tags": [
+    "日本",
+    "地上デジタル",
+    "BS放送",
+    "CS放送",
+    "新闻",
+    "电影",
+    "体育",
+    "动漫",
+    "音乐",
+    "韩流",
+    "纪实",
+    "少儿",
+    "剧场"
+  ],
   "status": "stable",
   "source_origin": "community",
   "source_policy": "community_index",

@@ -1,46 +1,50 @@
 {
   "schema_version": 1,
-  "id": "github-mzky-itvlist",
-  "name": "mzky-综合频道包",
-  "description": "多源 IPTV 综合频道列表，含央视、卫视、体育、卡通、少儿等多分类，同一频道多个备用源。",
+  "id": "chinaiptv-unicast-mobile-gansu",
+  "name": "甘肃移动IPTV单播源",
+  "description": "甘肃地区移动IPTV单播频道列表，含央视, 卫视, 教育, 地方, 其它等分类，共236个频道。",
   "kind": "dynamic_playlist",
   "version": "2026.05.28",
   "updated_at": "2026-05-28T00:00:00+08:00",
   "region": {
     "country": "cn",
-    "province": null,
+    "province": "甘肃",
     "city": null
   },
   "operators": [
-    "cn"
+    "cn",
+    "移动"
   ],
   "language": [
     "zh-CN"
   ],
   "categories": [
-    "央视",
     "卫视",
+    "央视",
+    "剧场",
+    "体育",
     "少儿",
     "电影",
-    "剧场",
-    "动画",
-    "体育",
-    "戏曲",
-    "港片",
-    "CETV"
+    "甘肃台",
+    "CETV",
+    "纪实",
+    "健康"
   ],
   "tags": [
+    "甘肃",
+    "移动",
+    "单播",
     "IPTV",
-    "央视",
     "卫视",
+    "央视",
+    "剧场",
+    "体育",
     "少儿",
     "电影",
-    "剧场",
-    "动画",
-    "体育",
-    "戏曲",
-    "港片",
+    "甘肃台",
     "CETV",
+    "纪实",
+    "健康",
     "HLS"
   ],
   "status": "stable",
@@ -60,10 +64,10 @@
   "channel_sources": [
     {
       "type": "playlist",
-      "id": "github-mzky-itvlist-m3u",
-      "name": "mzky-综合频道 M3U",
-      "url": "https://raw.githubusercontent.com/mzky/checklist/refs/heads/master/itvlist.m3u",
-      "format": "auto",
+      "id": "chinaiptv-unicast-mobile-gansu-txt",
+      "name": "甘肃移动单播源",
+      "url": "packages/chinaiptv-unicast-mobile-gansu/channels.txt",
+      "format": "txt",
       "headers": {
         "User-Agent": "Mozilla/5.0"
       }

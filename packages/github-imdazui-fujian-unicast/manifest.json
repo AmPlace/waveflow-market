@@ -11,10 +11,38 @@
     "province": "福建",
     "city": null
   },
-  "operators": ["cn", "联通"],
-  "language": ["zh-CN"],
-  "categories": ["tv", "央视", "卫视", "地方台", "购物"],
-  "tags": ["福建", "联通", "单播", "反代", "IPTV", "央视", "卫视", "动态订阅"],
+  "operators": [
+    "cn",
+    "联通"
+  ],
+  "language": [
+    "zh-CN"
+  ],
+  "categories": [
+    "卫视",
+    "央视",
+    "风景",
+    "教育",
+    "少儿",
+    "IPTV增值",
+    "纪实",
+    "剧场"
+  ],
+  "tags": [
+    "福建",
+    "联通",
+    "单播",
+    "IPTV",
+    "卫视",
+    "央视",
+    "风景",
+    "教育",
+    "少儿",
+    "IPTV增值",
+    "纪实",
+    "剧场",
+    "RTSP"
+  ],
   "status": "stable",
   "source_origin": "community",
   "source_policy": "community_index",

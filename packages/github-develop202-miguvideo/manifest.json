@@ -11,10 +11,30 @@
     "province": null,
     "city": null
   },
-  "operators": ["cn"],
-  "language": ["zh-cn"],
-  "categories": ["tv","咪咕","央视","卫视","体育","动漫","纪录片"],
-  "tags": ["中国","咪咕","央视","卫视","体育","动漫","纪录片","动态订阅"],
+  "operators": [
+    "cn"
+  ],
+  "language": [
+    "zh-cn"
+  ],
+  "categories": [
+    "咪咕",
+    "央视",
+    "卫视",
+    "体育",
+    "动漫",
+    "纪实"
+  ],
+  "tags": [
+    "IPTV",
+    "咪咕",
+    "央视",
+    "卫视",
+    "体育",
+    "动漫",
+    "纪实",
+    "HLS"
+  ],
   "status": "stable",
   "source_origin": "community",
   "source_policy": "community_index",
