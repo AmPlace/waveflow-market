@@ -52,6 +52,31 @@
       "importable": true,
       "previewable": true,
       "supported_in_v1": true
+    },
+    {
+      "id": "waveflow-youtube-cartoon",
+      "name": "YouTube 经典动画频道包",
+      "description": "YouTube 上公开直播的经典动画与童年向动画频道。",
+      "kind": "playlist",
+      "version": "2026.05.28",
+      "updated_at": "2026-05-28T00:00:00+08:00",
+      "manifest_url": "packages/waveflow-youtube-cartoon/manifest.json",
+      "region": {
+        "country": "global",
+        "province": null,
+        "city": null
+      },
+      "operators": ["global"],
+      "language": ["en-US"],
+      "categories": ["tv", "kids", "animation"],
+      "tags": ["YouTube", "动画", "经典动画", "24/7", "公开直播"],
+      "status": "stable",
+      "source_origin": "official_web",
+      "source_policy": "official_public",
+      "risk_level": "low",
+      "importable": true,
+      "previewable": true,
+      "supported_in_v1": true
     }
   ]
 }
