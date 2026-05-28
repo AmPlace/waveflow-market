@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "id": "japantv-public",
+  "name": "大善人日本包",
+  "description": "从远程 M3U 订阅动态解析频道。",
+  "kind": "dynamic_playlist",
+  "version": "2026.05.28",
+  "updated_at": "2026-05-28T00:00:00+08:00",
+  "region": {
+    "country": "jp",
+    "province": null,
+    "city": null
+  },
+  "operators": ["jp"],
+  "language": ["ja-jp"],
+  "categories": ["tv"],
+  "tags": ["日本", "动态订阅"],
+  "status": "stable",
+  "source_origin": "community",
+  "source_policy": "community_index",
+  "risk_level": "low",
+  "importable": true,
+  "previewable": true,
+  "supported_in_v1": true,
+  "defaults": {
+    "source": {
+      "type": "HLS",
+      "requires_proxy": false,
+      "headers": {}
+    }
+  },
+  "channel_sources": [
+    {
+      "type": "playlist",
+      "id": "japantv-public-m3u",
+      "name": "Gitflic Japan M3U",
+      "url": "https://gitflic.ru/project/reaperc/jp-iptv/blob/raw?file=JP_Safe_Categories.m3u",
+      "format": "auto",
+      "headers": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    }
+  ]
+}
