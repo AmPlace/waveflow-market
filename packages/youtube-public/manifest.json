@@ -11,10 +11,19 @@
     "province": null,
     "city": null
   },
-  "operators": ["global"],
-  "language": ["zh-CN"],
-  "categories": ["tv"],
-  "tags": ["YouTube", "动态订阅"],
+  "operators": [
+    "global"
+  ],
+  "language": [
+    "zh-CN"
+  ],
+  "categories": [
+    "tv"
+  ],
+  "tags": [
+    "YouTube",
+    "动态订阅"
+  ],
   "status": "stable",
   "source_origin": "community",
   "source_policy": "community_index",

@@ -11,10 +11,25 @@
     "province": null,
     "city": null
   },
-  "operators": ["global"],
-  "language": ["en-US"],
-  "categories": ["tv", "kids", "animation"],
-  "tags": ["YouTube", "动画", "经典动画", "24/7", "公开直播", "WaveFlow 官方"],
+  "operators": [
+    "global"
+  ],
+  "language": [
+    "en-US"
+  ],
+  "categories": [
+    "tv",
+    "kids",
+    "animation"
+  ],
+  "tags": [
+    "YouTube",
+    "动画",
+    "经典动画",
+    "24/7",
+    "公开直播",
+    "WaveFlow 官方"
+  ],
   "status": "stable",
   "source_origin": "official_web",
   "source_policy": "official_public",
@@ -28,13 +43,20 @@
         "country": "global",
         "province": null
       },
-      "operators": ["global"],
-      "language": ["en-US"],
-      "categories": ["kids", "animation"]
+      "operators": [
+        "global"
+      ],
+      "language": [
+        "en-US"
+      ],
+      "categories": [
+        "kids",
+        "animation"
+      ]
     },
     "source": {
       "type": "youtube",
-      "requires_proxy":  false,
+      "requires_proxy": false,
       "headers": {}
     }
   },
@@ -117,7 +139,8 @@
             }
           ]
         }
-      ]
+      ],
+      "url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/waveflow-youtube-cartoon/"
     }
   ]
 }

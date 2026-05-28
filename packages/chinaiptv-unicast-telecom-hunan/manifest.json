@@ -45,7 +45,7 @@
       "type": "playlist",
       "id": "chinaiptv-unicast-telecom-hunan-txt",
       "name": "湖南电信单播源",
-      "url": "packages/chinaiptv-unicast-telecom-hunan/channels.txt",
+      "url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-telecom-hunan/packages/chinaiptv-unicast-telecom-hunan/channels.txt",
       "format": "txt",
       "headers": {
         "User-Agent": "Mozilla/5.0"

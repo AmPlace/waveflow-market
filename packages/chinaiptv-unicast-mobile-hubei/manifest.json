@@ -56,7 +56,7 @@
       "type": "playlist",
       "id": "chinaiptv-unicast-mobile-hubei-txt",
       "name": "湖北移动单播源",
-      "url": "packages/chinaiptv-unicast-mobile-hubei/channels.txt",
+      "url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-hubei/packages/chinaiptv-unicast-mobile-hubei/channels.txt",
       "format": "txt",
       "headers": {
         "User-Agent": "Mozilla/5.0"

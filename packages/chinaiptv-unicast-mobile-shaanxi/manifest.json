@@ -70,7 +70,7 @@
       "type": "playlist",
       "id": "chinaiptv-unicast-mobile-shaanxi-txt",
       "name": "陕西移动单播源",
-      "url": "packages/chinaiptv-unicast-mobile-shaanxi/channels.txt",
+      "url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-shaanxi/packages/chinaiptv-unicast-mobile-shaanxi/channels.txt",
       "format": "txt",
       "headers": {
         "User-Agent": "Mozilla/5.0"

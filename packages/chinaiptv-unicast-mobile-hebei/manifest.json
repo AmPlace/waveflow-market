@@ -50,7 +50,7 @@
       "type": "playlist",
       "id": "chinaiptv-unicast-mobile-hebei-txt",
       "name": "河北移动单播源",
-      "url": "packages/chinaiptv-unicast-mobile-hebei/channels.txt",
+      "url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-hebei/packages/chinaiptv-unicast-mobile-hebei/channels.txt",
       "format": "txt",
       "headers": {
         "User-Agent": "Mozilla/5.0"

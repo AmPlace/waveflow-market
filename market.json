@@ -10,7 +10,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/youtube-public/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/youtube-public/manifest.json",
       "region": {
         "country": "global",
         "province": null,
@@ -44,7 +44,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/japantv-public/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/japantv-public/manifest.json",
       "region": {
         "country": "JP",
         "province": null,
@@ -100,7 +100,7 @@
       "kind": "playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/waveflow-youtube-cartoon/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/waveflow-youtube-cartoon/manifest.json",
       "region": {
         "country": "global",
         "province": null,
@@ -139,7 +139,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/github-develop202-miguvideo/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/github-develop202-miguvideo/manifest.json",
       "region": {
         "country": "cn",
         "province": null,
@@ -184,7 +184,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/github-mzky-itvlist/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/github-mzky-itvlist/manifest.json",
       "region": {
         "country": "cn",
         "province": null,
@@ -237,7 +237,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/github-imdazui-fujian-unicast/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/github-imdazui-fujian-unicast/manifest.json",
       "region": {
         "country": "cn",
         "province": "福建",
@@ -290,7 +290,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/github-vbskycn-iptv4/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/github-vbskycn-iptv4/manifest.json",
       "region": {
         "country": "cn",
         "province": null,
@@ -341,7 +341,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-unicom-anhui/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-unicom-anhui/manifest.json",
       "region": {
         "country": "cn",
         "province": "安徽",
@@ -388,7 +388,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-mobile-anhui/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-anhui/manifest.json",
       "region": {
         "country": "cn",
         "province": "安徽",
@@ -453,7 +453,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-telecom-anhui/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-telecom-anhui/manifest.json",
       "region": {
         "country": "cn",
         "province": "安徽",
@@ -508,7 +508,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-mobile-beijing/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-beijing/manifest.json",
       "region": {
         "country": "cn",
         "province": "北京",
@@ -555,7 +555,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-mobile-fujian/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-fujian/manifest.json",
       "region": {
         "country": "cn",
         "province": "福建",
@@ -608,7 +608,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-mobile-gansu/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-gansu/manifest.json",
       "region": {
         "country": "cn",
         "province": "甘肃",
@@ -665,7 +665,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-mobile-guangxi/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-guangxi/manifest.json",
       "region": {
         "country": "cn",
         "province": "广西",
@@ -708,7 +708,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-mobile-guizhou/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-guizhou/manifest.json",
       "region": {
         "country": "cn",
         "province": "贵州",
@@ -755,7 +755,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-mobile-hebei/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-hebei/manifest.json",
       "region": {
         "country": "cn",
         "province": "河北",
@@ -796,7 +796,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-mobile-heilongjiang/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-heilongjiang/manifest.json",
       "region": {
         "country": "cn",
         "province": "黑龙江",
@@ -845,7 +845,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-mobile-henan/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-henan/manifest.json",
       "region": {
         "country": "cn",
         "province": "河南",
@@ -890,7 +890,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-mobile-hubei/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-hubei/manifest.json",
       "region": {
         "country": "cn",
         "province": "湖北",
@@ -937,7 +937,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-telecom-hunan/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-telecom-hunan/manifest.json",
       "region": {
         "country": "cn",
         "province": "湖南",
@@ -973,7 +973,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-unicom-jiangxi/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-unicom-jiangxi/manifest.json",
       "region": {
         "country": "cn",
         "province": "江西",
@@ -1034,7 +1034,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-mobile-jiangxi/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-jiangxi/manifest.json",
       "region": {
         "country": "cn",
         "province": "江西",
@@ -1095,7 +1095,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-mobile-liaoning/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-liaoning/manifest.json",
       "region": {
         "country": "cn",
         "province": "辽宁",
@@ -1138,7 +1138,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-telecom-liaoning/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-telecom-liaoning/manifest.json",
       "region": {
         "country": "cn",
         "province": "辽宁",
@@ -1191,7 +1191,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-mobile-neimenggu/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-neimenggu/manifest.json",
       "region": {
         "country": "cn",
         "province": "内蒙古",
@@ -1240,7 +1240,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-telecom-neimenggu/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-telecom-neimenggu/manifest.json",
       "region": {
         "country": "cn",
         "province": "内蒙古",
@@ -1285,7 +1285,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-mobile-shaanxi/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-shaanxi/manifest.json",
       "region": {
         "country": "cn",
         "province": "陕西",
@@ -1346,7 +1346,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-mobile-shandong/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-shandong/manifest.json",
       "region": {
         "country": "cn",
         "province": "山东",
@@ -1409,7 +1409,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-telecom-shandong/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-telecom-shandong/manifest.json",
       "region": {
         "country": "cn",
         "province": "山东",
@@ -1466,7 +1466,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-mobile-shanghai/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-shanghai/manifest.json",
       "region": {
         "country": "cn",
         "province": "上海",
@@ -1509,7 +1509,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-unicom-sichuan/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-unicom-sichuan/manifest.json",
       "region": {
         "country": "cn",
         "province": "四川",
@@ -1554,7 +1554,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-mobile-yunnan/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-yunnan/manifest.json",
       "region": {
         "country": "cn",
         "province": "云南",
@@ -1603,7 +1603,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-unicom-zhejiang/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-unicom-zhejiang/manifest.json",
       "region": {
         "country": "cn",
         "province": "浙江",
@@ -1648,7 +1648,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "packages/chinaiptv-unicast-mobile-zhejiang/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-zhejiang/manifest.json",
       "region": {
         "country": "cn",
         "province": "浙江",
