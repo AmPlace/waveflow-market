@@ -1693,6 +1693,45 @@
       "importable": true,
       "previewable": true,
       "supported_in_v1": true
+    },
+    {
+      "id": "waveflow-country-hk",
+      "name": "WaveFlow HK",
+      "description": "包含香港本地直播源",
+      "kind": "dynamic_playlist",
+      "version": "2026.05.28",
+      "updated_at": "2026-05-28T00:00:00+08:00",
+      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/waveflow-country-hk/manifest.json",
+      "region": {
+        "country": "HK",
+        "province": null,
+        "city": null
+      },
+      "operators": [
+        "香港"
+      ],
+      "language": [
+        "zh-HK"
+      ],
+      "categories": [
+        "tv",
+        "HK",
+        "香港台",
+        "香港"
+      ],
+      "tags": [
+        "tv",
+        "HK",
+        "香港台",
+        "香港"
+      ],
+      "status": "stable",
+      "source_origin": "community",
+      "source_policy": "community_index",
+      "risk_level": "low",
+      "importable": true,
+      "previewable": true,
+      "supported_in_v1": true
     }
   ]
 }
