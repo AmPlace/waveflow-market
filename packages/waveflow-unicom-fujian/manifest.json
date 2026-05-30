@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "waveflow-unicom-fujian",
+  "name": "福建联通反代",
+  "description": "福建联通 IPTV 反代源，RTSP 流媒体格式，含央视、卫视、厦门本地及购物频道。",
+  "kind": "dynamic_playlist",
+  "version": "2026.05.28",
+  "updated_at": "2026-05-28T00:00:00+08:00",
+  "region": {
+    "country": "cn",
+    "province": "福建",
+    "city": null
+  },
+  "operators": [
+    "cn",
+    "联通"
+  ],
+  "language": [
+    "zh-CN"
+  ],
+  "categories": [
+    "卫视",
+    "央视",
+    "风景",
+    "教育",
+    "少儿",
+    "IPTV增值",
+    "纪实",
+    "剧场"
+  ],
+  "tags": [
+    "福建",
+    "联通",
+    "反代",
+    "IPTV",
+    "卫视",
+    "央视",
+    "风景",
+    "教育",
+    "少儿",
+    "IPTV增值",
+    "纪实",
+    "剧场",
+    "RTSP"
+  ],
+  "status": "stable",
+  "source_origin": "community",
+  "source_policy": "community_index",
+  "risk_level": "low",
+  "importable": true,
+  "previewable": true,
+  "supported_in_v1": true,
+  "defaults": {
+    "source": {
+      "type": "RTSP",
+      "requires_proxy": true,
+      "headers": {}
+    }
+  },
+  "channel_sources": [
+    {
+      "type": "playlist",
+      "id": "waveflow-unicom-fujian",
+      "name": "福建联通反代源 M3U",
+      "url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/waveflow-unicom-fujian/channels.m3u",
+      "headers": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    }
+  ]
+}
