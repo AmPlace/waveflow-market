@@ -48,7 +48,7 @@
       "type": "playlist",
       "id": "waveflow-country-hk",
       "name": "WaveFlow HK",
-      "url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/waveflow-country-hk/channels.txt",
+      "url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/waveflow-country-hk/channels.m3u",
       "format": "auto",
       "headers": {
         "User-Agent": "Mozilla/5.0"
