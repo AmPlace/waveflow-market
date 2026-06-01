@@ -124,6 +124,21 @@
             }
           ]
         },
+          {
+          "id": "yt-tom-jerry-warnerbros-claccical-20th",
+          "name": "猫和老鼠旧版",
+          "group_name": "YouTube 经典动画",
+          "logo": "",
+          "epg": {
+            "tvg_id": "yt-tom-jerry-warnerbros-claccical-20th",
+            "tvg_name": "猫和老鼠旧版"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/watch?v=400k2SKoeh4"
+            }
+          ]
+        },
         {
           "id": "yt-tom-jerry-boomerang-uk-2",
           "name": "猫和老鼠新版马拉松",
