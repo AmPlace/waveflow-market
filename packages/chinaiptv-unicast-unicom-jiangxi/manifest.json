@@ -2,62 +2,9 @@
   "schema_version": 1,
   "id": "chinaiptv-unicast-unicom-jiangxi",
   "name": "江西联通IPTV单播源",
-  "description": "江西地区联通IPTV单播频道列表，含央视频道, 卫视高清频道, 江西当地频道, 咪咕视频频道, 纪实频道, 少儿频道, 购物频道, 电影频道, 剧场频道, 综艺频道, 港澳台, 其他频道等分类，共168个频道。",
   "kind": "dynamic_playlist",
   "version": "2026.05.28",
   "updated_at": "2026-05-28T00:00:00+08:00",
-  "region": {
-    "country": "cn",
-    "province": "江西",
-    "city": null
-  },
-  "operators": [
-    "cn",
-    "联通"
-  ],
-  "language": [
-    "zh-CN"
-  ],
-  "categories": [
-    "卫视",
-    "央视",
-    "少儿",
-    "剧场",
-    "购物",
-    "纪实",
-    "江西台",
-    "体育",
-    "CETV",
-    "咪咕",
-    "电影",
-    "综艺"
-  ],
-  "tags": [
-    "江西",
-    "联通",
-    "单播",
-    "IPTV",
-    "卫视",
-    "央视",
-    "少儿",
-    "剧场",
-    "购物",
-    "纪实",
-    "江西台",
-    "体育",
-    "CETV",
-    "咪咕",
-    "电影",
-    "综艺",
-    "HLS"
-  ],
-  "status": "stable",
-  "source_origin": "community",
-  "source_policy": "community_index",
-  "risk_level": "low",
-  "importable": true,
-  "previewable": true,
-  "supported_in_v1": true,
   "defaults": {
     "source": {
       "type": "HLS",

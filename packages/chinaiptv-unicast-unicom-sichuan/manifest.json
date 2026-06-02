@@ -2,46 +2,9 @@
   "schema_version": 1,
   "id": "chinaiptv-unicast-unicom-sichuan",
   "name": "四川联通IPTV单播源",
-  "description": "四川地区联通IPTV单播频道列表，含央视, 卫视, 其它等分类，共67个频道。",
   "kind": "dynamic_playlist",
   "version": "2026.05.28",
   "updated_at": "2026-05-28T00:00:00+08:00",
-  "region": {
-    "country": "cn",
-    "province": "四川",
-    "city": null
-  },
-  "operators": [
-    "cn",
-    "联通"
-  ],
-  "language": [
-    "zh-CN"
-  ],
-  "categories": [
-    "卫视",
-    "央视",
-    "四川台",
-    "CETV"
-  ],
-  "tags": [
-    "四川",
-    "联通",
-    "单播",
-    "IPTV",
-    "卫视",
-    "央视",
-    "四川台",
-    "CETV",
-    "HLS"
-  ],
-  "status": "stable",
-  "source_origin": "community",
-  "source_policy": "community_index",
-  "risk_level": "low",
-  "importable": true,
-  "previewable": true,
-  "supported_in_v1": true,
   "defaults": {
     "source": {
       "type": "HLS",

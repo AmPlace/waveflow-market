@@ -2,46 +2,9 @@
   "schema_version": 1,
   "id": "chinaiptv-unicast-telecom-neimenggu",
   "name": "内蒙古电信IPTV单播源",
-  "description": "内蒙古地区电信IPTV单播频道列表，含央视, 卫视, 教育, 地方, 其它等分类，共1个频道。",
   "kind": "dynamic_playlist",
   "version": "2026.05.28",
   "updated_at": "2026-05-28T00:00:00+08:00",
-  "region": {
-    "country": "cn",
-    "province": "内蒙古",
-    "city": null
-  },
-  "operators": [
-    "cn",
-    "电信"
-  ],
-  "language": [
-    "zh-CN"
-  ],
-  "categories": [
-    "卫视",
-    "央视",
-    "内蒙古台",
-    "CHC"
-  ],
-  "tags": [
-    "内蒙古",
-    "电信",
-    "单播",
-    "IPTV",
-    "卫视",
-    "央视",
-    "内蒙古台",
-    "CHC",
-    "HLS/RTSP"
-  ],
-  "status": "stable",
-  "source_origin": "community",
-  "source_policy": "community_index",
-  "risk_level": "low",
-  "importable": true,
-  "previewable": true,
-  "supported_in_v1": true,
   "defaults": {
     "source": {
       "type": "HLS/RTSP",

@@ -2,54 +2,9 @@
   "schema_version": 1,
   "id": "chinaiptv-unicast-telecom-liaoning",
   "name": "辽宁电信IPTV单播源",
-  "description": "辽宁地区电信IPTV单播频道列表，含央视, 卫视, 教育, 地方, 其它等分类，共117个频道。",
   "kind": "dynamic_playlist",
   "version": "2026.05.28",
   "updated_at": "2026-05-28T00:00:00+08:00",
-  "region": {
-    "country": "cn",
-    "province": "辽宁",
-    "city": null
-  },
-  "operators": [
-    "cn",
-    "电信"
-  ],
-  "language": [
-    "zh-CN"
-  ],
-  "categories": [
-    "卫视",
-    "央视",
-    "辽宁台",
-    "少儿",
-    "剧场",
-    "体育",
-    "纪实",
-    "CHC"
-  ],
-  "tags": [
-    "辽宁",
-    "电信",
-    "单播",
-    "IPTV",
-    "卫视",
-    "央视",
-    "辽宁台",
-    "少儿",
-    "剧场",
-    "体育",
-    "纪实",
-    "CHC",
-    "HLS"
-  ],
-  "status": "stable",
-  "source_origin": "community",
-  "source_policy": "community_index",
-  "risk_level": "low",
-  "importable": true,
-  "previewable": true,
-  "supported_in_v1": true,
   "defaults": {
     "source": {
       "type": "HLS",

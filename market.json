@@ -4,393 +4,15 @@
   "updated_at": "2026-05-28T00:00:00+08:00",
   "packages": [
     {
-      "id": "youtube-public",
-      "name": "YouTube 公开频道包",
-      "description": "从远程 M3U 订阅动态解析 YouTube 公开频道。",
-      "kind": "dynamic_playlist",
-      "version": "2026.05.28",
-      "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/youtube-public/manifest.json",
-      "region": {
-        "country": "global",
-        "province": null,
-        "city": null
-      },
-      "operators": [
-        "global"
-      ],
-      "language": [
-        "zh-CN"
-      ],
-      "categories": [
-        "tv"
-      ],
-      "tags": [
-        "YouTube",
-        "动态订阅"
-      ],
-      "status": "stable",
-      "source_origin": "community",
-      "source_policy": "community_index",
-      "risk_level": "low",
-      "importable": true,
-      "previewable": true,
-      "supported_in_v1": true
-    },
-    {
-      "id": "japantv-public",
-      "name": "日本公开频道包",
-      "description": "从远程 M3U 订阅动态解析日本公开频道。",
-      "kind": "dynamic_playlist",
-      "version": "2026.05.28",
-      "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/japantv-public/manifest.json",
-      "region": {
-        "country": "JP",
-        "province": null,
-        "city": null
-      },
-      "operators": [
-        "jp"
-      ],
-      "language": [
-        "ja-JP"
-      ],
-      "categories": [
-        "地上デジタル",
-        "BS放送",
-        "CS放送",
-        "新闻",
-        "电影",
-        "体育",
-        "动漫",
-        "音乐",
-        "韩流",
-        "纪实",
-        "少儿",
-        "剧场"
-      ],
-      "tags": [
-        "日本",
-        "地上デジタル",
-        "BS放送",
-        "CS放送",
-        "新闻",
-        "电影",
-        "体育",
-        "动漫",
-        "音乐",
-        "韩流",
-        "纪实",
-        "少儿",
-        "剧场"
-      ],
-      "status": "stable",
-      "source_origin": "community",
-      "source_policy": "community_index",
-      "risk_level": "low",
-      "importable": true,
-      "previewable": true,
-      "supported_in_v1": true
-    },
-    {
-      "id": "waveflow-youtube-cartoon",
-      "name": "YouTube 经典动画频道包",
-      "description": "YouTube 上公开直播的经典动画与童年向动画频道。",
-      "kind": "playlist",
-      "version": "2026.05.28",
-      "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/waveflow-youtube-cartoon/manifest.json",
-      "region": {
-        "country": "global",
-        "province": null,
-        "city": null
-      },
-      "operators": [
-        "global"
-      ],
-      "language": [
-        "en-US"
-      ],
-      "categories": [
-        "tv",
-        "kids",
-        "animation"
-      ],
-      "tags": [
-        "YouTube",
-        "动画",
-        "经典动画",
-        "24/7",
-        "公开直播"
-      ],
-      "status": "stable",
-      "source_origin": "official_web",
-      "source_policy": "official_public",
-      "risk_level": "low",
-      "importable": true,
-      "previewable": true,
-      "supported_in_v1": true
-    },
-    {
-      "id": "github-develop202-miguvideo",
-      "name": "develop202-咪咕频道包",
-      "description": "包含央视/地方卫视、体育、动漫、纪录片等多个分类的咪咕视频公开频道",
-      "kind": "dynamic_playlist",
-      "version": "2026.05.28",
-      "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/github-develop202-miguvideo/manifest.json",
-      "region": {
-        "country": "cn",
-        "province": null,
-        "city": null
-      },
-      "operators": [
-        "cn"
-      ],
-      "language": [
-        "zh-cn"
-      ],
-      "categories": [
-        "咪咕",
-        "央视",
-        "卫视",
-        "体育",
-        "动漫",
-        "纪实"
-      ],
-      "tags": [
-        "IPTV",
-        "咪咕",
-        "央视",
-        "卫视",
-        "体育",
-        "动漫",
-        "纪实",
-        "HLS"
-      ],
-      "status": "stable",
-      "source_origin": "community",
-      "source_policy": "community_index",
-      "risk_level": "low",
-      "importable": true,
-      "previewable": true,
-      "supported_in_v1": true
-    },
-    {
-      "id": "github-mzky-itvlist",
-      "name": "mzky-综合频道包",
-      "description": "多源 IPTV 综合频道列表，含央视、卫视、体育、卡通、少儿等多分类，同一频道多个备用源。",
-      "kind": "dynamic_playlist",
-      "version": "2026.05.28",
-      "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/github-mzky-itvlist/manifest.json",
-      "region": {
-        "country": "cn",
-        "province": null,
-        "city": null
-      },
-      "operators": [
-        "cn"
-      ],
-      "language": [
-        "zh-CN"
-      ],
-      "categories": [
-        "央视",
-        "卫视",
-        "少儿",
-        "电影",
-        "剧场",
-        "动画",
-        "体育",
-        "戏曲",
-        "港片",
-        "CETV"
-      ],
-      "tags": [
-        "IPTV",
-        "央视",
-        "卫视",
-        "少儿",
-        "电影",
-        "剧场",
-        "动画",
-        "体育",
-        "戏曲",
-        "港片",
-        "CETV",
-        "HLS"
-      ],
-      "status": "stable",
-      "source_origin": "community",
-      "source_policy": "community_index",
-      "risk_level": "low",
-      "importable": true,
-      "previewable": true,
-      "supported_in_v1": true
-    },
-    {
-      "id": "github-imdazui-fujian-unicast",
-      "name": "福建联通单播源",
-      "description": "福建联通 IPTV 单播源，RTSP 流媒体格式，含央视、卫视、厦门本地及购物频道。",
-      "kind": "dynamic_playlist",
-      "version": "2026.05.28",
-      "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/github-imdazui-fujian-unicast/manifest.json",
-      "region": {
-        "country": "cn",
-        "province": "福建",
-        "city": null
-      },
-      "operators": [
-        "cn",
-        "联通"
-      ],
-      "language": [
-        "zh-CN"
-      ],
-      "categories": [
-        "卫视",
-        "央视",
-        "风景",
-        "教育",
-        "少儿",
-        "IPTV增值",
-        "纪实",
-        "剧场"
-      ],
-      "tags": [
-        "福建",
-        "联通",
-        "单播",
-        "IPTV",
-        "卫视",
-        "央视",
-        "风景",
-        "教育",
-        "少儿",
-        "IPTV增值",
-        "纪实",
-        "剧场",
-        "RTSP"
-      ],
-      "status": "stable",
-      "source_origin": "community",
-      "source_policy": "community_index",
-      "risk_level": "low",
-      "importable": true,
-      "previewable": true,
-      "supported_in_v1": true
-    },
-    {
-      "id": "github-vbskycn-iptv4",
-      "name": "vbskycn-综合频道包",
-      "description": "综合 IPTV 频道列表，含央视、卫视、体育、儿童、电影、春晚、风景直播等丰富分类。",
-      "kind": "dynamic_playlist",
-      "version": "2026.05.28",
-      "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/github-vbskycn-iptv4/manifest.json",
-      "region": {
-        "country": "cn",
-        "province": null,
-        "city": null
-      },
-      "operators": [
-        "cn"
-      ],
-      "language": [
-        "zh-CN"
-      ],
-      "categories": [
-        "央视",
-        "卫视",
-        "春晚",
-        "电影",
-        "风景",
-        "少儿",
-        "体育",
-        "CHC",
-        "港片"
-      ],
-      "tags": [
-        "IPTV",
-        "央视",
-        "卫视",
-        "春晚",
-        "电影",
-        "风景",
-        "少儿",
-        "体育",
-        "CHC",
-        "港片",
-        "HLS"
-      ],
-      "status": "stable",
-      "source_origin": "community",
-      "source_policy": "community_index",
-      "risk_level": "low",
-      "importable": true,
-      "previewable": true,
-      "supported_in_v1": true
-    },
-    {
-      "id": "chinaiptv-unicast-unicom-anhui",
-      "name": "安徽联通IPTV单播源",
-      "description": "安徽地区联通IPTV单播频道列表，共69个频道。",
-      "kind": "dynamic_playlist",
-      "version": "2026.05.28",
-      "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-unicom-anhui/manifest.json",
-      "region": {
-        "country": "cn",
-        "province": "安徽",
-        "city": null
-      },
-      "operators": [
-        "cn",
-        "联通"
-      ],
-      "language": [
-        "zh-CN"
-      ],
-      "categories": [
-        "卫视",
-        "央视",
-        "安徽台",
-        "IPTV增值",
-        "CETV"
-      ],
-      "tags": [
-        "安徽",
-        "联通",
-        "单播",
-        "IPTV",
-        "卫视",
-        "央视",
-        "安徽台",
-        "IPTV增值",
-        "CETV",
-        "HLS/HTTP"
-      ],
-      "status": "stable",
-      "source_origin": "community",
-      "source_policy": "community_index",
-      "risk_level": "low",
-      "importable": true,
-      "previewable": true,
-      "supported_in_v1": true
-    },
-    {
       "id": "chinaiptv-unicast-mobile-anhui",
       "name": "安徽移动IPTV单播源",
-      "description": "安徽地区移动IPTV单播频道列表，共617个频道。",
+      "description": "安徽地区移动IPTV单播频道列表，含央视, 卫视, 教育, 地方, 其它等分类，共617个频道。",
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-anhui/manifest.json",
+      "manifest_url": "packages/chinaiptv-unicast-mobile-anhui/manifest.json",
       "region": {
-        "country": "cn",
+        "country": "CN",
         "province": "安徽",
         "city": null
       },
@@ -444,73 +66,26 @@
       "risk_level": "low",
       "importable": true,
       "previewable": true,
-      "supported_in_v1": true
-    },
-    {
-      "id": "chinaiptv-unicast-telecom-anhui",
-      "name": "安徽电信IPTV单播源",
-      "description": "安徽地区电信IPTV单播频道列表，共109个频道。",
-      "kind": "dynamic_playlist",
-      "version": "2026.05.28",
-      "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-telecom-anhui/manifest.json",
-      "region": {
-        "country": "cn",
-        "province": "安徽",
-        "city": null
-      },
-      "operators": [
-        "cn",
-        "电信"
-      ],
-      "language": [
-        "zh-CN"
-      ],
-      "categories": [
-        "卫视",
-        "央视",
-        "少儿",
-        "外省台",
-        "剧场",
-        "财经",
-        "教育",
-        "CETV",
-        "体育"
-      ],
-      "tags": [
-        "安徽",
-        "电信",
-        "单播",
-        "IPTV",
-        "卫视",
-        "央视",
-        "少儿",
-        "外省台",
-        "剧场",
-        "财经",
-        "教育",
-        "CETV",
-        "体育",
-        "HLS"
-      ],
-      "status": "stable",
-      "source_origin": "community",
-      "source_policy": "community_index",
-      "risk_level": "low",
-      "importable": true,
-      "previewable": true,
-      "supported_in_v1": true
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 617,
+      "source_count": 1
     },
     {
       "id": "chinaiptv-unicast-mobile-beijing",
       "name": "北京移动IPTV单播源",
-      "description": "北京地区移动IPTV单播频道列表，共75个频道。",
+      "description": "北京地区移动IPTV单播频道列表，含央视, 卫视, 教育, 地方, 其它等分类，共75个频道。",
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-beijing/manifest.json",
+      "manifest_url": "packages/chinaiptv-unicast-mobile-beijing/manifest.json",
       "region": {
-        "country": "cn",
+        "country": "CN",
         "province": "北京",
         "city": null
       },
@@ -546,18 +121,26 @@
       "risk_level": "low",
       "importable": true,
       "previewable": true,
-      "supported_in_v1": true
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 75,
+      "source_count": 1
     },
     {
       "id": "chinaiptv-unicast-mobile-fujian",
       "name": "福建移动IPTV单播源",
-      "description": "福建地区移动IPTV单播频道列表，共238个频道。",
+      "description": "福建地区移动IPTV单播频道列表，含央视, 卫视, 教育, 地方, 其它等分类，共238个频道。",
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-fujian/manifest.json",
+      "manifest_url": "packages/chinaiptv-unicast-mobile-fujian/manifest.json",
       "region": {
-        "country": "cn",
+        "country": "CN",
         "province": "福建",
         "city": null
       },
@@ -599,18 +182,26 @@
       "risk_level": "low",
       "importable": true,
       "previewable": true,
-      "supported_in_v1": true
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 238,
+      "source_count": 1
     },
     {
       "id": "chinaiptv-unicast-mobile-gansu",
       "name": "甘肃移动IPTV单播源",
-      "description": "甘肃地区移动IPTV单播频道列表，共236个频道。",
+      "description": "甘肃地区移动IPTV单播频道列表，含央视, 卫视, 教育, 地方, 其它等分类，共236个频道。",
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-gansu/manifest.json",
+      "manifest_url": "packages/chinaiptv-unicast-mobile-gansu/manifest.json",
       "region": {
-        "country": "cn",
+        "country": "CN",
         "province": "甘肃",
         "city": null
       },
@@ -656,18 +247,26 @@
       "risk_level": "low",
       "importable": true,
       "previewable": true,
-      "supported_in_v1": true
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 236,
+      "source_count": 1
     },
     {
       "id": "chinaiptv-unicast-mobile-guangxi",
       "name": "广西移动IPTV单播源",
-      "description": "广西地区移动IPTV单播频道列表，共111个频道。",
+      "description": "广西地区移动IPTV单播频道列表，含移动, 卫视频道等分类，共111个频道。",
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-guangxi/manifest.json",
+      "manifest_url": "packages/chinaiptv-unicast-mobile-guangxi/manifest.json",
       "region": {
-        "country": "cn",
+        "country": "CN",
         "province": "广西",
         "city": null
       },
@@ -699,18 +298,26 @@
       "risk_level": "low",
       "importable": true,
       "previewable": true,
-      "supported_in_v1": true
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 111,
+      "source_count": 1
     },
     {
       "id": "chinaiptv-unicast-mobile-guizhou",
       "name": "贵州移动IPTV单播源",
-      "description": "贵州地区移动IPTV单播频道列表，共196个频道。",
+      "description": "贵州地区移动IPTV单播频道列表，含央视, 卫视, 教育, 地方, 其它等分类，共196个频道。",
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-guizhou/manifest.json",
+      "manifest_url": "packages/chinaiptv-unicast-mobile-guizhou/manifest.json",
       "region": {
-        "country": "cn",
+        "country": "CN",
         "province": "贵州",
         "city": null
       },
@@ -746,18 +353,26 @@
       "risk_level": "low",
       "importable": true,
       "previewable": true,
-      "supported_in_v1": true
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 196,
+      "source_count": 1
     },
     {
       "id": "chinaiptv-unicast-mobile-hebei",
       "name": "河北移动IPTV单播源",
-      "description": "河北地区移动IPTV单播频道列表，共49个频道。",
+      "description": "河北地区移动IPTV单播频道列表，含央视, 卫视, 其它等分类，共49个频道。",
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-hebei/manifest.json",
+      "manifest_url": "packages/chinaiptv-unicast-mobile-hebei/manifest.json",
       "region": {
-        "country": "cn",
+        "country": "CN",
         "province": "河北",
         "city": null
       },
@@ -787,18 +402,26 @@
       "risk_level": "low",
       "importable": true,
       "previewable": true,
-      "supported_in_v1": true
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 49,
+      "source_count": 1
     },
     {
       "id": "chinaiptv-unicast-mobile-heilongjiang",
       "name": "黑龙江移动IPTV单播源",
-      "description": "黑龙江地区移动IPTV单播频道列表，共92个频道。",
+      "description": "黑龙江地区移动IPTV单播频道列表，含央视, 卫视, 其它等分类，共92个频道。",
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-heilongjiang/manifest.json",
+      "manifest_url": "packages/chinaiptv-unicast-mobile-heilongjiang/manifest.json",
       "region": {
-        "country": "cn",
+        "country": "CN",
         "province": "黑龙江",
         "city": null
       },
@@ -836,18 +459,26 @@
       "risk_level": "low",
       "importable": true,
       "previewable": true,
-      "supported_in_v1": true
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 92,
+      "source_count": 1
     },
     {
       "id": "chinaiptv-unicast-mobile-henan",
       "name": "河南移动IPTV单播源",
-      "description": "河南地区移动IPTV单播频道列表，共66个频道。",
+      "description": "河南地区移动IPTV单播频道列表，含央视, 卫视, 其它等分类，共66个频道。",
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-henan/manifest.json",
+      "manifest_url": "packages/chinaiptv-unicast-mobile-henan/manifest.json",
       "region": {
-        "country": "cn",
+        "country": "CN",
         "province": "河南",
         "city": null
       },
@@ -881,18 +512,26 @@
       "risk_level": "low",
       "importable": true,
       "previewable": true,
-      "supported_in_v1": true
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 66,
+      "source_count": 1
     },
     {
       "id": "chinaiptv-unicast-mobile-hubei",
       "name": "湖北移动IPTV单播源",
-      "description": "湖北地区移动IPTV单播频道列表，共159个频道。",
+      "description": "湖北地区移动IPTV单播频道列表，含央视, 卫视, 其它等分类，共159个频道。",
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-hubei/manifest.json",
+      "manifest_url": "packages/chinaiptv-unicast-mobile-hubei/manifest.json",
       "region": {
-        "country": "cn",
+        "country": "CN",
         "province": "湖北",
         "city": null
       },
@@ -928,115 +567,26 @@
       "risk_level": "low",
       "importable": true,
       "previewable": true,
-      "supported_in_v1": true
-    },
-    {
-      "id": "chinaiptv-unicast-telecom-hunan",
-      "name": "湖南电信IPTV单播源",
-      "description": "湖南地区电信IPTV单播频道列表，共1个频道。",
-      "kind": "dynamic_playlist",
-      "version": "2026.05.28",
-      "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-telecom-hunan/manifest.json",
-      "region": {
-        "country": "cn",
-        "province": "湖南",
-        "city": null
-      },
-      "operators": [
-        "cn",
-        "电信"
-      ],
-      "language": [
-        "zh-CN"
-      ],
-      "categories": [],
-      "tags": [
-        "湖南",
-        "电信",
-        "单播",
-        "IPTV",
-        "HLS"
-      ],
-      "status": "stable",
-      "source_origin": "community",
-      "source_policy": "community_index",
-      "risk_level": "low",
-      "importable": true,
-      "previewable": true,
-      "supported_in_v1": true
-    },
-    {
-      "id": "chinaiptv-unicast-unicom-jiangxi",
-      "name": "江西联通IPTV单播源",
-      "description": "江西地区联通IPTV单播频道列表，共168个频道。",
-      "kind": "dynamic_playlist",
-      "version": "2026.05.28",
-      "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-unicom-jiangxi/manifest.json",
-      "region": {
-        "country": "cn",
-        "province": "江西",
-        "city": null
-      },
-      "operators": [
-        "cn",
-        "联通"
-      ],
-      "language": [
-        "zh-CN"
-      ],
-      "categories": [
-        "卫视",
-        "央视",
-        "少儿",
-        "剧场",
-        "购物",
-        "纪实",
-        "江西台",
-        "体育",
-        "CETV",
-        "咪咕",
-        "电影",
-        "综艺"
-      ],
-      "tags": [
-        "江西",
-        "联通",
-        "单播",
-        "IPTV",
-        "卫视",
-        "央视",
-        "少儿",
-        "剧场",
-        "购物",
-        "纪实",
-        "江西台",
-        "体育",
-        "CETV",
-        "咪咕",
-        "电影",
-        "综艺",
-        "HLS"
-      ],
-      "status": "stable",
-      "source_origin": "community",
-      "source_policy": "community_index",
-      "risk_level": "low",
-      "importable": true,
-      "previewable": true,
-      "supported_in_v1": true
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 159,
+      "source_count": 1
     },
     {
       "id": "chinaiptv-unicast-mobile-jiangxi",
       "name": "江西移动IPTV单播源",
-      "description": "江西地区移动IPTV单播频道列表，共168个频道。",
+      "description": "江西地区移动IPTV单播频道列表，含央视频道, 卫视高清频道, 江西当地频道, 咪咕视频频道, 纪实频道, 少儿频道, 购物频道, 电影频道, 剧场频道, 综艺频道, 港澳台, 其他频道等分类，共168个频道。",
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-jiangxi/manifest.json",
+      "manifest_url": "packages/chinaiptv-unicast-mobile-jiangxi/manifest.json",
       "region": {
-        "country": "cn",
+        "country": "CN",
         "province": "江西",
         "city": null
       },
@@ -1086,18 +636,26 @@
       "risk_level": "low",
       "importable": true,
       "previewable": true,
-      "supported_in_v1": true
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 168,
+      "source_count": 1
     },
     {
       "id": "chinaiptv-unicast-mobile-liaoning",
       "name": "辽宁移动IPTV单播源",
-      "description": "辽宁地区移动IPTV单播频道列表，共52个频道。",
+      "description": "辽宁地区移动IPTV单播频道列表，含央视, 卫视, 其它等分类，共52个频道。",
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-liaoning/manifest.json",
+      "manifest_url": "packages/chinaiptv-unicast-mobile-liaoning/manifest.json",
       "region": {
-        "country": "cn",
+        "country": "CN",
         "province": "辽宁",
         "city": null
       },
@@ -1129,71 +687,26 @@
       "risk_level": "low",
       "importable": true,
       "previewable": true,
-      "supported_in_v1": true
-    },
-    {
-      "id": "chinaiptv-unicast-telecom-liaoning",
-      "name": "辽宁电信IPTV单播源",
-      "description": "辽宁地区电信IPTV单播频道列表，共117个频道。",
-      "kind": "dynamic_playlist",
-      "version": "2026.05.28",
-      "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-telecom-liaoning/manifest.json",
-      "region": {
-        "country": "cn",
-        "province": "辽宁",
-        "city": null
-      },
-      "operators": [
-        "cn",
-        "电信"
-      ],
-      "language": [
-        "zh-CN"
-      ],
-      "categories": [
-        "卫视",
-        "央视",
-        "辽宁台",
-        "少儿",
-        "剧场",
-        "体育",
-        "纪实",
-        "CHC"
-      ],
-      "tags": [
-        "辽宁",
-        "电信",
-        "单播",
-        "IPTV",
-        "卫视",
-        "央视",
-        "辽宁台",
-        "少儿",
-        "剧场",
-        "体育",
-        "纪实",
-        "CHC",
-        "HLS"
-      ],
-      "status": "stable",
-      "source_origin": "community",
-      "source_policy": "community_index",
-      "risk_level": "low",
-      "importable": true,
-      "previewable": true,
-      "supported_in_v1": true
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 52,
+      "source_count": 1
     },
     {
       "id": "chinaiptv-unicast-mobile-neimenggu",
       "name": "内蒙古移动IPTV单播源",
-      "description": "内蒙古地区移动IPTV单播频道列表，共143个频道。",
+      "description": "内蒙古地区移动IPTV单播频道列表，含央视, 卫视, 教育, 地方, 其它等分类，共143个频道。",
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-neimenggu/manifest.json",
+      "manifest_url": "packages/chinaiptv-unicast-mobile-neimenggu/manifest.json",
       "region": {
-        "country": "cn",
+        "country": "CN",
         "province": "内蒙古",
         "city": null
       },
@@ -1231,63 +744,26 @@
       "risk_level": "low",
       "importable": true,
       "previewable": true,
-      "supported_in_v1": true
-    },
-    {
-      "id": "chinaiptv-unicast-telecom-neimenggu",
-      "name": "内蒙古电信IPTV单播源",
-      "description": "内蒙古地区电信IPTV单播频道列表，共1个频道。",
-      "kind": "dynamic_playlist",
-      "version": "2026.05.28",
-      "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-telecom-neimenggu/manifest.json",
-      "region": {
-        "country": "cn",
-        "province": "内蒙古",
-        "city": null
-      },
-      "operators": [
-        "cn",
-        "电信"
-      ],
-      "language": [
-        "zh-CN"
-      ],
-      "categories": [
-        "卫视",
-        "央视",
-        "内蒙古台",
-        "CHC"
-      ],
-      "tags": [
-        "内蒙古",
-        "电信",
-        "单播",
-        "IPTV",
-        "卫视",
-        "央视",
-        "内蒙古台",
-        "CHC",
-        "HLS/RTSP"
-      ],
-      "status": "stable",
-      "source_origin": "community",
-      "source_policy": "community_index",
-      "risk_level": "low",
-      "importable": true,
-      "previewable": true,
-      "supported_in_v1": true
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 143,
+      "source_count": 1
     },
     {
       "id": "chinaiptv-unicast-mobile-shaanxi",
       "name": "陕西移动IPTV单播源",
-      "description": "陕西地区移动IPTV单播频道列表，共298个频道。",
+      "description": "陕西地区移动IPTV单播频道列表，含央视, 卫视, 教育, 地方, 其它等分类，共298个频道。",
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-shaanxi/manifest.json",
+      "manifest_url": "packages/chinaiptv-unicast-mobile-shaanxi/manifest.json",
       "region": {
-        "country": "cn",
+        "country": "CN",
         "province": "陕西",
         "city": null
       },
@@ -1337,18 +813,26 @@
       "risk_level": "low",
       "importable": true,
       "previewable": true,
-      "supported_in_v1": true
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 298,
+      "source_count": 1
     },
     {
       "id": "chinaiptv-unicast-mobile-shandong",
       "name": "山东移动IPTV单播源",
-      "description": "山东地区移动IPTV单播频道列表，共293个频道。",
+      "description": "山东地区移动IPTV单播频道列表，含央视, 卫视, 其它等分类，共293个频道。",
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-shandong/manifest.json",
+      "manifest_url": "packages/chinaiptv-unicast-mobile-shandong/manifest.json",
       "region": {
-        "country": "cn",
+        "country": "CN",
         "province": "山东",
         "city": null
       },
@@ -1400,18 +884,416 @@
       "risk_level": "low",
       "importable": true,
       "previewable": true,
-      "supported_in_v1": true
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 293,
+      "source_count": 1
+    },
+    {
+      "id": "chinaiptv-unicast-mobile-shanghai",
+      "name": "上海移动IPTV单播源",
+      "description": "上海地区移动IPTV单播频道列表，含央视, 卫视, 其它等分类，共57个频道。",
+      "kind": "dynamic_playlist",
+      "version": "2026.05.28",
+      "updated_at": "2026-05-28T00:00:00+08:00",
+      "manifest_url": "packages/chinaiptv-unicast-mobile-shanghai/manifest.json",
+      "region": {
+        "country": "CN",
+        "province": "上海",
+        "city": null
+      },
+      "operators": [
+        "cn",
+        "移动"
+      ],
+      "language": [
+        "zh-CN"
+      ],
+      "categories": [
+        "卫视",
+        "央视",
+        "CETV"
+      ],
+      "tags": [
+        "上海",
+        "移动",
+        "单播",
+        "IPTV",
+        "卫视",
+        "央视",
+        "CETV",
+        "HLS"
+      ],
+      "status": "stable",
+      "source_origin": "community",
+      "source_policy": "community_index",
+      "risk_level": "low",
+      "importable": true,
+      "previewable": true,
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 57,
+      "source_count": 1
+    },
+    {
+      "id": "chinaiptv-unicast-mobile-yunnan",
+      "name": "云南移动IPTV单播源",
+      "description": "云南地区移动IPTV单播频道列表，含央视, 卫视, 教育, 地方, 其它等分类，共312个频道。",
+      "kind": "dynamic_playlist",
+      "version": "2026.05.28",
+      "updated_at": "2026-05-28T00:00:00+08:00",
+      "manifest_url": "packages/chinaiptv-unicast-mobile-yunnan/manifest.json",
+      "region": {
+        "country": "CN",
+        "province": "云南",
+        "city": null
+      },
+      "operators": [
+        "cn",
+        "移动"
+      ],
+      "language": [
+        "zh-CN"
+      ],
+      "categories": [
+        "卫视",
+        "央视",
+        "云南台",
+        "少儿",
+        "教育",
+        "民族"
+      ],
+      "tags": [
+        "云南",
+        "移动",
+        "单播",
+        "IPTV",
+        "卫视",
+        "央视",
+        "云南台",
+        "少儿",
+        "教育",
+        "民族",
+        "HLS/HTTP"
+      ],
+      "status": "stable",
+      "source_origin": "community",
+      "source_policy": "community_index",
+      "risk_level": "low",
+      "importable": true,
+      "previewable": true,
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 312,
+      "source_count": 1
+    },
+    {
+      "id": "chinaiptv-unicast-mobile-zhejiang",
+      "name": "浙江移动IPTV单播源",
+      "description": "浙江地区移动IPTV单播频道列表，含央视, 卫视, 其它等分类，共171个频道。",
+      "kind": "dynamic_playlist",
+      "version": "2026.05.28",
+      "updated_at": "2026-05-28T00:00:00+08:00",
+      "manifest_url": "packages/chinaiptv-unicast-mobile-zhejiang/manifest.json",
+      "region": {
+        "country": "CN",
+        "province": "浙江",
+        "city": null
+      },
+      "operators": [
+        "cn",
+        "移动"
+      ],
+      "language": [
+        "zh-CN"
+      ],
+      "categories": [
+        "卫视",
+        "央视",
+        "少儿",
+        "浙江台",
+        "剧场",
+        "体育",
+        "电影",
+        "纪实"
+      ],
+      "tags": [
+        "浙江",
+        "移动",
+        "单播",
+        "IPTV",
+        "卫视",
+        "央视",
+        "少儿",
+        "浙江台",
+        "剧场",
+        "体育",
+        "电影",
+        "纪实",
+        "HLS"
+      ],
+      "status": "stable",
+      "source_origin": "community",
+      "source_policy": "community_index",
+      "risk_level": "low",
+      "importable": true,
+      "previewable": true,
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 171,
+      "source_count": 1
+    },
+    {
+      "id": "chinaiptv-unicast-telecom-anhui",
+      "name": "安徽电信IPTV单播源",
+      "description": "安徽地区电信IPTV单播频道列表，含央视, 卫视, 教育, 地方, 其它等分类，共109个频道。",
+      "kind": "dynamic_playlist",
+      "version": "2026.05.28",
+      "updated_at": "2026-05-28T00:00:00+08:00",
+      "manifest_url": "packages/chinaiptv-unicast-telecom-anhui/manifest.json",
+      "region": {
+        "country": "CN",
+        "province": "安徽",
+        "city": null
+      },
+      "operators": [
+        "cn",
+        "电信"
+      ],
+      "language": [
+        "zh-CN"
+      ],
+      "categories": [
+        "卫视",
+        "央视",
+        "少儿",
+        "外省台",
+        "剧场",
+        "财经",
+        "教育",
+        "CETV",
+        "体育"
+      ],
+      "tags": [
+        "安徽",
+        "电信",
+        "单播",
+        "IPTV",
+        "卫视",
+        "央视",
+        "少儿",
+        "外省台",
+        "剧场",
+        "财经",
+        "教育",
+        "CETV",
+        "体育",
+        "HLS"
+      ],
+      "status": "stable",
+      "source_origin": "community",
+      "source_policy": "community_index",
+      "risk_level": "low",
+      "importable": true,
+      "previewable": true,
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 109,
+      "source_count": 1
+    },
+    {
+      "id": "chinaiptv-unicast-telecom-hunan",
+      "name": "湖南电信IPTV单播源",
+      "description": "湖南地区电信IPTV单播频道列表，含央视, 卫视, 其它等分类，共1个频道。",
+      "kind": "dynamic_playlist",
+      "version": "2026.05.28",
+      "updated_at": "2026-05-28T00:00:00+08:00",
+      "manifest_url": "packages/chinaiptv-unicast-telecom-hunan/manifest.json",
+      "region": {
+        "country": "CN",
+        "province": "湖南",
+        "city": null
+      },
+      "operators": [
+        "cn",
+        "电信"
+      ],
+      "language": [
+        "zh-CN"
+      ],
+      "categories": [],
+      "tags": [
+        "湖南",
+        "电信",
+        "单播",
+        "IPTV",
+        "HLS"
+      ],
+      "status": "stable",
+      "source_origin": "community",
+      "source_policy": "community_index",
+      "risk_level": "low",
+      "importable": true,
+      "previewable": true,
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 1,
+      "source_count": 1
+    },
+    {
+      "id": "chinaiptv-unicast-telecom-liaoning",
+      "name": "辽宁电信IPTV单播源",
+      "description": "辽宁地区电信IPTV单播频道列表，含央视, 卫视, 教育, 地方, 其它等分类，共117个频道。",
+      "kind": "dynamic_playlist",
+      "version": "2026.05.28",
+      "updated_at": "2026-05-28T00:00:00+08:00",
+      "manifest_url": "packages/chinaiptv-unicast-telecom-liaoning/manifest.json",
+      "region": {
+        "country": "CN",
+        "province": "辽宁",
+        "city": null
+      },
+      "operators": [
+        "cn",
+        "电信"
+      ],
+      "language": [
+        "zh-CN"
+      ],
+      "categories": [
+        "卫视",
+        "央视",
+        "辽宁台",
+        "少儿",
+        "剧场",
+        "体育",
+        "纪实",
+        "CHC"
+      ],
+      "tags": [
+        "辽宁",
+        "电信",
+        "单播",
+        "IPTV",
+        "卫视",
+        "央视",
+        "辽宁台",
+        "少儿",
+        "剧场",
+        "体育",
+        "纪实",
+        "CHC",
+        "HLS"
+      ],
+      "status": "stable",
+      "source_origin": "community",
+      "source_policy": "community_index",
+      "risk_level": "low",
+      "importable": true,
+      "previewable": true,
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 117,
+      "source_count": 1
+    },
+    {
+      "id": "chinaiptv-unicast-telecom-neimenggu",
+      "name": "内蒙古电信IPTV单播源",
+      "description": "内蒙古地区电信IPTV单播频道列表，含央视, 卫视, 教育, 地方, 其它等分类，共1个频道。",
+      "kind": "dynamic_playlist",
+      "version": "2026.05.28",
+      "updated_at": "2026-05-28T00:00:00+08:00",
+      "manifest_url": "packages/chinaiptv-unicast-telecom-neimenggu/manifest.json",
+      "region": {
+        "country": "CN",
+        "province": "内蒙古",
+        "city": null
+      },
+      "operators": [
+        "cn",
+        "电信"
+      ],
+      "language": [
+        "zh-CN"
+      ],
+      "categories": [
+        "卫视",
+        "央视",
+        "内蒙古台",
+        "CHC"
+      ],
+      "tags": [
+        "内蒙古",
+        "电信",
+        "单播",
+        "IPTV",
+        "卫视",
+        "央视",
+        "内蒙古台",
+        "CHC",
+        "HLS/RTSP"
+      ],
+      "status": "stable",
+      "source_origin": "community",
+      "source_policy": "community_index",
+      "risk_level": "low",
+      "importable": true,
+      "previewable": true,
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 1,
+      "source_count": 1
     },
     {
       "id": "chinaiptv-unicast-telecom-shandong",
       "name": "山东电信IPTV单播源",
-      "description": "山东地区电信IPTV单播频道列表，共248个频道。",
+      "description": "山东地区电信IPTV单播频道列表，含央视, 卫视, 教育, 地方, 其它等分类，共248个频道。",
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-telecom-shandong/manifest.json",
+      "manifest_url": "packages/chinaiptv-unicast-telecom-shandong/manifest.json",
       "region": {
-        "country": "cn",
+        "country": "CN",
         "province": "山东",
         "city": null
       },
@@ -1457,24 +1339,32 @@
       "risk_level": "low",
       "importable": true,
       "previewable": true,
-      "supported_in_v1": true
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 248,
+      "source_count": 1
     },
     {
-      "id": "chinaiptv-unicast-mobile-shanghai",
-      "name": "上海移动IPTV单播源",
-      "description": "上海地区移动IPTV单播频道列表，共57个频道。",
+      "id": "chinaiptv-unicast-unicom-anhui",
+      "name": "安徽联通IPTV单播源",
+      "description": "安徽地区联通IPTV单播频道列表，含央视, 卫视, 其它等分类，共69个频道。",
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-shanghai/manifest.json",
+      "manifest_url": "packages/chinaiptv-unicast-unicom-anhui/manifest.json",
       "region": {
-        "country": "cn",
-        "province": "上海",
+        "country": "CN",
+        "province": "安徽",
         "city": null
       },
       "operators": [
         "cn",
-        "移动"
+        "联通"
       ],
       "language": [
         "zh-CN"
@@ -1482,16 +1372,89 @@
       "categories": [
         "卫视",
         "央视",
+        "安徽台",
+        "IPTV增值",
         "CETV"
       ],
       "tags": [
-        "上海",
-        "移动",
+        "安徽",
+        "联通",
         "单播",
         "IPTV",
         "卫视",
         "央视",
+        "安徽台",
+        "IPTV增值",
         "CETV",
+        "HLS/HTTP"
+      ],
+      "status": "stable",
+      "source_origin": "community",
+      "source_policy": "community_index",
+      "risk_level": "low",
+      "importable": true,
+      "previewable": true,
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 69,
+      "source_count": 1
+    },
+    {
+      "id": "chinaiptv-unicast-unicom-jiangxi",
+      "name": "江西联通IPTV单播源",
+      "description": "江西地区联通IPTV单播频道列表，含央视频道, 卫视高清频道, 江西当地频道, 咪咕视频频道, 纪实频道, 少儿频道, 购物频道, 电影频道, 剧场频道, 综艺频道, 港澳台, 其他频道等分类，共168个频道。",
+      "kind": "dynamic_playlist",
+      "version": "2026.05.28",
+      "updated_at": "2026-05-28T00:00:00+08:00",
+      "manifest_url": "packages/chinaiptv-unicast-unicom-jiangxi/manifest.json",
+      "region": {
+        "country": "CN",
+        "province": "江西",
+        "city": null
+      },
+      "operators": [
+        "cn",
+        "联通"
+      ],
+      "language": [
+        "zh-CN"
+      ],
+      "categories": [
+        "卫视",
+        "央视",
+        "少儿",
+        "剧场",
+        "购物",
+        "纪实",
+        "江西台",
+        "体育",
+        "CETV",
+        "咪咕",
+        "电影",
+        "综艺"
+      ],
+      "tags": [
+        "江西",
+        "联通",
+        "单播",
+        "IPTV",
+        "卫视",
+        "央视",
+        "少儿",
+        "剧场",
+        "购物",
+        "纪实",
+        "江西台",
+        "体育",
+        "CETV",
+        "咪咕",
+        "电影",
+        "综艺",
         "HLS"
       ],
       "status": "stable",
@@ -1500,18 +1463,26 @@
       "risk_level": "low",
       "importable": true,
       "previewable": true,
-      "supported_in_v1": true
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 168,
+      "source_count": 1
     },
     {
       "id": "chinaiptv-unicast-unicom-sichuan",
       "name": "四川联通IPTV单播源",
-      "description": "四川地区联通IPTV单播频道列表，共67个频道。",
+      "description": "四川地区联通IPTV单播频道列表，含央视, 卫视, 其它等分类，共67个频道。",
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-unicom-sichuan/manifest.json",
+      "manifest_url": "packages/chinaiptv-unicast-unicom-sichuan/manifest.json",
       "region": {
-        "country": "cn",
+        "country": "CN",
         "province": "四川",
         "city": null
       },
@@ -1545,67 +1516,26 @@
       "risk_level": "low",
       "importable": true,
       "previewable": true,
-      "supported_in_v1": true
-    },
-    {
-      "id": "chinaiptv-unicast-mobile-yunnan",
-      "name": "云南移动IPTV单播源",
-      "description": "云南地区移动IPTV单播频道列表，共312个频道。",
-      "kind": "dynamic_playlist",
-      "version": "2026.05.28",
-      "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-yunnan/manifest.json",
-      "region": {
-        "country": "cn",
-        "province": "云南",
-        "city": null
-      },
-      "operators": [
-        "cn",
-        "移动"
-      ],
-      "language": [
-        "zh-CN"
-      ],
-      "categories": [
-        "卫视",
-        "央视",
-        "云南台",
-        "少儿",
-        "教育",
-        "民族"
-      ],
-      "tags": [
-        "云南",
-        "移动",
-        "单播",
-        "IPTV",
-        "卫视",
-        "央视",
-        "云南台",
-        "少儿",
-        "教育",
-        "民族",
-        "HLS/HTTP"
-      ],
-      "status": "stable",
-      "source_origin": "community",
-      "source_policy": "community_index",
-      "risk_level": "low",
-      "importable": true,
-      "previewable": true,
-      "supported_in_v1": true
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 67,
+      "source_count": 1
     },
     {
       "id": "chinaiptv-unicast-unicom-zhejiang",
       "name": "浙江联通IPTV单播源",
-      "description": "浙江地区联通IPTV单播频道列表，共98个频道。",
+      "description": "浙江地区联通IPTV单播频道列表，含中央电视, 地方台, 其他频道, 外文台, FM广播, 测试台等分类，共98个频道。",
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-unicom-zhejiang/manifest.json",
+      "manifest_url": "packages/chinaiptv-unicast-unicom-zhejiang/manifest.json",
       "region": {
-        "country": "cn",
+        "country": "CN",
         "province": "浙江",
         "city": null
       },
@@ -1639,50 +1569,50 @@
       "risk_level": "low",
       "importable": true,
       "previewable": true,
-      "supported_in_v1": true
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 98,
+      "source_count": 1
     },
     {
-      "id": "chinaiptv-unicast-mobile-zhejiang",
-      "name": "浙江移动IPTV单播源",
-      "description": "浙江地区移动IPTV单播频道列表，共171个频道。",
+      "id": "github-develop202-miguvideo",
+      "name": "develop202-咪咕频道包",
+      "description": "包含央视/地方卫视、体育、动漫、纪录片等多个分类的咪咕视频公开频道",
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/chinaiptv-unicast-mobile-zhejiang/manifest.json",
+      "manifest_url": "packages/github-develop202-miguvideo/manifest.json",
       "region": {
-        "country": "cn",
-        "province": "浙江",
+        "country": "CN",
+        "province": null,
         "city": null
       },
       "operators": [
-        "cn",
-        "移动"
+        "cn"
       ],
       "language": [
         "zh-CN"
       ],
       "categories": [
-        "卫视",
+        "咪咕",
         "央视",
-        "少儿",
-        "浙江台",
-        "剧场",
+        "卫视",
         "体育",
-        "电影",
+        "动漫",
         "纪实"
       ],
       "tags": [
-        "浙江",
-        "移动",
-        "单播",
         "IPTV",
-        "卫视",
+        "咪咕",
         "央视",
-        "少儿",
-        "浙江台",
-        "剧场",
+        "卫视",
         "体育",
-        "电影",
+        "动漫",
         "纪实",
         "HLS"
       ],
@@ -1692,7 +1622,260 @@
       "risk_level": "low",
       "importable": true,
       "previewable": true,
-      "supported_in_v1": true
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 0,
+      "source_count": 1
+    },
+    {
+      "id": "github-imdazui-fujian-unicast",
+      "name": "福建联通单播源",
+      "description": "福建联通 IPTV 单播源，RTSP 流媒体格式，含央视、卫视、厦门本地及购物频道。",
+      "kind": "dynamic_playlist",
+      "version": "2026.05.28",
+      "updated_at": "2026-05-28T00:00:00+08:00",
+      "manifest_url": "packages/github-imdazui-fujian-unicast/manifest.json",
+      "region": {
+        "country": "CN",
+        "province": "福建",
+        "city": null
+      },
+      "operators": [
+        "cn",
+        "联通"
+      ],
+      "language": [
+        "zh-CN"
+      ],
+      "categories": [
+        "卫视",
+        "央视",
+        "风景",
+        "教育",
+        "少儿",
+        "IPTV增值",
+        "纪实",
+        "剧场"
+      ],
+      "tags": [
+        "福建",
+        "联通",
+        "单播",
+        "IPTV",
+        "卫视",
+        "央视",
+        "风景",
+        "教育",
+        "少儿",
+        "IPTV增值",
+        "纪实",
+        "剧场",
+        "RTSP"
+      ],
+      "status": "stable",
+      "source_origin": "community",
+      "source_policy": "community_index",
+      "risk_level": "low",
+      "importable": true,
+      "previewable": true,
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": true,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 0,
+      "source_count": 1
+    },
+    {
+      "id": "github-mzky-itvlist",
+      "name": "mzky-综合频道包",
+      "description": "多源 IPTV 综合频道列表，含央视、卫视、体育、卡通、少儿等多分类，同一频道多个备用源。",
+      "kind": "dynamic_playlist",
+      "version": "2026.05.28",
+      "updated_at": "2026-05-28T00:00:00+08:00",
+      "manifest_url": "packages/github-mzky-itvlist/manifest.json",
+      "region": {
+        "country": "CN",
+        "province": null,
+        "city": null
+      },
+      "operators": [
+        "cn"
+      ],
+      "language": [
+        "zh-CN"
+      ],
+      "categories": [
+        "央视",
+        "卫视",
+        "少儿",
+        "电影",
+        "剧场",
+        "动画",
+        "体育",
+        "戏曲",
+        "港片",
+        "CETV"
+      ],
+      "tags": [
+        "IPTV",
+        "央视",
+        "卫视",
+        "少儿",
+        "电影",
+        "剧场",
+        "动画",
+        "体育",
+        "戏曲",
+        "港片",
+        "CETV",
+        "HLS"
+      ],
+      "status": "stable",
+      "source_origin": "community",
+      "source_policy": "community_index",
+      "risk_level": "low",
+      "importable": true,
+      "previewable": true,
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 0,
+      "source_count": 1
+    },
+    {
+      "id": "github-vbskycn-iptv4",
+      "name": "vbskycn-综合频道包",
+      "description": "综合 IPTV 频道列表，含央视、卫视、体育、儿童、电影、春晚、风景直播等丰富分类。",
+      "kind": "dynamic_playlist",
+      "version": "2026.05.28",
+      "updated_at": "2026-05-28T00:00:00+08:00",
+      "manifest_url": "packages/github-vbskycn-iptv4/manifest.json",
+      "region": {
+        "country": "CN",
+        "province": null,
+        "city": null
+      },
+      "operators": [
+        "cn"
+      ],
+      "language": [
+        "zh-CN"
+      ],
+      "categories": [
+        "央视",
+        "卫视",
+        "春晚",
+        "电影",
+        "风景",
+        "少儿",
+        "体育",
+        "CHC",
+        "港片"
+      ],
+      "tags": [
+        "IPTV",
+        "央视",
+        "卫视",
+        "春晚",
+        "电影",
+        "风景",
+        "少儿",
+        "体育",
+        "CHC",
+        "港片",
+        "HLS"
+      ],
+      "status": "stable",
+      "source_origin": "community",
+      "source_policy": "community_index",
+      "risk_level": "low",
+      "importable": true,
+      "previewable": true,
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 0,
+      "source_count": 1
+    },
+    {
+      "id": "japantv-public",
+      "name": "大善人日本包",
+      "description": "从远程 M3U 订阅动态解析频道。",
+      "kind": "dynamic_playlist",
+      "version": "2026.05.28",
+      "updated_at": "2026-05-28T00:00:00+08:00",
+      "manifest_url": "packages/japantv-public/manifest.json",
+      "region": {
+        "country": "JP",
+        "province": null,
+        "city": null
+      },
+      "operators": [
+        "jp"
+      ],
+      "language": [
+        "ja-JP"
+      ],
+      "categories": [
+        "地上デジタル",
+        "BS放送",
+        "CS放送",
+        "新闻",
+        "电影",
+        "体育",
+        "动漫",
+        "音乐",
+        "韩流",
+        "纪实",
+        "少儿",
+        "剧场"
+      ],
+      "tags": [
+        "日本",
+        "地上デジタル",
+        "BS放送",
+        "CS放送",
+        "新闻",
+        "电影",
+        "体育",
+        "动漫",
+        "音乐",
+        "韩流",
+        "纪实",
+        "少儿",
+        "剧场"
+      ],
+      "status": "stable",
+      "source_origin": "community",
+      "source_policy": "community_index",
+      "risk_level": "low",
+      "importable": true,
+      "previewable": true,
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 0,
+      "source_count": 1
     },
     {
       "id": "waveflow-country-hk",
@@ -1701,7 +1884,7 @@
       "kind": "dynamic_playlist",
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
-      "manifest_url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/waveflow-country-hk/manifest.json",
+      "manifest_url": "packages/waveflow-country-hk/manifest.json",
       "region": {
         "country": "HK",
         "province": null,
@@ -1731,7 +1914,166 @@
       "risk_level": "low",
       "importable": true,
       "previewable": true,
-      "supported_in_v1": true
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 0,
+      "source_count": 1
+    },
+    {
+      "id": "waveflow-unicom-fujian",
+      "name": "福建联通反代",
+      "description": "福建联通 IPTV 反代源，RTSP 流媒体格式，含央视、卫视、厦门本地及购物频道。",
+      "kind": "dynamic_playlist",
+      "version": "2026.05.28",
+      "updated_at": "2026-05-28T00:00:00+08:00",
+      "manifest_url": "packages/waveflow-unicom-fujian/manifest.json",
+      "region": {
+        "country": "CN",
+        "province": "福建",
+        "city": null
+      },
+      "operators": [
+        "cn",
+        "联通"
+      ],
+      "language": [
+        "zh-CN"
+      ],
+      "categories": [
+        "卫视",
+        "央视",
+        "风景",
+        "教育",
+        "少儿",
+        "IPTV增值",
+        "纪实",
+        "剧场"
+      ],
+      "tags": [
+        "福建",
+        "联通",
+        "反代",
+        "IPTV",
+        "卫视",
+        "央视",
+        "风景",
+        "教育",
+        "少儿",
+        "IPTV增值",
+        "纪实",
+        "剧场",
+        "RTSP"
+      ],
+      "status": "stable",
+      "source_origin": "community",
+      "source_policy": "community_index",
+      "risk_level": "low",
+      "importable": true,
+      "previewable": true,
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": true,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 0,
+      "source_count": 1
+    },
+    {
+      "id": "waveflow-youtube-cartoon",
+      "name": "YouTube 经典动画频道包",
+      "description": "YouTube 上公开直播的经典动画与童年向动画频道。",
+      "kind": "playlist",
+      "version": "2026.05.28",
+      "updated_at": "2026-05-28T00:00:00+08:00",
+      "manifest_url": "packages/waveflow-youtube-cartoon/manifest.json",
+      "region": {
+        "country": "global",
+        "province": null,
+        "city": null
+      },
+      "operators": [
+        "global"
+      ],
+      "language": [
+        "en-US"
+      ],
+      "categories": [
+        "tv",
+        "kids",
+        "animation"
+      ],
+      "tags": [
+        "YouTube",
+        "动画",
+        "经典动画",
+        "24/7",
+        "公开直播",
+        "WaveFlow 官方"
+      ],
+      "status": "stable",
+      "source_origin": "official_web",
+      "source_policy": "official_public",
+      "risk_level": "low",
+      "importable": true,
+      "previewable": true,
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 6,
+      "source_count": 1
+    },
+    {
+      "id": "youtube-public",
+      "name": "YouTube 公开频道包",
+      "description": "从远程 M3U 订阅动态解析频道。",
+      "kind": "dynamic_playlist",
+      "version": "2026.05.28",
+      "updated_at": "2026-05-28T00:00:00+08:00",
+      "manifest_url": "packages/youtube-public/manifest.json",
+      "region": {
+        "country": "global",
+        "province": null,
+        "city": null
+      },
+      "operators": [
+        "global"
+      ],
+      "language": [
+        "zh-CN"
+      ],
+      "categories": [
+        "tv"
+      ],
+      "tags": [
+        "YouTube",
+        "动态订阅"
+      ],
+      "status": "stable",
+      "source_origin": "community",
+      "source_policy": "community_index",
+      "risk_level": "low",
+      "importable": true,
+      "previewable": true,
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 0,
+      "source_count": 1
     }
   ]
 }

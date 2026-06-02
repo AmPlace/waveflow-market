@@ -2,66 +2,9 @@
   "schema_version": 1,
   "id": "chinaiptv-unicast-mobile-anhui",
   "name": "安徽移动IPTV单播源",
-  "description": "安徽地区移动IPTV单播频道列表，含央视, 卫视, 教育, 地方, 其它等分类，共617个频道。",
   "kind": "dynamic_playlist",
   "version": "2026.05.28",
   "updated_at": "2026-05-28T00:00:00+08:00",
-  "region": {
-    "country": "cn",
-    "province": "安徽",
-    "city": null
-  },
-  "operators": [
-    "cn",
-    "移动"
-  ],
-  "language": [
-    "zh-CN"
-  ],
-  "categories": [
-    "央视",
-    "卫视",
-    "港片",
-    "体育",
-    "少儿",
-    "安徽台",
-    "BesTV",
-    "剧场",
-    "外省台",
-    "CETV",
-    "购物",
-    "电影",
-    "教育",
-    "CHC"
-  ],
-  "tags": [
-    "安徽",
-    "移动",
-    "单播",
-    "IPTV",
-    "央视",
-    "卫视",
-    "港片",
-    "体育",
-    "少儿",
-    "安徽台",
-    "BesTV",
-    "剧场",
-    "外省台",
-    "CETV",
-    "购物",
-    "电影",
-    "教育",
-    "CHC",
-    "HLS/HTTP"
-  ],
-  "status": "stable",
-  "source_origin": "community",
-  "source_policy": "community_index",
-  "risk_level": "low",
-  "importable": true,
-  "previewable": true,
-  "supported_in_v1": true,
   "defaults": {
     "source": {
       "type": "HLS/HTTP",

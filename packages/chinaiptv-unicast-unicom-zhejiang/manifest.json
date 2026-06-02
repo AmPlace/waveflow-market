@@ -2,46 +2,9 @@
   "schema_version": 1,
   "id": "chinaiptv-unicast-unicom-zhejiang",
   "name": "浙江联通IPTV单播源",
-  "description": "浙江地区联通IPTV单播频道列表，含中央电视, 地方台, 其他频道, 外文台, FM广播, 测试台等分类，共98个频道。",
   "kind": "dynamic_playlist",
   "version": "2026.05.28",
   "updated_at": "2026-05-28T00:00:00+08:00",
-  "region": {
-    "country": "cn",
-    "province": "浙江",
-    "city": null
-  },
-  "operators": [
-    "cn",
-    "联通"
-  ],
-  "language": [
-    "zh-CN"
-  ],
-  "categories": [
-    "卫视",
-    "央视",
-    "少儿",
-    "浙江台"
-  ],
-  "tags": [
-    "浙江",
-    "联通",
-    "单播",
-    "IPTV",
-    "卫视",
-    "央视",
-    "少儿",
-    "浙江台",
-    "HLS"
-  ],
-  "status": "stable",
-  "source_origin": "community",
-  "source_policy": "community_index",
-  "risk_level": "low",
-  "importable": true,
-  "previewable": true,
-  "supported_in_v1": true,
   "defaults": {
     "source": {
       "type": "HLS",

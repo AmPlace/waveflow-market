@@ -2,54 +2,9 @@
   "schema_version": 1,
   "id": "chinaiptv-unicast-mobile-fujian",
   "name": "福建移动IPTV单播源",
-  "description": "福建地区移动IPTV单播频道列表，含央视, 卫视, 教育, 地方, 其它等分类，共238个频道。",
   "kind": "dynamic_playlist",
   "version": "2026.05.28",
   "updated_at": "2026-05-28T00:00:00+08:00",
-  "region": {
-    "country": "cn",
-    "province": "福建",
-    "city": null
-  },
-  "operators": [
-    "cn",
-    "移动"
-  ],
-  "language": [
-    "zh-CN"
-  ],
-  "categories": [
-    "卫视",
-    "央视",
-    "NewTV",
-    "少儿",
-    "福建台",
-    "BesTV",
-    "体育",
-    "CETV"
-  ],
-  "tags": [
-    "福建",
-    "移动",
-    "单播",
-    "IPTV",
-    "卫视",
-    "央视",
-    "NewTV",
-    "少儿",
-    "福建台",
-    "BesTV",
-    "体育",
-    "CETV",
-    "HLS/RTSP"
-  ],
-  "status": "stable",
-  "source_origin": "community",
-  "source_policy": "community_index",
-  "risk_level": "low",
-  "importable": true,
-  "previewable": true,
-  "supported_in_v1": true,
   "defaults": {
     "source": {
       "type": "HLS/RTSP",

@@ -2,48 +2,9 @@
   "schema_version": 1,
   "id": "chinaiptv-unicast-mobile-hubei",
   "name": "湖北移动IPTV单播源",
-  "description": "湖北地区移动IPTV单播频道列表，含央视, 卫视, 其它等分类，共159个频道。",
   "kind": "dynamic_playlist",
   "version": "2026.05.28",
   "updated_at": "2026-05-28T00:00:00+08:00",
-  "region": {
-    "country": "cn",
-    "province": "湖北",
-    "city": null
-  },
-  "operators": [
-    "cn",
-    "移动"
-  ],
-  "language": [
-    "zh-CN"
-  ],
-  "categories": [
-    "央视",
-    "卫视",
-    "少儿",
-    "CETV",
-    "CHC"
-  ],
-  "tags": [
-    "湖北",
-    "移动",
-    "单播",
-    "IPTV",
-    "央视",
-    "卫视",
-    "少儿",
-    "CETV",
-    "CHC",
-    "HLS"
-  ],
-  "status": "stable",
-  "source_origin": "community",
-  "source_policy": "community_index",
-  "risk_level": "low",
-  "importable": true,
-  "previewable": true,
-  "supported_in_v1": true,
   "defaults": {
     "source": {
       "type": "HLS",

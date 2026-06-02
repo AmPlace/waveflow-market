@@ -2,57 +2,9 @@
   "schema_version": 1,
   "id": "japantv-public",
   "name": "大善人日本包",
-  "description": "从远程 M3U 订阅动态解析频道。",
   "kind": "dynamic_playlist",
   "version": "2026.05.28",
   "updated_at": "2026-05-28T00:00:00+08:00",
-  "region": {
-    "country": "jp",
-    "province": null,
-    "city": null
-  },
-  "operators": [
-    "jp"
-  ],
-  "language": [
-    "ja-jp"
-  ],
-  "categories": [
-    "地上デジタル",
-    "BS放送",
-    "CS放送",
-    "新闻",
-    "电影",
-    "体育",
-    "动漫",
-    "音乐",
-    "韩流",
-    "纪实",
-    "少儿",
-    "剧场"
-  ],
-  "tags": [
-    "日本",
-    "地上デジタル",
-    "BS放送",
-    "CS放送",
-    "新闻",
-    "电影",
-    "体育",
-    "动漫",
-    "音乐",
-    "韩流",
-    "纪实",
-    "少儿",
-    "剧场"
-  ],
-  "status": "stable",
-  "source_origin": "community",
-  "source_policy": "community_index",
-  "risk_level": "low",
-  "importable": true,
-  "previewable": true,
-  "supported_in_v1": true,
   "defaults": {
     "source": {
       "type": "HLS",

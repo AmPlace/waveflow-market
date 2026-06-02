@@ -2,41 +2,9 @@
   "schema_version": 1,
   "id": "waveflow-youtube-cartoon",
   "name": "YouTube 经典动画频道包",
-  "description": "YouTube 上公开直播的经典动画与童年向动画频道。",
   "kind": "playlist",
   "version": "2026.05.28",
   "updated_at": "2026-05-28T00:00:00+08:00",
-  "region": {
-    "country": "global",
-    "province": null,
-    "city": null
-  },
-  "operators": [
-    "global"
-  ],
-  "language": [
-    "en-US"
-  ],
-  "categories": [
-    "tv",
-    "kids",
-    "animation"
-  ],
-  "tags": [
-    "YouTube",
-    "动画",
-    "经典动画",
-    "24/7",
-    "公开直播",
-    "WaveFlow 官方"
-  ],
-  "status": "stable",
-  "source_origin": "official_web",
-  "source_policy": "official_public",
-  "risk_level": "low",
-  "importable": true,
-  "previewable": true,
-  "supported_in_v1": true,
   "defaults": {
     "channel": {
       "region": {
@@ -124,7 +92,7 @@
             }
           ]
         },
-          {
+        {
           "id": "yt-tom-jerry-warnerbros-claccical-20th",
           "name": "猫和老鼠旧版",
           "group_name": "YouTube 经典动画",

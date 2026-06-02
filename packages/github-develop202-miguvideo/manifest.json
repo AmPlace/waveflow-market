@@ -2,46 +2,9 @@
   "schema_version": 1,
   "id": "github-develop202-miguvideo",
   "name": "develop202-咪咕频道包",
-  "description": "包含央视/地方卫视、体育、动漫、纪录片等多个分类的咪咕视频公开频道",
   "kind": "dynamic_playlist",
   "version": "2026.05.28",
   "updated_at": "2026-05-28T00:00:00+08:00",
-  "region": {
-    "country": "cn",
-    "province": null,
-    "city": null
-  },
-  "operators": [
-    "cn"
-  ],
-  "language": [
-    "zh-cn"
-  ],
-  "categories": [
-    "咪咕",
-    "央视",
-    "卫视",
-    "体育",
-    "动漫",
-    "纪实"
-  ],
-  "tags": [
-    "IPTV",
-    "咪咕",
-    "央视",
-    "卫视",
-    "体育",
-    "动漫",
-    "纪实",
-    "HLS"
-  ],
-  "status": "stable",
-  "source_origin": "community",
-  "source_policy": "community_index",
-  "risk_level": "low",
-  "importable": true,
-  "previewable": true,
-  "supported_in_v1": true,
   "defaults": {
     "source": {
       "type": "HLS",

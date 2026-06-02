@@ -2,58 +2,9 @@
   "schema_version": 1,
   "id": "chinaiptv-unicast-mobile-gansu",
   "name": "甘肃移动IPTV单播源",
-  "description": "甘肃地区移动IPTV单播频道列表，含央视, 卫视, 教育, 地方, 其它等分类，共236个频道。",
   "kind": "dynamic_playlist",
   "version": "2026.05.28",
   "updated_at": "2026-05-28T00:00:00+08:00",
-  "region": {
-    "country": "cn",
-    "province": "甘肃",
-    "city": null
-  },
-  "operators": [
-    "cn",
-    "移动"
-  ],
-  "language": [
-    "zh-CN"
-  ],
-  "categories": [
-    "卫视",
-    "央视",
-    "剧场",
-    "体育",
-    "少儿",
-    "电影",
-    "甘肃台",
-    "CETV",
-    "纪实",
-    "健康"
-  ],
-  "tags": [
-    "甘肃",
-    "移动",
-    "单播",
-    "IPTV",
-    "卫视",
-    "央视",
-    "剧场",
-    "体育",
-    "少儿",
-    "电影",
-    "甘肃台",
-    "CETV",
-    "纪实",
-    "健康",
-    "HLS"
-  ],
-  "status": "stable",
-  "source_origin": "community",
-  "source_policy": "community_index",
-  "risk_level": "low",
-  "importable": true,
-  "previewable": true,
-  "supported_in_v1": true,
   "defaults": {
     "source": {
       "type": "HLS",

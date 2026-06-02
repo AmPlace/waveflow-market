@@ -2,54 +2,9 @@
   "schema_version": 1,
   "id": "chinaiptv-unicast-mobile-zhejiang",
   "name": "浙江移动IPTV单播源",
-  "description": "浙江地区移动IPTV单播频道列表，含央视, 卫视, 其它等分类，共171个频道。",
   "kind": "dynamic_playlist",
   "version": "2026.05.28",
   "updated_at": "2026-05-28T00:00:00+08:00",
-  "region": {
-    "country": "cn",
-    "province": "浙江",
-    "city": null
-  },
-  "operators": [
-    "cn",
-    "移动"
-  ],
-  "language": [
-    "zh-CN"
-  ],
-  "categories": [
-    "卫视",
-    "央视",
-    "少儿",
-    "浙江台",
-    "剧场",
-    "体育",
-    "电影",
-    "纪实"
-  ],
-  "tags": [
-    "浙江",
-    "移动",
-    "单播",
-    "IPTV",
-    "卫视",
-    "央视",
-    "少儿",
-    "浙江台",
-    "剧场",
-    "体育",
-    "电影",
-    "纪实",
-    "HLS"
-  ],
-  "status": "stable",
-  "source_origin": "community",
-  "source_policy": "community_index",
-  "risk_level": "low",
-  "importable": true,
-  "previewable": true,
-  "supported_in_v1": true,
   "defaults": {
     "source": {
       "type": "HLS",
