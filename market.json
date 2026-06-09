@@ -2034,6 +2034,53 @@
       "source_count": 1
     },
     {
+      "id": "waveflow-macau-tdm",
+      "name": "澳门TDM频道包",
+      "description": "澳门广播电视股份有限公司(TDM)直播频道，含電視(11台)、電台(2台)，共13个频道，HLS直链。",
+      "kind": "playlist",
+      "version": "2026.06.10",
+      "updated_at": "2026-06-10T00:00:00+08:00",
+      "manifest_url": "packages/waveflow-macau-tdm/manifest.json",
+      "region": {
+        "country": "MO",
+        "province": null,
+        "city": null
+      },
+      "operators": [
+        "tdm"
+      ],
+      "language": [
+        "zh-HK",
+        "pt-PT"
+      ],
+      "categories": [
+        "電視",
+        "電台"
+      ],
+      "tags": [
+        "澳门",
+        "TDM",
+        "電視",
+        "電台",
+        "HLS"
+      ],
+      "status": "stable",
+      "source_origin": "community",
+      "source_policy": "community_index",
+      "risk_level": "low",
+      "importable": true,
+      "previewable": true,
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 13,
+      "source_count": 1
+    },
+    {
       "id": "waveflow-migu",
       "name": "咪咕视频频道包",
       "description": "咪咕视频直播频道，含央视、卫视、地方、影视、新闻、教育、熊猫、综艺等分类，共155个频道。",
