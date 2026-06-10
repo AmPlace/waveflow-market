@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="湖南卫视4K" group-title="湖南本地",湖南卫视4K
+https://waveflow-resolver.bgm.gs/resolve/woniu-hnws4k.m3u8
+#EXTINF:-1 tvg-name="湖南经视高清" group-title="湖南本地",湖南经视高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-hnjs.m3u8
+#EXTINF:-1 tvg-name="湖南娱乐高清" group-title="湖南本地",湖南娱乐高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-hnyl.m3u8
+#EXTINF:-1 tvg-name="湖南电影高清" group-title="湖南本地",湖南电影高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-hndy.m3u8
+#EXTINF:-1 tvg-name="湖南都市高清" group-title="湖南本地",湖南都市高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-hnds.m3u8
+#EXTINF:-1 tvg-name="湖南电视剧高清" group-title="湖南本地",湖南电视剧高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-hndsj.m3u8
+#EXTINF:-1 tvg-name="快乐购高清" group-title="湖南本地",快乐购高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-klg.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实高清" group-title="湖南本地",金鹰纪实高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-jyjs.m3u8
+#EXTINF:-1 tvg-name="湖南爱晚高清" group-title="湖南本地",湖南爱晚高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-hnaw.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通高清" group-title="湖南本地",金鹰卡通高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-jykt.m3u8
+#EXTINF:-1 tvg-name="湖南教育频道" group-title="湖南本地",湖南教育频道
+https://waveflow-resolver.bgm.gs/resolve/woniu-hnjy.m3u8
+#EXTINF:-1 tvg-name="CCTV-1高清" group-title="CCTV",CCTV-1高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-cctv1.m3u8
+#EXTINF:-1 tvg-name="CCTV-2高清" group-title="CCTV",CCTV-2高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-cctv2.m3u8
+#EXTINF:-1 tvg-name="CCTV-3高清" group-title="CCTV",CCTV-3高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-cctv3.m3u8
+#EXTINF:-1 tvg-name="CCTV-4高清" group-title="CCTV",CCTV-4高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-cctv4.m3u8
+#EXTINF:-1 tvg-name="CCTV-5高清" group-title="CCTV",CCTV-5高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-cctv5.m3u8
+#EXTINF:-1 tvg-name="CCTV-6高清" group-title="CCTV",CCTV-6高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-cctv6.m3u8
+#EXTINF:-1 tvg-name="CCTV-7高清" group-title="CCTV",CCTV-7高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-cctv7.m3u8
+#EXTINF:-1 tvg-name="CCTV-8高清" group-title="CCTV",CCTV-8高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-cctv8.m3u8
+#EXTINF:-1 tvg-name="CCTV-9高清" group-title="CCTV",CCTV-9高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-cctv9.m3u8
+#EXTINF:-1 tvg-name="CCTV-10高清" group-title="CCTV",CCTV-10高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-cctv10.m3u8
+#EXTINF:-1 tvg-name="CCTV-11戏曲" group-title="CCTV",CCTV-11戏曲
+https://waveflow-resolver.bgm.gs/resolve/woniu-cctv11.m3u8
+#EXTINF:-1 tvg-name="CCTV-12高清" group-title="CCTV",CCTV-12高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-cctv12.m3u8
+#EXTINF:-1 tvg-name="CCTV-13新闻" group-title="CCTV",CCTV-13新闻
+https://waveflow-resolver.bgm.gs/resolve/woniu-cctv13.m3u8
+#EXTINF:-1 tvg-name="CCTV-14高清" group-title="CCTV",CCTV-14高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-cctv14.m3u8
+#EXTINF:-1 tvg-name="CCTV-15音乐" group-title="CCTV",CCTV-15音乐
+https://waveflow-resolver.bgm.gs/resolve/woniu-cctv15.m3u8
+#EXTINF:-1 tvg-name="CCTV-17高清" group-title="CCTV",CCTV-17高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-cctv17.m3u8
+#EXTINF:-1 tvg-name="CCTV-4K" group-title="CCTV",CCTV-4K
+https://waveflow-resolver.bgm.gs/resolve/woniu-cctv4k.m3u8
+#EXTINF:-1 tvg-name="CCTV-5+高清" group-title="CCTV",CCTV-5+高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-cctv5plus.m3u8
+#EXTINF:-1 tvg-name="江苏卫视高清" group-title="卫视",江苏卫视高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-jsws.m3u8
+#EXTINF:-1 tvg-name="浙江卫视高清" group-title="卫视",浙江卫视高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-zjws.m3u8
+#EXTINF:-1 tvg-name="东方卫视高清" group-title="卫视",东方卫视高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-dfws.m3u8
+#EXTINF:-1 tvg-name="北京卫视高清" group-title="卫视",北京卫视高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-bjws.m3u8
+#EXTINF:-1 tvg-name="广东卫视高清" group-title="卫视",广东卫视高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-gdws.m3u8
+#EXTINF:-1 tvg-name="深圳卫视高清" group-title="卫视",深圳卫视高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-szws.m3u8
+#EXTINF:-1 tvg-name="天津卫视高清" group-title="卫视",天津卫视高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-tjws.m3u8
+#EXTINF:-1 tvg-name="湖北卫视高清" group-title="卫视",湖北卫视高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-hbws.m3u8
+#EXTINF:-1 tvg-name="安徽卫视高清" group-title="卫视",安徽卫视高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-ahws.m3u8
+#EXTINF:-1 tvg-name="重庆卫视高清" group-title="卫视",重庆卫视高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-cqws.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视高清" group-title="卫视",黑龙江卫视高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-hljws.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视高清" group-title="卫视",辽宁卫视高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-lnws.m3u8
+#EXTINF:-1 tvg-name="广西卫视高清" group-title="卫视",广西卫视高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-gxws.m3u8
+#EXTINF:-1 tvg-name="快乐垂钓高清" group-title="其他",快乐垂钓高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-klcd.m3u8
+#EXTINF:-1 tvg-name="四海钓鱼高清" group-title="其他",四海钓鱼高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-shdy.m3u8
+#EXTINF:-1 tvg-name="茶频道高清" group-title="其他",茶频道高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-tea.m3u8
+#EXTINF:-1 tvg-name="先锋乒羽" group-title="其他",先锋乒羽
+https://waveflow-resolver.bgm.gs/resolve/woniu-xfpy.m3u8
+#EXTINF:-1 tvg-name="生活时尚高清" group-title="其他",生活时尚高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-shss.m3u8
+#EXTINF:-1 tvg-name="劲爆体育高清" group-title="其他",劲爆体育高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-jbty.m3u8
+#EXTINF:-1 tvg-name="多彩文体4K" group-title="其他",多彩文体4K
+https://waveflow-resolver.bgm.gs/resolve/woniu-dcwt4k.m3u8
+#EXTINF:-1 tvg-name="CHC高清电影" group-title="其他",CHC高清电影
+https://waveflow-resolver.bgm.gs/resolve/woniu-chc-hd.m3u8
+#EXTINF:-1 tvg-name="游戏风云高清" group-title="其他",游戏风云高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-yxfy.m3u8
+#EXTINF:-1 tvg-name="天元围棋高清" group-title="其他",天元围棋高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-tywq.m3u8
+#EXTINF:-1 tvg-name="动漫秀场高清" group-title="其他",动漫秀场高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-dmxc.m3u8
+#EXTINF:-1 tvg-name="书画频道" group-title="其他",书画频道
+https://waveflow-resolver.bgm.gs/resolve/woniu-shpd.m3u8
+#EXTINF:-1 tvg-name="乐游高清" group-title="其他",乐游高清
+https://waveflow-resolver.bgm.gs/resolve/woniu-leyou.m3u8
+#EXTINF:-1 tvg-name="CGTN" group-title="其他",CGTN
+https://waveflow-resolver.bgm.gs/resolve/woniu-cgtn.m3u8
+#EXTINF:-1 tvg-name="CGTN-A" group-title="其他",CGTN-A
+https://waveflow-resolver.bgm.gs/resolve/woniu-cgtn-a.m3u8
+#EXTINF:-1 tvg-name="CGTN-R" group-title="其他",CGTN-R
+https://waveflow-resolver.bgm.gs/resolve/woniu-cgtn-r.m3u8
+#EXTINF:-1 tvg-name="CGTN-E" group-title="其他",CGTN-E
+https://waveflow-resolver.bgm.gs/resolve/woniu-cgtn-e.m3u8
+#EXTINF:-1 tvg-name="CGTN-F" group-title="其他",CGTN-F
+https://waveflow-resolver.bgm.gs/resolve/woniu-cgtn-f.m3u8

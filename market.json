@@ -2034,6 +2034,54 @@
       "source_count": 1
     },
     {
+      "id": "waveflow-woniu-tv",
+      "name": "蜗牛TV频道包",
+      "description": "蜗牛TV直播源，含湖南本地(11台)、CCTV(18台)、卫视(13台)、其他(18台)，共60个频道，HLS直链。",
+      "kind": "dynamic_playlist",
+      "version": "2026.06.10",
+      "updated_at": "2026-06-10T00:00:00+08:00",
+      "manifest_url": "packages/waveflow-woniu-tv/manifest.json",
+      "region": {
+        "country": "CN",
+        "province": "湖南",
+        "city": null
+      },
+      "operators": [
+        "cn"
+      ],
+      "language": [
+        "zh-CN"
+      ],
+      "categories": [
+        "湖南本地",
+        "CCTV",
+        "卫视",
+        "其他"
+      ],
+      "tags": [
+        "蜗牛TV",
+        "湖南",
+        "CCTV",
+        "卫视",
+        "HLS"
+      ],
+      "status": "stable",
+      "source_origin": "community",
+      "source_policy": "community_index",
+      "risk_level": "low",
+      "importable": true,
+      "previewable": true,
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": true,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 60,
+      "source_count": 1
+    },
+    {
       "id": "waveflow-german-tv",
       "name": "德国公共电视台包",
       "description": "德国公共电视台直播源，含ARD第一电视台、Tagesschau24新闻台、Phoenix凤凰台，共3个频道，HLS直链。",
