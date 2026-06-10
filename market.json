@@ -2074,7 +2074,7 @@
       "supported_in_v1": true,
       "unsupported_reason": null,
       "requires_proxy": false,
-      "requires_resolver": true,
+      "requires_resolver": false,
       "requires_cookie": false,
       "requires_referer": false,
       "requires_custom_ua": false,
