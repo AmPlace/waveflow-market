@@ -1925,6 +1925,67 @@
       "source_count": 1
     },
     {
+      "id": "waveflow-country-tw",
+      "name": "WaveFlow TW",
+      "description": "台湾YouTube直播源",
+      "kind": "dynamic_playlist",
+      "version": "2026.06.14",
+      "updated_at": "2026-06-14T00:00:00+08:00",
+      "manifest_url": "packages/waveflow-country-tw/manifest.json",
+      "region": {
+        "country": "TW",
+        "province": null,
+        "city": null
+      },
+      "operators": [
+        "台湾"
+      ],
+      "language": [
+        "zh-TW"
+      ],
+      "categories": [
+        "tv",
+        "TW",
+        "台湾",
+        "youtube",
+        "新闻",
+        "购物",
+        "戏剧",
+        "综艺",
+        "宗教",
+        "少儿",
+        "纪实"
+      ],
+      "tags": [
+        "tv",
+        "TW",
+        "台湾",
+        "youtube",
+        "新闻",
+        "购物",
+        "戏剧",
+        "综艺",
+        "宗教",
+        "少儿",
+        "纪实"
+      ],
+      "status": "stable",
+      "source_origin": "community",
+      "source_policy": "community_index",
+      "risk_level": "low",
+      "importable": true,
+      "previewable": true,
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": false,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 0,
+      "source_count": 1
+    },
+    {
       "id": "waveflow-unicom-fujian",
       "name": "福建联通反代",
       "description": "福建联通 IPTV 反代源，RTSP 流媒体格式，含央视、卫视、厦门本地及购物频道。",

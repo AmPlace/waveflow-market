@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "waveflow-country-tw",
+  "name": "WaveFlow TW",
+  "kind": "dynamic_playlist",
+  "version": "2026.06.14",
+  "updated_at": "2026-06-14T00:00:00+08:00",
+  "defaults": {
+    "source": {
+      "type": "hls",
+      "requires_proxy": false,
+      "headers": {}
+    }
+  },
+  "channel_sources": [
+    {
+      "type": "playlist",
+      "id": "waveflow-country-tw",
+      "name": "WaveFlow TW",
+      "url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/waveflow-country-tw/channels.m3u",
+      "format": "auto",
+      "headers": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    }
+  ]
+}
