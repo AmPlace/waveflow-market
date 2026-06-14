@@ -1,6 +1,5 @@
 #EXTM3U
 
-#EXTGRP:香港
 
 #EXTINF:-1 tvg-id="TVB 新闻台" tvg-name="TVB 新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/TVB_News_Channel_Logo.jpg" group-title="香港",TVB 新闻台
 tvb://I-NEWS
