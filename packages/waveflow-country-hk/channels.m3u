@@ -67,3 +67,6 @@ https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 
 #EXTINF:-1 tvg-id="Celestial Movies" tvg-name="Celestial Movies" tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="香港",Celestial Movies
 http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
+
+#EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="香港",凤凰卫视YouTube
+https://www.youtube.com/@phoenixtvglobal/live
