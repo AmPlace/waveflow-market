@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "id": "waveflow-youtube-cartoon",
-  "name": "YouTube 经典动画频道包",
+  "name": "YouTube 动画频道包",
   "kind": "playlist",
-  "version": "2026.05.28",
-  "updated_at": "2026-05-28T00:00:00+08:00",
+  "version": "2026.06.14",
+  "updated_at": "2026-06-14T00:00:00+08:00",
   "defaults": {
     "channel": {
       "region": {
@@ -34,12 +34,12 @@
       "channels": [
         {
           "id": "yt-mrbean-live-action",
-          "name": "Mr Bean 真人版",
-          "group_name": "YouTube 经典动画",
+          "name": "憨豆先生真人版",
+          "group_name": "YouTube 动画",
           "logo": "",
           "epg": {
             "tvg_id": "yt-mrbean-live-action",
-            "tvg_name": "Mr Bean 真人版"
+            "tvg_name": "憨豆先生真人版"
           },
           "sources": [
             {
@@ -48,28 +48,88 @@
           ]
         },
         {
-          "id": "yt-wbkids-classic-cartoons",
-          "name": "WB Kids 经典动画",
-          "group_name": "YouTube 经典动画",
+          "id": "yt-dckids-live",
+          "name": "DC儿童动画",
+          "group_name": "YouTube 动画",
           "logo": "",
           "epg": {
-            "tvg_id": "yt-wbkids-classic-cartoons",
-            "tvg_name": "WB Kids 经典动画"
+            "tvg_id": "yt-dckids-live",
+            "tvg_name": "DC儿童动画"
           },
           "sources": [
             {
-              "url": "https://www.youtube.com/watch?v=3kyl_G6aTRM"
+              "url": "https://www.youtube.com/@dckids/live"
+            }
+          ]
+        },
+        {
+          "id": "yt-cartoon-network-asia-live",
+          "name": "卡通频道亚洲版",
+          "group_name": "YouTube 动画",
+          "logo": "",
+          "epg": {
+            "tvg_id": "yt-cartoon-network-asia-live",
+            "tvg_name": "卡通频道亚洲版"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/@cartoonnetworkasia/live"
+            }
+          ]
+        },
+        {
+          "id": "yt-we-bare-bears-live",
+          "name": "咱们裸熊",
+          "group_name": "YouTube 动画",
+          "logo": "",
+          "epg": {
+            "tvg_id": "yt-we-bare-bears-live",
+            "tvg_name": "咱们裸熊"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/@WeBareBearsOfficial/live"
+            }
+          ]
+        },
+        {
+          "id": "yt-spongebob-live",
+          "name": "海绵宝宝",
+          "group_name": "YouTube 动画",
+          "logo": "",
+          "epg": {
+            "tvg_id": "yt-spongebob-live",
+            "tvg_name": "海绵宝宝"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/@SpongeBobOfficial/live"
+            }
+          ]
+        },
+        {
+          "id": "yt-wbkids-live",
+          "name": "华纳兄弟动画",
+          "group_name": "YouTube 动画",
+          "logo": "",
+          "epg": {
+            "tvg_id": "yt-wbkids-live",
+            "tvg_name": "华纳兄弟动画"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/WBKids/live"
             }
           ]
         },
         {
           "id": "yt-tom-jerry-boomerang-uk-1",
-          "name": "猫和老鼠 Boomerang UK",
-          "group_name": "YouTube 经典动画",
+          "name": "猫和老鼠",
+          "group_name": "YouTube 动画",
           "logo": "",
           "epg": {
             "tvg_id": "yt-tom-jerry-boomerang-uk-1",
-            "tvg_name": "猫和老鼠 Boomerang UK"
+            "tvg_name": "猫和老鼠"
           },
           "sources": [
             {
@@ -79,12 +139,12 @@
         },
         {
           "id": "yt-mrbean-cartoon-s1",
-          "name": "憨豆先生动画 S1",
-          "group_name": "YouTube 经典动画",
+          "name": "憨豆先生动画版",
+          "group_name": "YouTube 动画",
           "logo": "",
           "epg": {
             "tvg_id": "yt-mrbean-cartoon-s1",
-            "tvg_name": "憨豆先生动画 S1"
+            "tvg_name": "憨豆先生动画版"
           },
           "sources": [
             {
@@ -94,12 +154,12 @@
         },
         {
           "id": "yt-tom-jerry-warnerbros-claccical-20th",
-          "name": "猫和老鼠旧版",
-          "group_name": "YouTube 经典动画",
+          "name": "猫和老鼠经典版",
+          "group_name": "YouTube 动画",
           "logo": "",
           "epg": {
             "tvg_id": "yt-tom-jerry-warnerbros-claccical-20th",
-            "tvg_name": "猫和老鼠旧版"
+            "tvg_name": "猫和老鼠经典版"
           },
           "sources": [
             {
@@ -108,17 +168,302 @@
           ]
         },
         {
-          "id": "yt-tom-jerry-boomerang-uk-2",
-          "name": "猫和老鼠新版马拉松",
-          "group_name": "YouTube 经典动画",
-          "logo": "",
+          "id": "yt-masha-bear-live",
+          "name": "玛莎和熊",
+          "group_name": "YouTube 动画",
+          "logo": "https://i.ytimg.com/vi/Mkx6CTKSxF0/hqdefault.jpg",
           "epg": {
-            "tvg_id": "yt-tom-jerry-boomerang-uk-2",
-            "tvg_name": "猫和老鼠新版马拉松"
+            "tvg_id": "yt-masha-bear-live",
+            "tvg_name": "玛莎和熊"
           },
           "sources": [
             {
-              "url": "https://www.youtube.com/watch?v=6a23sxk5_vM"
+              "url": "https://www.youtube.com/@MashaBearEN/live"
+            }
+          ]
+        },
+        {
+          "id": "yt-peppa-pig-live",
+          "name": "小猪佩奇",
+          "group_name": "YouTube 动画",
+          "logo": "https://i.ytimg.com/vi/9ZTeskbjP4g/hqdefault.jpg",
+          "epg": {
+            "tvg_id": "yt-peppa-pig-live",
+            "tvg_name": "小猪佩奇"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/@PeppaPigOfficial/live"
+            }
+          ]
+        },
+        {
+          "id": "yt-pocoyo-live",
+          "name": "小P优优",
+          "group_name": "YouTube 动画",
+          "logo": "https://i.ytimg.com/vi/NXwaHbBWIts/hqdefault.jpg",
+          "epg": {
+            "tvg_id": "yt-pocoyo-live",
+            "tvg_name": "小P优优"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/@pocoyo/live"
+            }
+          ]
+        },
+        {
+          "id": "yt-om-nom-stories-live",
+          "name": "糖果怪兽",
+          "group_name": "YouTube 动画",
+          "logo": "https://i.ytimg.com/vi/PQ691qZf0jc/hqdefault.jpg",
+          "epg": {
+            "tvg_id": "yt-om-nom-stories-live",
+            "tvg_name": "糖果怪兽"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/@omnomstories/live"
+            }
+          ]
+        },
+        {
+          "id": "yt-oddbods-live",
+          "name": "奥德堡",
+          "group_name": "YouTube 动画",
+          "logo": "https://i.ytimg.com/vi/fa6b2hEa2Vw/hqdefault.jpg",
+          "epg": {
+            "tvg_id": "yt-oddbods-live",
+            "tvg_name": "奥德堡"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/@oddbods/live"
+            }
+          ]
+        },
+        {
+          "id": "yt-zig-sharko-live",
+          "name": "鲨鱼和小螃蟹",
+          "group_name": "YouTube 动画",
+          "logo": "https://i.ytimg.com/vi/-w62_1H18_Y/hqdefault.jpg",
+          "epg": {
+            "tvg_id": "yt-zig-sharko-live",
+            "tvg_name": "鲨鱼和小螃蟹"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/@zigandsharko/live"
+            }
+          ]
+        },
+        {
+          "id": "yt-grizzy-lemmings-live",
+          "name": "大棕熊和旅鼠",
+          "group_name": "YouTube 动画",
+          "logo": "https://i.ytimg.com/vi/0gIoFBhsNNA/hqdefault.jpg",
+          "epg": {
+            "tvg_id": "yt-grizzy-lemmings-live",
+            "tvg_name": "大棕熊和旅鼠"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/channel/UCPLI3xvHdQqyyqjDvYfFuTA/live"
+            }
+          ]
+        },
+        {
+          "id": "yt-larva-live",
+          "name": "爆笑虫子",
+          "group_name": "YouTube 动画",
+          "logo": "",
+          "epg": {
+            "tvg_id": "yt-larva-live",
+            "tvg_name": "爆笑虫子"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/@larvatuba/live"
+            }
+          ]
+        },
+        {
+          "id": "yt-sunny-bunnies-live",
+          "name": "阳光小兔",
+          "group_name": "YouTube 动画",
+          "logo": "",
+          "epg": {
+            "tvg_id": "yt-sunny-bunnies-live",
+            "tvg_name": "阳光小兔"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/@sunnybunnies/live"
+            }
+          ]
+        },
+        {
+          "id": "yt-morphle-live",
+          "name": "魔法萌宠",
+          "group_name": "YouTube 动画",
+          "logo": "",
+          "epg": {
+            "tvg_id": "yt-morphle-live",
+            "tvg_name": "魔法萌宠"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/@morphle/live"
+            }
+          ]
+        },
+        {
+          "id": "yt-pinkfong-live",
+          "name": "碰碰狐儿歌",
+          "group_name": "YouTube 动画",
+          "logo": "https://i.ytimg.com/vi/Sxo1jhYhojA/hqdefault.jpg",
+          "epg": {
+            "tvg_id": "yt-pinkfong-live",
+            "tvg_name": "碰碰狐儿歌"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/@pinkfong/live"
+            }
+          ]
+        },
+        {
+          "id": "yt-looloo-kids-live",
+          "name": "噜噜儿歌",
+          "group_name": "YouTube 动画",
+          "logo": "",
+          "epg": {
+            "tvg_id": "yt-looloo-kids-live",
+            "tvg_name": "噜噜儿歌"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/@LooLooKids/live"
+            }
+          ]
+        },
+        {
+          "id": "yt-babybus-live",
+          "name": "宝宝巴士",
+          "group_name": "YouTube 动画",
+          "logo": "",
+          "epg": {
+            "tvg_id": "yt-babybus-live",
+            "tvg_name": "宝宝巴士"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/@BabyBus/live"
+            }
+          ]
+        },
+        {
+          "id": "yt-cocomelon-live",
+          "name": "超级宝贝JoJo",
+          "group_name": "YouTube 动画",
+          "logo": "",
+          "epg": {
+            "tvg_id": "yt-cocomelon-live",
+            "tvg_name": "超级宝贝JoJo"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/@CoComelon/live"
+            }
+          ]
+        },
+        {
+          "id": "yt-little-angel-live",
+          "name": "小天使儿歌",
+          "group_name": "YouTube 动画",
+          "logo": "",
+          "epg": {
+            "tvg_id": "yt-little-angel-live",
+            "tvg_name": "小天使儿歌"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/@littleangel/live"
+            }
+          ]
+        },
+        {
+          "id": "yt-super-simple-songs-live",
+          "name": "超级简单儿歌",
+          "group_name": "YouTube 动画",
+          "logo": "",
+          "epg": {
+            "tvg_id": "yt-super-simple-songs-live",
+            "tvg_name": "超级简单儿歌"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/@SuperSimpleSongs/live"
+            }
+          ]
+        },
+        {
+          "id": "yt-chuchu-tv-live",
+          "name": "啾啾儿歌",
+          "group_name": "YouTube 动画",
+          "logo": "",
+          "epg": {
+            "tvg_id": "yt-chuchu-tv-live",
+            "tvg_name": "啾啾儿歌"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/@ChuChuTV/live"
+            }
+          ]
+        },
+        {
+          "id": "yt-tayo-live",
+          "name": "快乐小巴士",
+          "group_name": "YouTube 动画",
+          "logo": "https://i.ytimg.com/vi/wgFPP9dRO-w/hqdefault.jpg",
+          "epg": {
+            "tvg_id": "yt-tayo-live",
+            "tvg_name": "快乐小巴士"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/@tayo/live"
+            }
+          ]
+        },
+        {
+          "id": "yt-dave-ava-live",
+          "name": "戴夫和艾娃",
+          "group_name": "YouTube 动画",
+          "logo": "https://i.ytimg.com/vi/LuTWvxfEdLQ/hqdefault.jpg",
+          "epg": {
+            "tvg_id": "yt-dave-ava-live",
+            "tvg_name": "戴夫和艾娃"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/@DaveAndAva/live"
+            }
+          ]
+        },
+        {
+          "id": "yt-geckos-garage-live",
+          "name": "小壁虎修车厂",
+          "group_name": "YouTube 动画",
+          "logo": "",
+          "epg": {
+            "tvg_id": "yt-geckos-garage-live",
+            "tvg_name": "小壁虎修车厂"
+          },
+          "sources": [
+            {
+              "url": "https://www.youtube.com/@geckosgarage/live"
             }
           ]
         }
