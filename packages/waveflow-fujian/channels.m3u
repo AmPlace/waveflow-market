@@ -5,7 +5,7 @@ fjtv://fjzh
 fjtv://fjdn
 #EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://logo.waveflow.tv/tv/福建新闻.png" group-title="福建",福建新闻
 fjtv://fjnews
-#EXTINF:-1 tvg-name="福建文旅体育" tvg-logo="https://logo.waveflow.tv/tv/福建文体.png" group-title="福建",福建文旅体育
+#EXTINF:-1 tvg-name="福建文体" tvg-logo="https://logo.waveflow.tv/tv/福建文体.png" group-title="福建",福建文体
 fjtv://fjculture
 #EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://logo.waveflow.tv/tv/福建少儿.png" group-title="福建",福建少儿
 fjtv://fjkid
@@ -15,53 +15,53 @@ fjtv://fjhxws
 fjtv://xmws
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://logo.waveflow.tv/tv/厦门卫视.png" group-title="福建",厦门卫视
 fjtv://xmws-xmtv
-#EXTINF:-1 tvg-name="福州新闻综合" tvg-logo="https://logo.waveflow.tv/tv/福州新闻.png" group-title="福建",福州新闻综合
+#EXTINF:-1 tvg-name="福州新闻" tvg-logo="https://logo.waveflow.tv/tv/福州新闻.png" group-title="福建",福州新闻
 fjtv://fznews
-#EXTINF:-1 tvg-name="漳州新闻综合" tvg-logo="https://logo.waveflow.tv/tv/漳州新闻.png" group-title="福建",漳州新闻综合
+#EXTINF:-1 tvg-name="漳州新闻" tvg-logo="https://logo.waveflow.tv/tv/漳州新闻.png" group-title="福建",漳州新闻
 fjtv://zznews
-#EXTINF:-1 tvg-name="三明综合" group-title="福建",三明综合
+#EXTINF:-1 tvg-name="三明新闻" group-title="福建",三明新闻
 fjtv://smtv
-#EXTINF:-1 tvg-name="泉州新闻综合" tvg-logo="https://logo.waveflow.tv/tv/泉州新闻.png" group-title="福建",泉州新闻综合
+#EXTINF:-1 tvg-name="泉州新闻" tvg-logo="https://logo.waveflow.tv/tv/泉州新闻.png" group-title="福建",泉州新闻
 fjtv://qznews
-#EXTINF:-1 tvg-name="泉州新闻综合" tvg-logo="https://logo.waveflow.tv/tv/泉州新闻.png" group-title="福建",泉州新闻综合
+#EXTINF:-1 tvg-name="泉州新闻" tvg-logo="https://logo.waveflow.tv/tv/泉州新闻.png" group-title="福建",泉州新闻
 #EXTVLCOPT:http-referrer=https://www.qztv.cn/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Fwww.qztv.cn%2F
 http://live.qztv.cn/live/news20260520_lld.m3u8
-#EXTINF:-1 tvg-name="泉州新闻综合4套" tvg-logo="https://logo.waveflow.tv/tv/泉州四套.png" group-title="福建",泉州新闻综合4套
+#EXTINF:-1 tvg-name="泉州闽南语" tvg-logo="https://logo.waveflow.tv/tv/泉州四套.png" group-title="福建",泉州闽南语
 #EXTVLCOPT:http-referrer=https://www.qztv.cn/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Fwww.qztv.cn%2F
 http://live.qztv.cn/live/mny20260520_lld.m3u8
-#EXTINF:-1 tvg-name="南平综合" group-title="福建",南平综合
+#EXTINF:-1 tvg-name="南平新闻" group-title="福建",南平新闻
 fjtv://nptv
-#EXTINF:-1 tvg-name="龙岩综合" group-title="福建",龙岩综合
+#EXTINF:-1 tvg-name="龙岩新闻" group-title="福建",龙岩新闻
 fjtv://lytv
-#EXTINF:-1 tvg-name="莆田新闻综合" tvg-logo="https://logo.waveflow.tv/tv/莆田新闻.png" group-title="福建",莆田新闻综合
+#EXTINF:-1 tvg-name="莆田新闻" tvg-logo="https://logo.waveflow.tv/tv/莆田新闻.png" group-title="福建",莆田新闻
 fjtv://puttv
-#EXTINF:-1 tvg-name="平潭综合" group-title="福建",平潭综合
+#EXTINF:-1 tvg-name="平潭电视台" group-title="福建",平潭电视台
 fjtv://pttv
-#EXTINF:-1 tvg-name="宁德新闻综合" group-title="福建",宁德新闻综合
+#EXTINF:-1 tvg-name="宁德新闻" group-title="福建",宁德新闻
 fjtv://ndtv
-#EXTINF:-1 tvg-name="宁德新闻综合" group-title="福建",宁德新闻综合
+#EXTINF:-1 tvg-name="宁德新闻" group-title="福建",宁德新闻
 nd0593tv://nd-news
-#EXTINF:-1 tvg-name="厦视一套" tvg-logo="https://logo.waveflow.tv/tv/厦门1.png" group-title="福建",厦视一套
+#EXTINF:-1 tvg-name="厦门一套" tvg-logo="https://logo.waveflow.tv/tv/厦门1.png" group-title="福建",厦门一套
 fjtv://xmtv-1
-#EXTINF:-1 tvg-name="厦视二套" tvg-logo="https://logo.waveflow.tv/tv/厦门2.png" group-title="福建",厦视二套
+#EXTINF:-1 tvg-name="厦门二套" tvg-logo="https://logo.waveflow.tv/tv/厦门2.png" group-title="福建",厦门二套
 fjtv://xmtv-2
 #EXTINF:-1 tvg-name="厦门移动电视" tvg-logo="https://logo.waveflow.tv/tv/厦门3.png" group-title="福建",厦门移动电视
 fjtv://xmtv-mobile
-#EXTINF:-1 tvg-name="晋江综合" group-title="福建",晋江综合
+#EXTINF:-1 tvg-name="晋江电视台" group-title="福建",晋江电视台
 fjtv://jjtv
-#EXTINF:-1 tvg-name="石狮新闻综合" group-title="福建",石狮新闻综合
+#EXTINF:-1 tvg-name="石狮新闻" group-title="福建",石狮新闻
 fjtv://sstv
-#EXTINF:-1 tvg-name="莆田1套" tvg-logo="https://logo.waveflow.tv/tv/莆田新闻.png" group-title="福建",莆田1套
+#EXTINF:-1 tvg-name="莆田新闻" tvg-logo="https://logo.waveflow.tv/tv/莆田新闻.png" group-title="福建",莆田新闻
 ptbtv://1
-#EXTINF:-1 tvg-name="莆田2套" tvg-logo="https://logo.waveflow.tv/tv/莆田新闻.png" group-title="福建",莆田2套
+#EXTINF:-1 tvg-name="莆田公共" tvg-logo="https://logo.waveflow.tv/tv/莆田新闻.png" group-title="福建",莆田公共
 ptbtv://2
-#EXTINF:-1 tvg-name="仙游电视" tvg-logo="https://logo.waveflow.tv/tv/莆田新闻.png" group-title="福建",仙游电视
+#EXTINF:-1 tvg-name="仙游电视台" tvg-logo="https://logo.waveflow.tv/tv/莆田新闻.png" group-title="福建",仙游电视台
 ptbtv://xianyou
-#EXTINF:-1 tvg-name="宁德文化旅游" group-title="福建",宁德文化旅游
+#EXTINF:-1 tvg-name="宁德文旅" group-title="福建",宁德文旅
 nd0593tv://nd-culture
-#EXTINF:-1 tvg-name="厦门集美" group-title="福建",厦门集美
+#EXTINF:-1 tvg-name="集美电视台" group-title="福建",集美电视台
 qukan://jimei
 #EXTINF:-1 tvg-name="德化电视台" group-title="福建",德化电视台
 https://play.cmptp.fjgdwl.com/live/63a563ec75764af588f3215b0afa2588.m3u8
@@ -71,5 +71,5 @@ https://p8.vzan.com/slowlive/691013350462987151/live.m3u8
 https://play-hsbj.vzan.com/2144741973/681448837351911792/live.m3u8
 #EXTINF:-1 tvg-name="邵武电视台" group-title="福建",邵武电视台
 http://lxhls.yisoftai.com/live/hw_lxlive.m3u8
-#EXTINF:-1 tvg-name="云霄新闻网" group-title="福建",云霄新闻网
+#EXTINF:-1 tvg-name="云霄电视台" group-title="福建",云霄电视台
 https://live.zzyxxw.com:2443/live/xwzh.m3u8
