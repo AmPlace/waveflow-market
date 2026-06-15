@@ -2287,7 +2287,7 @@
       "previewable": true,
       "supported_in_v1": true,
       "unsupported_reason": null,
-      "requires_proxy": false,
+      "requires_proxy": true,
       "requires_resolver": false,
       "requires_cookie": false,
       "requires_referer": false,
