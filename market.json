@@ -1986,6 +1986,49 @@
       "source_count": 1
     },
     {
+      "id": "waveflow-fujian",
+      "name": "WaveFlow 福建",
+      "description": "福建省市县台",
+      "kind": "dynamic_playlist",
+      "version": "2026.06.14",
+      "updated_at": "2026-06-14T00:00:00+08:00",
+      "manifest_url": "packages/waveflow-fujian/manifest.json",
+      "region": {
+        "country": "CN",
+        "province": "福建",
+        "city": null
+      },
+      "operators": [
+        "福建"
+      ],
+      "language": [
+        "zh-CN"
+      ],
+      "categories": [
+        "tv",
+        "福建"
+      ],
+      "tags": [
+        "tv",
+        "福建"
+      ],
+      "status": "stable",
+      "source_origin": "community",
+      "source_policy": "community_index",
+      "risk_level": "low",
+      "importable": true,
+      "previewable": true,
+      "supported_in_v1": true,
+      "unsupported_reason": null,
+      "requires_proxy": false,
+      "requires_resolver": true,
+      "requires_cookie": false,
+      "requires_referer": false,
+      "requires_custom_ua": false,
+      "channel_count": 0,
+      "source_count": 1
+    },
+    {
       "id": "waveflow-unicom-fujian",
       "name": "福建联通反代",
       "description": "福建联通 IPTV 反代源，RTSP 流媒体格式，含央视、卫视、厦门本地及购物频道。",
