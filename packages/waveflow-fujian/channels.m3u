@@ -63,7 +63,7 @@ ptbtv://xianyou
 nd0593tv://nd-culture
 #EXTINF:-1 tvg-name="集美电视台" group-title="福建",集美电视台
 qukan://jimei
-#EXTINF:-1 tvg-name="德化电视台" group-title="福建",德化电视台
+#EXTINF:-1 tvg-name="德化电视台" tvg-logo="https://logo.waveflow.tv/tv/德化电视台.png" group-title="福建",德化电视台
 https://play.cmptp.fjgdwl.com/live/63a563ec75764af588f3215b0afa2588.m3u8
 #EXTINF:-1 tvg-name="长乐电视台" group-title="福建",长乐电视台
 https://p8.vzan.com/slowlive/691013350462987151/live.m3u8
