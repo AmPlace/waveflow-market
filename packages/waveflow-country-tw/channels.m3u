@@ -1,146 +1,105 @@
 #EXTM3U
 
 #EXTGRP:台湾
-#EXTINF:-1 tvg-id="三立iNEWS" tvg-name="三立iNEWS" tvg-logo="https://i.ytimg.com/vi/pF507BLtbqU/hqdefault.jpg" group-title="台湾",三立iNEWS
+
+#EXTINF:-1 tvg-id="三立iNEWS" tvg-name="三立iNEWS" tvg-logo="https://i.ytimg.com/vi/pF507BLtbqU/maxresdefault.jpg" group-title="台湾",三立iNEWS
 https://www.youtube.com/watch?v=pF507BLtbqU
 
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://i.ytimg.com/vi/Ej3LQM_lTEw/hqdefault.jpg" group-title="台湾",寰宇新聞台灣台
+#EXTINF:-1 tvg-id="寰宇新闻台湾台" tvg-name="寰宇新闻台湾台" tvg-logo="https://i.ytimg.com/vi/Ej3LQM_lTEw/maxresdefault.jpg" group-title="台湾",寰宇新闻台湾台
 https://www.youtube.com/watch?v=Ej3LQM_lTEw
 
-#EXTINF:-1 tvg-id="東森財經新聞" tvg-name="東森財經新聞" tvg-logo="https://i.ytimg.com/vi/1I2iq41Akmo/hqdefault.jpg" group-title="台湾",東森財經新聞
-https://www.youtube.com/watch?v=1I2iq41Akmo
+#EXTINF:-1 tvg-id="东森财经新闻" tvg-name="东森财经新闻" tvg-logo="https://i.ytimg.com/vi/1I2iq41Akmo/maxresdefault.jpg" group-title="台湾",东森财经新闻
+https://www.youtube.com/@57ETFN/live
 
-#EXTINF:-1 tvg-id="運通財經台" tvg-name="運通財經台" tvg-logo="https://i.ytimg.com/vi/dlTbFSt2spc/hqdefault.jpg" group-title="台湾",運通財經台
+#EXTINF:-1 tvg-id="运通财经" tvg-name="运通财经" tvg-logo="https://i.ytimg.com/vi/dlTbFSt2spc/maxresdefault.jpg" group-title="台湾",运通财经
 https://www.youtube.com/watch?v=dlTbFSt2spc
 
-#EXTINF:-1 tvg-id="信大電視台" tvg-name="信大電視台" tvg-logo="https://i.ytimg.com/vi/3MakY86sYn8/hqdefault.jpg" group-title="台湾",信大電視台
+#EXTINF:-1 tvg-id="信大电视台" tvg-name="信大电视台" tvg-logo="https://i.ytimg.com/vi/3MakY86sYn8/maxresdefault.jpg" group-title="台湾",信大电视台
 https://www.youtube.com/watch?v=3MakY86sYn8
 
-#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://i.ytimg.com/vi/TCnaIE_SAtM/hqdefault.jpg" group-title="台湾",中視新聞
-https://www.youtube.com/watch?v=TCnaIE_SAtM
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://i.ytimg.com/vi/TCnaIE_SAtM/maxresdefault.jpg" group-title="台湾",中视新闻
+https://www.youtube.com/@中視新聞/live
 
-#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://i.ytimg.com/vi/A7U625JPuyM/hqdefault.jpg" group-title="台湾",中天亞洲台
+#EXTINF:-1 tvg-id="中天亚洲" tvg-name="中天亚洲" tvg-logo="https://i.ytimg.com/vi/A7U625JPuyM/maxresdefault.jpg" group-title="台湾",中天亚洲
 https://www.youtube.com/watch?v=A7U625JPuyM
 
-#EXTINF:-1 tvg-id="民視新聞" tvg-name="民視新聞" tvg-logo="https://i.ytimg.com/vi/ylYJSBUgaMA/hqdefault.jpg" group-title="台湾",民視新聞
-https://www.youtube.com/watch?v=ylYJSBUgaMA
+#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://i.ytimg.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="台湾",民视新闻
+https://www.youtube.com/@FTV_News/live
 
-#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://i.ytimg.com/vi/sNtCBxP-8LY/hqdefault.jpg" group-title="台湾",台視新聞台
-https://www.youtube.com/watch?v=sNtCBxP-8LY
+#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://i.ytimg.com/vi/sNtCBxP-8LY/maxresdefault.jpg" group-title="台湾",台视新闻
+https://www.youtube.com/@TTVNEWS/live
 
-#EXTINF:-1 tvg-id="TVBS NEWS" tvg-name="TVBS NEWS" tvg-logo="https://i.ytimg.com/vi/m_dhMSvUCIc/hqdefault.jpg" group-title="台湾",TVBS NEWS
-https://www.youtube.com/watch?v=m_dhMSvUCIc
+#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://i.ytimg.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台湾",TVBS新闻
+https://www.youtube.com/@TVBSNEWS01/live
 
-#EXTINF:-1 tvg-id="TVBS NEWS" tvg-name="TVBS NEWS" tvg-logo="https://i.ytimg.com/vi/WDAgrySiPeY/hqdefault.jpg" group-title="台湾",TVBS NEWS
-https://www.youtube.com/watch?v=WDAgrySiPeY
-
-#EXTINF:-1 tvg-id="三立新聞台" tvg-name="三立新聞台" tvg-logo="https://i.ytimg.com/vi/hGJkDZDchYI/hqdefault.jpg" group-title="台湾",三立新聞台
+#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://i.ytimg.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台湾",三立新闻
 https://www.youtube.com/watch?v=hGJkDZDchYI
 
-#EXTINF:-1 tvg-id="中天電視" tvg-name="中天電視" tvg-logo="https://i.ytimg.com/vi/vr3XyVCR4T0/hqdefault.jpg" group-title="台湾",中天電視
-https://www.youtube.com/watch?v=vr3XyVCR4T0
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://i.ytimg.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台湾",中天新闻
+https://www.youtube.com/@CtiTv/live
 
-#EXTINF:-1 tvg-id="鏡新聞" tvg-name="鏡新聞" tvg-logo="https://i.ytimg.com/vi/5n0y6b0Q25o/hqdefault.jpg" group-title="台湾",鏡新聞
-https://www.youtube.com/watch?v=5n0y6b0Q25o
+#EXTINF:-1 tvg-id="镜新闻" tvg-name="镜新闻" tvg-logo="https://i.ytimg.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台湾",镜新闻
+https://www.youtube.com/@mnews_tw/live
 
-#EXTINF:-1 tvg-id="TVBS選新聞" tvg-name="TVBS選新聞" tvg-logo="https://i.ytimg.com/vi/o_-hSMgpAzs/hqdefault.jpg" group-title="台湾",TVBS選新聞
+#EXTINF:-1 tvg-id="TVBS选新闻" tvg-name="TVBS选新闻" tvg-logo="https://i.ytimg.com/vi/o_-hSMgpAzs/maxresdefault.jpg" group-title="台湾",TVBS选新闻
 https://www.youtube.com/watch?v=o_-hSMgpAzs
 
-#EXTINF:-1 tvg-id="寰宇新聞財經台" tvg-name="寰宇新聞財經台" tvg-logo="https://i.ytimg.com/vi/yAUQQ0DhPxI/hqdefault.jpg" group-title="台湾",寰宇新聞財經台
+#EXTINF:-1 tvg-id="寰宇新闻财经" tvg-name="寰宇新闻财经" tvg-logo="https://i.ytimg.com/vi/yAUQQ0DhPxI/maxresdefault.jpg" group-title="台湾",寰宇新闻财经
 https://www.youtube.com/watch?v=yAUQQ0DhPxI
 
-#EXTINF:-1 tvg-id="倪珍24小時播新聞" tvg-name="倪珍24小時播新聞" tvg-logo="https://i.ytimg.com/vi/RRybv1kEnCU/hqdefault.jpg" group-title="台湾",倪珍24小時播新聞
-https://www.youtube.com/watch?v=RRybv1kEnCU
+#EXTINF:-1 tvg-id="公视新闻" tvg-name="公视新闻" tvg-logo="https://i.ytimg.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台湾",公视新闻
+https://www.youtube.com/@PNNPTS/live
 
-#EXTINF:-1 tvg-id="公視新聞網" tvg-name="公視新聞網" tvg-logo="https://i.ytimg.com/vi/quwqlazU-c8/hqdefault.jpg" group-title="台湾",公視新聞網
-https://www.youtube.com/watch?v=quwqlazU-c8
+#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://i.ytimg.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="台湾",华视新闻
+https://www.youtube.com/@CtsTw/live
 
-#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://i.ytimg.com/vi/wM0g8EoUZ_E/hqdefault.jpg" group-title="台湾",華視新聞
-https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://i.ytimg.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="台湾",东森新闻
+https://www.youtube.com/@newsebc/live
 
-#EXTINF:-1 tvg-id="東森新聞51頻道" tvg-name="東森新聞51頻道" tvg-logo="https://i.ytimg.com/vi/V1p33hqPrUk/hqdefault.jpg" group-title="台湾",東森新聞51頻道
-https://www.youtube.com/watch?v=V1p33hqPrUk
+#EXTINF:-1 tvg-id="TaiwanPlus" tvg-name="TaiwanPlus" tvg-logo="https://i.ytimg.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台湾",TaiwanPlus
+https://www.youtube.com/@TaiwanPlusNews/live
 
-#EXTINF:-1 tvg-id="TaiwanPlus" tvg-name="TaiwanPlus" tvg-logo="https://i.ytimg.com/vi/Vrs-AeKZIEg/hqdefault.jpg" group-title="台湾",TaiwanPlus
-https://www.youtube.com/watch?v=Vrs-AeKZIEg
-
-#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://i.ytimg.com/vi/UQnVkK1kcDI/hqdefault.jpg" group-title="台湾",國會頻道1
-https://www.youtube.com/watch?v=UQnVkK1kcDI
-
-#EXTINF:-1 tvg-id="公視網路直播頻道" tvg-name="公視網路直播頻道" tvg-logo="https://i.ytimg.com/vi/C6gYqSHLRw4/hqdefault.jpg" group-title="台湾",公視網路直播頻道
+#EXTINF:-1 tvg-id="公视网络直播" tvg-name="公视网络直播" tvg-logo="https://i.ytimg.com/vi/C6gYqSHLRw4/maxresdefault.jpg" group-title="台湾",公视网络直播
 https://www.youtube.com/watch?v=C6gYqSHLRw4
 
-#EXTINF:-1 tvg-id="華視公眾安全資訊觀測站" tvg-name="華視公眾安全資訊觀測站" tvg-logo="https://i.ytimg.com/vi/meHTKm4XBS8/hqdefault.jpg" group-title="台湾",華視公眾安全資訊觀測站
-https://www.youtube.com/watch?v=meHTKm4XBS8
+#EXTINF:-1 tvg-id="壹电视新闻" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
+https://www.youtube.com/channel/UC6hWBu1hfbNNk8Yeokd5aZQ/live
 
-#EXTINF:-1 tvg-id="momo購物一台" tvg-name="momo購物一台" tvg-logo="https://i.ytimg.com/vi/_pZQ1Lk0xMA/hqdefault.jpg" group-title="台湾",momo購物一台
-https://www.youtube.com/watch?v=_pZQ1Lk0xMA
+#EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" group-title="台湾",年代新闻
+https://www.youtube.com/channel/UCHBv5vSp3pETSLq8oWTsmqA/live
 
-#EXTINF:-1 tvg-id="momo購物二台" tvg-name="momo購物二台" tvg-logo="https://i.ytimg.com/vi/xbNWkUyxQGM/hqdefault.jpg" group-title="台湾",momo購物二台
-https://www.youtube.com/watch?v=xbNWkUyxQGM
+#EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" group-title="台湾",非凡新闻
+https://www.youtube.com/channel/UCYIVkruUoN04UjV9pkBTswg/live
 
-#EXTINF:-1 tvg-id="東森購物台CH60" tvg-name="東森購物台CH60" tvg-logo="https://i.ytimg.com/vi/2IGZjBPTPT8/hqdefault.jpg" group-title="台湾",東森購物台CH60
-https://www.youtube.com/watch?v=2IGZjBPTPT8
+#EXTINF:-1 tvg-id="非凡商业" tvg-name="非凡商业" group-title="台湾",非凡商业
+https://www.youtube.com/channel/UCLHsQL4YChylDX-06BCuNQA/live
 
-#EXTINF:-1 tvg-id="東森購物台CH46" tvg-name="東森購物台CH46" tvg-logo="https://i.ytimg.com/vi/tUvQg2HgIbs/hqdefault.jpg" group-title="台湾",東森購物台CH46
-https://www.youtube.com/watch?v=tUvQg2HgIbs
-
-#EXTINF:-1 tvg-id="東森購物台CH47" tvg-name="東森購物台CH47" tvg-logo="https://i.ytimg.com/vi/wRdZ2t8Vd6k/hqdefault.jpg" group-title="台湾",東森購物台CH47
-https://www.youtube.com/watch?v=wRdZ2t8Vd6k
-
-#EXTINF:-1 tvg-id="東森購物台CH34" tvg-name="東森購物台CH34" tvg-logo="https://i.ytimg.com/vi/J3t9N0vciPI/hqdefault.jpg" group-title="台湾",東森購物台CH34
-https://www.youtube.com/watch?v=J3t9N0vciPI
-
-#EXTINF:-1 tvg-id="美好購物1台" tvg-name="美好購物1台" tvg-logo="https://i.ytimg.com/vi/8TBJDKRcg6c/hqdefault.jpg" group-title="台湾",美好購物1台
-https://www.youtube.com/watch?v=8TBJDKRcg6c
-
-#EXTINF:-1 tvg-id="美好購物2台" tvg-name="美好購物2台" tvg-logo="https://i.ytimg.com/vi/MHoyggBaFW4/hqdefault.jpg" group-title="台湾",美好購物2台
-https://www.youtube.com/watch?v=MHoyggBaFW4
-
-#EXTINF:-1 tvg-id="大愛一臺HD" tvg-name="大愛一臺HD" tvg-logo="https://i.ytimg.com/vi/pM-1ytfQhos/hqdefault.jpg" group-title="台湾",大愛一臺HD
+#EXTINF:-1 tvg-id="大爱一台" tvg-name="大爱一台" tvg-logo="https://i.ytimg.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台湾",大爱一台
 https://www.youtube.com/watch?v=pM-1ytfQhos
 
-#EXTINF:-1 tvg-id="大愛二臺HD" tvg-name="大愛二臺HD" tvg-logo="https://i.ytimg.com/vi/QDxRJP-wfeI/hqdefault.jpg" group-title="台湾",大愛二臺HD
+#EXTINF:-1 tvg-id="大爱二台" tvg-name="大爱二台" tvg-logo="https://i.ytimg.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台湾",大爱二台
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 
-#EXTINF:-1 tvg-id="華視戲劇頻道" tvg-name="華視戲劇頻道" tvg-logo="https://i.ytimg.com/vi/6ZowCmLBcMY/hqdefault.jpg" group-title="台湾",華視戲劇頻道
+#EXTINF:-1 tvg-id="华视戏剧" tvg-name="华视戏剧" tvg-logo="https://i.ytimg.com/vi/6ZowCmLBcMY/maxresdefault.jpg" group-title="台湾",华视戏剧
 https://www.youtube.com/watch?v=6ZowCmLBcMY
 
-#EXTINF:-1 tvg-id="華視綜藝頻道" tvg-name="華視綜藝頻道" tvg-logo="https://i.ytimg.com/vi/0ePhPlTJbGo/hqdefault.jpg" group-title="台湾",華視綜藝頻道
+#EXTINF:-1 tvg-id="华视综艺" tvg-name="华视综艺" tvg-logo="https://i.ytimg.com/vi/0ePhPlTJbGo/maxresdefault.jpg" group-title="台湾",华视综艺
 https://www.youtube.com/watch?v=0ePhPlTJbGo
 
-#EXTINF:-1 tvg-id="中視經典綜藝" tvg-name="中視經典綜藝" tvg-logo="https://i.ytimg.com/vi/ADDSmXoPDY8/hqdefault.jpg" group-title="台湾",中視經典綜藝
+#EXTINF:-1 tvg-id="中视经典综艺" tvg-name="中视经典综艺" tvg-logo="https://i.ytimg.com/vi/ADDSmXoPDY8/maxresdefault.jpg" group-title="台湾",中视经典综艺
 https://www.youtube.com/watch?v=ADDSmXoPDY8
 
-#EXTINF:-1 tvg-id="中天2台" tvg-name="中天2台" tvg-logo="https://i.ytimg.com/vi/mIpNxnIL0sk/hqdefault.jpg" group-title="台湾",中天2台
+#EXTINF:-1 tvg-id="中天2台" tvg-name="中天2台" tvg-logo="https://i.ytimg.com/vi/mIpNxnIL0sk/maxresdefault.jpg" group-title="台湾",中天2台
 https://www.youtube.com/watch?v=mIpNxnIL0sk
 
-#EXTINF:-1 tvg-id="Muse木棉花-闔家歡" tvg-name="Muse木棉花-闔家歡" tvg-logo="https://i.ytimg.com/vi/Lh6xiMlkRrg/hqdefault.jpg" group-title="台湾",Muse木棉花-闔家歡
+#EXTINF:-1 tvg-id="木棉花阖家欢" tvg-name="木棉花阖家欢" tvg-logo="https://i.ytimg.com/vi/Lh6xiMlkRrg/maxresdefault.jpg" group-title="台湾",木棉花阖家欢
 https://www.youtube.com/watch?v=Lh6xiMlkRrg
 
-#EXTINF:-1 tvg-id="YOYO TV" tvg-name="YOYO TV" tvg-logo="https://i.ytimg.com/vi/KbG88GiZmBI/hqdefault.jpg" group-title="台湾",YOYO TV
+#EXTINF:-1 tvg-id="YOYO儿童" tvg-name="YOYO儿童" tvg-logo="https://i.ytimg.com/vi/KbG88GiZmBI/maxresdefault.jpg" group-title="台湾",YOYO儿童
 https://www.youtube.com/watch?v=KbG88GiZmBI
 
-#EXTINF:-1 tvg-id="MIT台灣誌" tvg-name="MIT台灣誌" tvg-logo="https://i.ytimg.com/vi/DxvKbRgUXc8/hqdefault.jpg" group-title="台湾",MIT台灣誌
-https://www.youtube.com/watch?v=DxvKbRgUXc8
-
-#EXTINF:-1 tvg-id="大陸尋奇" tvg-name="大陸尋奇" tvg-logo="https://i.ytimg.com/vi/LqXVZ_hK3Xs/hqdefault.jpg" group-title="台湾",大陸尋奇
-https://www.youtube.com/watch?v=LqXVZ_hK3Xs
-
-#EXTINF:-1 tvg-id="豬哥會社" tvg-name="豬哥會社" tvg-logo="https://i.ytimg.com/vi/v8MUGB4vst8/hqdefault.jpg" group-title="台湾",豬哥會社
-https://www.youtube.com/watch?v=v8MUGB4vst8
-
-#EXTINF:-1 tvg-id="GTV DRAMA 八大劇樂部" tvg-name="GTV DRAMA 八大劇樂部" tvg-logo="https://i.ytimg.com/vi/qcGSEaOm6rk/hqdefault.jpg" group-title="台湾",GTV DRAMA 八大劇樂部
-https://www.youtube.com/watch?v=qcGSEaOm6rk
-
-#EXTINF:-1 tvg-id="民視戲劇館" tvg-name="民視戲劇館" tvg-logo="https://i.ytimg.com/vi/65bIk97v35Q/hqdefault.jpg" group-title="台湾",民視戲劇館
+#EXTINF:-1 tvg-id="民视戏剧馆" tvg-name="民视戏剧馆" tvg-logo="https://i.ytimg.com/vi/65bIk97v35Q/maxresdefault.jpg" group-title="台湾",民视戏剧馆
 https://www.youtube.com/watch?v=65bIk97v35Q
 
-#EXTINF:-1 tvg-id="飢餓遊戲" tvg-name="飢餓遊戲" tvg-logo="https://i.ytimg.com/vi/6TsaEYaKueE/hqdefault.jpg" group-title="台湾",飢餓遊戲
-https://www.youtube.com/watch?v=6TsaEYaKueE
-
-#EXTINF:-1 tvg-id="東森綜合2台" tvg-name="東森綜合2台" tvg-logo="https://i.ytimg.com/vi/cimbpAZUjzw/hqdefault.jpg" group-title="台湾",東森綜合2台
+#EXTINF:-1 tvg-id="东森综合2台" tvg-name="东森综合2台" tvg-logo="https://i.ytimg.com/vi/cimbpAZUjzw/maxresdefault.jpg" group-title="台湾",东森综合2台
 https://www.youtube.com/watch?v=cimbpAZUjzw
-
-#EXTINF:-1 tvg-id="佛光山人間衛視" tvg-name="佛光山人間衛視" tvg-logo="https://i.ytimg.com/vi/po0VN0X9O-8/hqdefault.jpg" group-title="台湾",佛光山人間衛視
-https://www.youtube.com/watch?v=po0VN0X9O-8
