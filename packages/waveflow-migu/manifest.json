@@ -25,7 +25,7 @@
     },
     "source": {
       "type": "migu",
-      "requires_proxy": false,
+      "requires_proxy": true,
       "headers": {}
     }
   },
