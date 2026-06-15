@@ -73,3 +73,9 @@ https://play-hsbj.vzan.com/2144741973/681448837351911792/live.m3u8
 http://lxhls.yisoftai.com/live/hw_lxlive.m3u8
 #EXTINF:-1 tvg-name="云霄电视台" group-title="福建",云霄电视台
 https://live.zzyxxw.com:2443/live/xwzh.m3u8
+#EXTINF:-1 tvg-name="福州新闻" tvg-logo="https://logo.waveflow.tv/tv/福州新闻.png" group-title="福建",福州新闻
+http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+#EXTINF:-1 tvg-name="福州生活" tvg-logo="https://logo.waveflow.tv/tv/福州生活.png" group-title="福建",福州生活
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1 tvg-name="福州少儿" tvg-logo="https://logo.waveflow.tv/tv/福州少儿.png" group-title="福建",福州少儿
+http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
