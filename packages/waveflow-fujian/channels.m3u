@@ -50,9 +50,9 @@ fjtv://xmtv-2
 #EXTINF:-1 tvg-name="厦门移动电视" tvg-logo="https://logo.waveflow.tv/tv/厦门3.png" group-title="福建",厦门移动电视
 fjtv://xmtv-mobile
 #EXTINF:-1 tvg-name="晋江电视台" group-title="福建",晋江电视台
-fjtv://jjtv
+http://live.ijjnews.com/jjtv/sd/live.m3u8
 #EXTINF:-1 tvg-name="石狮新闻" group-title="福建",石狮新闻
-fjtv://sstv
+http://live-new.chinashishi.net/SSTV/sd/live.m3u8
 #EXTINF:-1 tvg-name="莆田新闻" tvg-logo="https://logo.waveflow.tv/tv/莆田新闻.png" group-title="福建",莆田新闻
 ptbtv://1
 #EXTINF:-1 tvg-name="莆田公共" tvg-logo="https://logo.waveflow.tv/tv/莆田新闻.png" group-title="福建",莆田公共

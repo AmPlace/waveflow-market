@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="辽宁北斗融媒",辽宁卫视
+rtmp://bdrmtvzb-new.lnyun.com.cn/bdrm/lntv?auth_key=1864483200-0-0-ef120e35be2f59a3e8eaf932253594a4
+#EXTINF:-1 tvg-name="辽宁都市" group-title="辽宁北斗融媒",辽宁都市
+rtmp://bdrmtvzb-new.lnyun.com.cn/bdrm/dspd?auth_key=1864483200-0-0-3e2a6024c1082b062bebf1a4e3ab24f4
+#EXTINF:-1 tvg-name="辽宁影视" group-title="辽宁北斗融媒",辽宁影视
+rtmp://bdrmtvzb-new.lnyun.com.cn/bdrm/yspd?auth_key=1864483200-0-0-809dbb5d56ee9402beceb151c7325544
+#EXTINF:-1 tvg-name="辽宁教育青少" group-title="辽宁北斗融媒",辽宁教育青少
+rtmp://bdrmtvzb-new.lnyun.com.cn/bdrm/qspd?auth_key=1864483200-0-0-3659177ba9d5fc47f115eed50c06f6dc
+#EXTINF:-1 tvg-name="辽宁生活" group-title="辽宁北斗融媒",辽宁生活
+rtmp://bdrmtvzb-new.lnyun.com.cn/bdrm/shpd?auth_key=1864483200-0-0-fa710d221a5ea3cc2c9bb7435713cd0e
+#EXTINF:-1 tvg-name="辽宁体育" group-title="辽宁北斗融媒",辽宁体育
+rtmp://bdrmtvzb-new.lnyun.com.cn/bdrm/typd?auth_key=1864483200-0-0-83906cc4121da0dcd44919059c229e3e
+#EXTINF:-1 tvg-name="辽宁北方" group-title="辽宁北斗融媒",辽宁北方
+rtmp://bdrmtvzb-new.lnyun.com.cn/bdrm/bfpd?auth_key=1864483200-0-0-b4cf7fcbc8100f9c592a1d07b10f4eca
+#EXTINF:-1 tvg-name="辽宁宜佳购物" group-title="辽宁北斗融媒",辽宁宜佳购物
+rtmp://bdrmtvzb-new.lnyun.com.cn/bdrm/yjgw?auth_key=1864483200-0-0-446e60d2e09f748f8db5c4d6f6ee3df2
+#EXTINF:-1 tvg-name="辽宁新动漫" group-title="辽宁北斗融媒",辽宁新动漫
+rtmp://bdrmtvzb-new.lnyun.com.cn/bdrm/xdm?auth_key=1864483200-0-0-ed73f8163126e753a8985eea45fa70cd
+#EXTINF:-1 tvg-name="辽宁家庭理财" group-title="辽宁北斗融媒",辽宁家庭理财
+rtmp://bdrmtvzb-new.lnyun.com.cn/bdrm/jtlc?auth_key=1864483200-0-0-38e7846270fc57e02df665c28d026f8c
+#EXTINF:-1 tvg-name="辽宁移动电视" group-title="辽宁北斗融媒",辽宁移动电视
+rtmp://bdrmtvzb-new.lnyun.com.cn/bdrm/ydds?auth_key=1864483200-0-0-805e03f0839d8d93849c9b76e674fb5d

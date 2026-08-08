@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "waveflow-bdrm-liaoning",
+  "name": "WaveFlow 辽宁北斗融媒",
+  "kind": "dynamic_playlist",
+  "version": "2026.08.09",
+  "updated_at": "2026-08-09T00:00:00+08:00",
+  "defaults": {
+    "source": {
+      "type": "rtmp",
+      "requires_proxy": false,
+      "headers": {}
+    }
+  },
+  "channel_sources": [
+    {
+      "type": "playlist",
+      "id": "waveflow-bdrm-liaoning",
+      "name": "WaveFlow 辽宁北斗融媒",
+      "url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/waveflow-bdrm-liaoning/channels.m3u",
+      "referer": "http://veez.bdy.lnyun.com.cn"
+    }
+  ]
+}
