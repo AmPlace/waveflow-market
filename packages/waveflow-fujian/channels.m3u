@@ -79,3 +79,5 @@ http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-name="福州少儿" tvg-logo="https://logo.waveflow.tv/tv/福州少儿.png" group-title="福建",福州少儿
 http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+#EXTINF:-1 tvg-name="武夷山综合" group-title="福建",武夷山综合
+http://fjwysdb.chinashadt.com:2036/live/1.stream/playlist.m3u8
