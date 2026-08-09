@@ -4,9 +4,13 @@
 #EXTINF:-1 tvg-id="TVB 新闻台" tvg-name="TVB 新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/TVB_News_Channel_Logo.jpg" group-title="香港",TVB 新闻台
 tvb://I-NEWS
 
-#EXTINF:-1 tvg-id="TVB C2" tvg-name="TVB C2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/TVB_Peacock_logo.svg" group-title="香港",TVB C2
-tvb://C2
-
+# 以下 3 台走 myTV SUPER checkout → Widevine CENC DRM（需 DRM 播放器）；明珠台额外需 HK 住家 IP
+#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB 翡翠台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TVB_Jade.svg" group-title="香港",TVB 翡翠台
+tvb://JADE
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/TVB_Peacock_logo.svg" group-title="香港",TVB Plus
+tvb://TVBPLUS
+#EXTINF:-1 tvg-id="TVB Pearl" tvg-name="TVB 明珠台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/TVB_Pearl.svg" group-title="香港",TVB 明珠台
+tvb://PEARL
 
 #EXTINF:-1 tvg-id="NOW 新闻台" tvg-name="NOW 新闻台" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Now_News_logo.svg" group-title="香港",NOW 新闻台
 nowtv://NEWS
