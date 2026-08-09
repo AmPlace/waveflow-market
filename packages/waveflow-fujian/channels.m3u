@@ -25,11 +25,13 @@ fjtv://smtv
 fjtv://qznews
 #EXTINF:-1 tvg-name="泉州新闻" tvg-logo="https://logo.waveflow.tv/tv/泉州新闻.png" group-title="福建",泉州新闻
 #EXTVLCOPT:http-referrer=https://www.qztv.cn/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Fwww.qztv.cn%2F
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Fwww.qztv.cn%2F&User-Agent=Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0%20Safari%2F537.36
 http://live.qztv.cn/live/news20260520_lld.m3u8
 #EXTINF:-1 tvg-name="泉州闽南语" tvg-logo="https://logo.waveflow.tv/tv/泉州四套.png" group-title="福建",泉州闽南语
 #EXTVLCOPT:http-referrer=https://www.qztv.cn/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Fwww.qztv.cn%2F
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Fwww.qztv.cn%2F&User-Agent=Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0%20Safari%2F537.36
 http://live.qztv.cn/live/mny20260520_lld.m3u8
 #EXTINF:-1 tvg-name="南平新闻" group-title="福建",南平新闻
 fjtv://nptv
