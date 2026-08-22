@@ -23,5 +23,53 @@
         "User-Agent": "Mozilla/5.0"
       }
     }
-  ]
+  ],
+  "description": "黑龙江地区移动IPTV单播频道列表，含央视, 卫视, 其它等分类，共92个频道。",
+  "package_type": "content_package",
+  "regions": [
+    {
+      "country": "CN",
+      "province": "黑龙江",
+      "city": null
+    }
+  ],
+  "operators": [
+    "中国移动"
+  ],
+  "providers": [],
+  "languages": [
+    "zh-CN"
+  ],
+  "categories": [
+    "剧场",
+    "卫视",
+    "地方",
+    "央视",
+    "电影"
+  ],
+  "tags": [
+    "黑龙江",
+    "移动",
+    "单播",
+    "IPTV",
+    "卫视",
+    "央视",
+    "剧场",
+    "黑龙江台",
+    "CETV",
+    "电影",
+    "HLS"
+  ],
+  "publisher": {
+    "id": "github:AmPlace",
+    "name": "AmPlace"
+  },
+  "published_at": "2026-05-28T00:00:00+08:00",
+  "links": {
+    "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-mobile-heilongjiang"
+  },
+  "catalog": {
+    "sort_weight": 0,
+    "featured": false
+  }
 }

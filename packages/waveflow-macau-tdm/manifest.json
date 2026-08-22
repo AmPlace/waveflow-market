@@ -34,5 +34,45 @@
       "type": "m3u",
       "url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/waveflow-macau-tdm/channels.m3u"
     }
-  ]
+  ],
+  "description": "澳门广播电视股份有限公司(TDM)直播频道，含電視(11台)、電台(2台)，共13个频道，HLS直链。",
+  "package_type": "content_package",
+  "regions": [
+    {
+      "country": "MO",
+      "province": null,
+      "city": null
+    }
+  ],
+  "operators": [],
+  "providers": [
+    "TDM"
+  ],
+  "languages": [
+    "zh-HK",
+    "pt-PT"
+  ],
+  "categories": [
+    "地方",
+    "电视"
+  ],
+  "tags": [
+    "澳门",
+    "TDM",
+    "電視",
+    "電台",
+    "HLS"
+  ],
+  "publisher": {
+    "id": "github:AmPlace",
+    "name": "AmPlace"
+  },
+  "published_at": "2026-06-10T00:00:00+08:00",
+  "links": {
+    "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/waveflow-macau-tdm"
+  },
+  "catalog": {
+    "sort_weight": 0,
+    "featured": false
+  }
 }

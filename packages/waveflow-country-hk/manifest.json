@@ -23,5 +23,41 @@
         "User-Agent": "Mozilla/5.0"
       }
     }
-  ]
+  ],
+  "description": "包含香港本地直播源",
+  "package_type": "content_package",
+  "regions": [
+    {
+      "country": "HK",
+      "province": null,
+      "city": null
+    }
+  ],
+  "operators": [],
+  "providers": [],
+  "languages": [
+    "zh-HK"
+  ],
+  "categories": [
+    "地方",
+    "电视"
+  ],
+  "tags": [
+    "tv",
+    "HK",
+    "香港台",
+    "香港"
+  ],
+  "publisher": {
+    "id": "github:AmPlace",
+    "name": "AmPlace"
+  },
+  "published_at": "2026-05-28T00:00:00+08:00",
+  "links": {
+    "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/waveflow-country-hk"
+  },
+  "catalog": {
+    "sort_weight": 0,
+    "featured": false
+  }
 }

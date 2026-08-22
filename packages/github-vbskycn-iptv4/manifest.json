@@ -23,5 +23,54 @@
         "User-Agent": "Mozilla/5.0"
       }
     }
-  ]
+  ],
+  "description": "综合 IPTV 频道列表，含央视、卫视、体育、儿童、电影、春晚、风景直播等丰富分类。",
+  "package_type": "content_package",
+  "regions": [
+    {
+      "country": "CN",
+      "province": null,
+      "city": null
+    }
+  ],
+  "operators": [],
+  "providers": [],
+  "languages": [
+    "zh-CN"
+  ],
+  "categories": [
+    "体育",
+    "卫视",
+    "央视",
+    "少儿",
+    "港澳台",
+    "生活",
+    "电影",
+    "综艺"
+  ],
+  "tags": [
+    "IPTV",
+    "央视",
+    "卫视",
+    "春晚",
+    "电影",
+    "风景",
+    "少儿",
+    "体育",
+    "CHC",
+    "港片",
+    "HLS"
+  ],
+  "publisher": {
+    "id": "github:AmPlace",
+    "name": "AmPlace"
+  },
+  "published_at": "2026-05-28T00:00:00+08:00",
+  "links": {
+    "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/github-vbskycn-iptv4"
+  },
+  "catalog": {
+    "sort_weight": 0,
+    "featured": false
+  }
 }

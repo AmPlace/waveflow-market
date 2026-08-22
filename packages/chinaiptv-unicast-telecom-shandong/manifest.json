@@ -23,5 +23,60 @@
         "User-Agent": "Mozilla/5.0"
       }
     }
-  ]
+  ],
+  "description": "山东地区电信IPTV单播频道列表，含央视, 卫视, 教育, 地方, 其它等分类，共248个频道。",
+  "package_type": "content_package",
+  "regions": [
+    {
+      "country": "CN",
+      "province": "山东",
+      "city": null
+    }
+  ],
+  "operators": [
+    "中国电信"
+  ],
+  "providers": [],
+  "languages": [
+    "zh-CN"
+  ],
+  "categories": [
+    "体育",
+    "卫视",
+    "地方",
+    "央视",
+    "少儿",
+    "纪实",
+    "综艺",
+    "财经"
+  ],
+  "tags": [
+    "山东",
+    "电信",
+    "单播",
+    "IPTV",
+    "卫视",
+    "央视",
+    "少儿",
+    "山东台",
+    "体育",
+    "综艺",
+    "CETV",
+    "纪实",
+    "财经",
+    "CHC",
+    "HLS"
+  ],
+  "publisher": {
+    "id": "github:AmPlace",
+    "name": "AmPlace"
+  },
+  "published_at": "2026-05-28T00:00:00+08:00",
+  "links": {
+    "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-telecom-shandong"
+  },
+  "catalog": {
+    "sort_weight": 0,
+    "featured": false
+  }
 }

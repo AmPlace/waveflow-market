@@ -23,5 +23,38 @@
         "User-Agent": "Mozilla/5.0"
       }
     }
-  ]
+  ],
+  "description": "从远程 M3U 订阅动态解析频道。",
+  "package_type": "content_package",
+  "regions": [
+    {
+      "global": true
+    }
+  ],
+  "operators": [],
+  "providers": [
+    "YouTube"
+  ],
+  "languages": [
+    "zh-CN"
+  ],
+  "categories": [
+    "电视"
+  ],
+  "tags": [
+    "YouTube",
+    "动态订阅"
+  ],
+  "publisher": {
+    "id": "github:AmPlace",
+    "name": "AmPlace"
+  },
+  "published_at": "2026-05-28T00:00:00+08:00",
+  "links": {
+    "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/youtube-public"
+  },
+  "catalog": {
+    "sort_weight": 0,
+    "featured": false
+  }
 }

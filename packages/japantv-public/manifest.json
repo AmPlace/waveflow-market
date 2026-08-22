@@ -23,5 +23,58 @@
         "User-Agent": "Mozilla/5.0"
       }
     }
-  ]
+  ],
+  "description": "从远程 M3U 订阅动态解析频道。",
+  "package_type": "content_package",
+  "regions": [
+    {
+      "country": "JP",
+      "province": null,
+      "city": null
+    }
+  ],
+  "operators": [],
+  "providers": [],
+  "languages": [
+    "ja-JP"
+  ],
+  "categories": [
+    "体育",
+    "剧场",
+    "动画",
+    "少儿",
+    "新闻",
+    "电影",
+    "电视",
+    "纪实",
+    "韩流",
+    "音乐"
+  ],
+  "tags": [
+    "日本",
+    "地上デジタル",
+    "BS放送",
+    "CS放送",
+    "新闻",
+    "电影",
+    "体育",
+    "动漫",
+    "音乐",
+    "韩流",
+    "纪实",
+    "少儿",
+    "剧场"
+  ],
+  "publisher": {
+    "id": "github:AmPlace",
+    "name": "AmPlace"
+  },
+  "published_at": "2026-05-28T00:00:00+08:00",
+  "links": {
+    "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/japantv-public"
+  },
+  "catalog": {
+    "sort_weight": 0,
+    "featured": false
+  }
 }

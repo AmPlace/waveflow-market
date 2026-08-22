@@ -23,5 +23,38 @@
         "User-Agent": "Mozilla/5.0"
       }
     }
-  ]
+  ],
+  "description": "福建省市县台",
+  "package_type": "content_package",
+  "regions": [
+    {
+      "country": "CN",
+      "province": "福建",
+      "city": null
+    }
+  ],
+  "operators": [],
+  "providers": [],
+  "languages": [
+    "zh-CN"
+  ],
+  "categories": [
+    "电视"
+  ],
+  "tags": [
+    "tv",
+    "福建"
+  ],
+  "publisher": {
+    "id": "github:AmPlace",
+    "name": "AmPlace"
+  },
+  "published_at": "2026-06-14T00:00:00+08:00",
+  "links": {
+    "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/waveflow-fujian"
+  },
+  "catalog": {
+    "sort_weight": 0,
+    "featured": false
+  }
 }

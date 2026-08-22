@@ -23,5 +23,50 @@
         "User-Agent": "Mozilla/5.0"
       }
     }
-  ]
+  ],
+  "description": "包含央视/地方卫视、体育、动漫、纪录片等多个分类的咪咕视频公开频道",
+  "package_type": "content_package",
+  "regions": [
+    {
+      "country": "CN",
+      "province": null,
+      "city": null
+    }
+  ],
+  "operators": [],
+  "providers": [
+    "咪咕"
+  ],
+  "languages": [
+    "zh-CN"
+  ],
+  "categories": [
+    "体育",
+    "动画",
+    "卫视",
+    "央视",
+    "纪实"
+  ],
+  "tags": [
+    "IPTV",
+    "咪咕",
+    "央视",
+    "卫视",
+    "体育",
+    "动漫",
+    "纪实",
+    "HLS"
+  ],
+  "publisher": {
+    "id": "github:AmPlace",
+    "name": "AmPlace"
+  },
+  "published_at": "2026-05-28T00:00:00+08:00",
+  "links": {
+    "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/github-develop202-miguvideo"
+  },
+  "catalog": {
+    "sort_weight": 0,
+    "featured": false
+  }
 }

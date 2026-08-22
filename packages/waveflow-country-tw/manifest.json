@@ -23,5 +23,56 @@
         "User-Agent": "Mozilla/5.0"
       }
     }
-  ]
+  ],
+  "description": "台湾YouTube直播源",
+  "package_type": "content_package",
+  "regions": [
+    {
+      "country": "TW",
+      "province": null,
+      "city": null
+    }
+  ],
+  "operators": [],
+  "providers": [
+    "YouTube"
+  ],
+  "languages": [
+    "zh-TW"
+  ],
+  "categories": [
+    "宗教",
+    "少儿",
+    "影视",
+    "新闻",
+    "电视",
+    "纪实",
+    "综艺",
+    "购物"
+  ],
+  "tags": [
+    "tv",
+    "TW",
+    "台湾",
+    "youtube",
+    "新闻",
+    "购物",
+    "戏剧",
+    "综艺",
+    "宗教",
+    "少儿",
+    "纪实"
+  ],
+  "publisher": {
+    "id": "github:AmPlace",
+    "name": "AmPlace"
+  },
+  "published_at": "2026-06-14T00:00:00+08:00",
+  "links": {
+    "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/waveflow-country-tw"
+  },
+  "catalog": {
+    "sort_weight": 0,
+    "featured": false
+  }
 }

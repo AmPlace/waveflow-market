@@ -23,5 +23,58 @@
         "User-Agent": "Mozilla/5.0"
       }
     }
-  ]
+  ],
+  "description": "福建联通 IPTV 单播源，RTSP 流媒体格式，含央视、卫视、厦门本地及购物频道。",
+  "package_type": "content_package",
+  "regions": [
+    {
+      "country": "CN",
+      "province": "福建",
+      "city": null
+    }
+  ],
+  "operators": [
+    "中国联通"
+  ],
+  "providers": [],
+  "languages": [
+    "zh-CN"
+  ],
+  "categories": [
+    "剧场",
+    "卫视",
+    "央视",
+    "少儿",
+    "教育",
+    "生活",
+    "电视",
+    "纪实"
+  ],
+  "tags": [
+    "福建",
+    "联通",
+    "单播",
+    "IPTV",
+    "卫视",
+    "央视",
+    "风景",
+    "教育",
+    "少儿",
+    "IPTV增值",
+    "纪实",
+    "剧场",
+    "RTSP"
+  ],
+  "publisher": {
+    "id": "github:AmPlace",
+    "name": "AmPlace"
+  },
+  "published_at": "2026-05-28T00:00:00+08:00",
+  "links": {
+    "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/github-imdazui-fujian-unicast"
+  },
+  "catalog": {
+    "sort_weight": 0,
+    "featured": false
+  }
 }

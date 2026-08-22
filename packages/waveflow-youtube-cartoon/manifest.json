@@ -470,5 +470,46 @@
       ],
       "url": "https://raw.githubusercontent.com/AmPlace/waveflow-market/main/packages/waveflow-youtube-cartoon/"
     }
-  ]
+  ],
+  "description": "YouTube 公开直播动画频道，含经典动画、儿歌、学龄前内容。",
+  "package_type": "content_package",
+  "regions": [
+    {
+      "global": true
+    }
+  ],
+  "operators": [],
+  "providers": [
+    "YouTube"
+  ],
+  "languages": [
+    "en-US"
+  ],
+  "categories": [
+    "动画",
+    "少儿",
+    "电视"
+  ],
+  "tags": [
+    "YouTube",
+    "动画",
+    "经典动画",
+    "儿歌",
+    "学龄前",
+    "24/7",
+    "公开直播",
+    "WaveFlow 官方"
+  ],
+  "publisher": {
+    "id": "org.waveflow",
+    "name": "WaveFlow"
+  },
+  "published_at": "2026-06-14T00:00:00+08:00",
+  "links": {
+    "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/waveflow-youtube-cartoon"
+  },
+  "catalog": {
+    "sort_weight": 0,
+    "featured": false
+  }
 }

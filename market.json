@@ -12,33 +12,20 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-mobile-anhui/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "安徽",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "移动"
-      ],
-      "language": [
-        "zh-CN"
+        "中国移动"
       ],
       "categories": [
-        "央视",
-        "卫视",
-        "港片",
         "体育",
-        "少儿",
-        "安徽台",
-        "BesTV",
         "剧场",
-        "外省台",
-        "CETV",
-        "购物",
-        "电影",
+        "卫视",
+        "地方",
+        "央视",
+        "少儿",
         "教育",
-        "CHC"
+        "港澳台",
+        "电影",
+        "购物"
       ],
       "tags": [
         "安徽",
@@ -75,7 +62,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 617,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "安徽",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-mobile-anhui"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "chinaiptv-unicast-mobile-beijing",
@@ -86,24 +96,14 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-mobile-beijing/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "北京",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "移动"
-      ],
-      "language": [
-        "zh-CN"
+        "中国移动"
       ],
       "categories": [
+        "体育",
         "卫视",
-        "央视",
-        "北京台",
-        "CETV",
-        "体育"
+        "地方",
+        "央视"
       ],
       "tags": [
         "北京",
@@ -131,7 +131,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 75,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "北京",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-mobile-beijing"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "chinaiptv-unicast-mobile-fujian",
@@ -142,27 +165,15 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-mobile-fujian/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "福建",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "移动"
-      ],
-      "language": [
-        "zh-CN"
+        "中国移动"
       ],
       "categories": [
-        "卫视",
-        "央视",
-        "NewTV",
-        "少儿",
-        "福建台",
-        "BesTV",
         "体育",
-        "CETV"
+        "卫视",
+        "地方",
+        "央视",
+        "少儿"
       ],
       "tags": [
         "福建",
@@ -193,7 +204,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 238,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "福建",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-mobile-fujian"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "chinaiptv-unicast-mobile-gansu",
@@ -204,29 +238,19 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-mobile-gansu/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "甘肃",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "移动"
-      ],
-      "language": [
-        "zh-CN"
+        "中国移动"
       ],
       "categories": [
-        "卫视",
-        "央视",
-        "剧场",
         "体育",
+        "健康",
+        "剧场",
+        "卫视",
+        "地方",
+        "央视",
         "少儿",
         "电影",
-        "甘肃台",
-        "CETV",
-        "纪实",
-        "健康"
+        "纪实"
       ],
       "tags": [
         "甘肃",
@@ -259,7 +283,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 236,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "甘肃",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-mobile-gansu"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "chinaiptv-unicast-mobile-guangxi",
@@ -270,22 +317,12 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-mobile-guangxi/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "广西",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "移动"
-      ],
-      "language": [
-        "zh-CN"
+        "中国移动"
       ],
       "categories": [
-        "央视",
         "卫视",
-        "CETV"
+        "央视"
       ],
       "tags": [
         "广西",
@@ -311,7 +348,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 111,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "广西",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-mobile-guangxi"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "chinaiptv-unicast-mobile-guizhou",
@@ -322,22 +382,13 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-mobile-guizhou/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "贵州",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "移动"
-      ],
-      "language": [
-        "zh-CN"
+        "中国移动"
       ],
       "categories": [
         "卫视",
+        "地方",
         "央视",
-        "贵州台",
         "少儿",
         "纪实"
       ],
@@ -367,7 +418,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 196,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "贵州",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-mobile-guizhou"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "chinaiptv-unicast-mobile-hebei",
@@ -378,17 +452,8 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-mobile-hebei/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "河北",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "移动"
-      ],
-      "language": [
-        "zh-CN"
+        "中国移动"
       ],
       "categories": [
         "卫视",
@@ -417,7 +482,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 49,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "河北",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-mobile-hebei"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "chinaiptv-unicast-mobile-heilongjiang",
@@ -428,24 +516,14 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-mobile-heilongjiang/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "黑龙江",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "移动"
-      ],
-      "language": [
-        "zh-CN"
+        "中国移动"
       ],
       "categories": [
-        "卫视",
-        "央视",
         "剧场",
-        "黑龙江台",
-        "CETV",
+        "卫视",
+        "地方",
+        "央视",
         "电影"
       ],
       "tags": [
@@ -475,7 +553,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 92,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "黑龙江",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-mobile-heilongjiang"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "chinaiptv-unicast-mobile-henan",
@@ -486,23 +587,12 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-mobile-henan/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "河南",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "移动"
-      ],
-      "language": [
-        "zh-CN"
+        "中国移动"
       ],
       "categories": [
         "卫视",
-        "央视",
-        "CETV",
-        "CHC"
+        "央视"
       ],
       "tags": [
         "河南",
@@ -529,7 +619,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 66,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "河南",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-mobile-henan"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "chinaiptv-unicast-mobile-hubei",
@@ -540,24 +653,13 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-mobile-hubei/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "湖北",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "移动"
-      ],
-      "language": [
-        "zh-CN"
+        "中国移动"
       ],
       "categories": [
-        "央视",
         "卫视",
-        "少儿",
-        "CETV",
-        "CHC"
+        "央视",
+        "少儿"
       ],
       "tags": [
         "湖北",
@@ -585,7 +687,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 159,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "湖北",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-mobile-hubei"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "chinaiptv-unicast-mobile-jiangxi",
@@ -596,31 +721,20 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-mobile-jiangxi/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "江西",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "移动"
-      ],
-      "language": [
-        "zh-CN"
+        "中国移动"
       ],
       "categories": [
+        "体育",
+        "剧场",
         "卫视",
+        "地方",
         "央视",
         "少儿",
-        "剧场",
-        "购物",
-        "纪实",
-        "江西台",
-        "体育",
-        "CETV",
-        "咪咕",
         "电影",
-        "综艺"
+        "纪实",
+        "综艺",
+        "购物"
       ],
       "tags": [
         "江西",
@@ -655,7 +769,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 168,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "江西",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-mobile-jiangxi"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "chinaiptv-unicast-mobile-liaoning",
@@ -666,22 +803,13 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-mobile-liaoning/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "辽宁",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "移动"
-      ],
-      "language": [
-        "zh-CN"
+        "中国移动"
       ],
       "categories": [
         "卫视",
-        "央视",
-        "辽宁台"
+        "地方",
+        "央视"
       ],
       "tags": [
         "辽宁",
@@ -707,7 +835,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 52,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "辽宁",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-mobile-liaoning"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "chinaiptv-unicast-mobile-neimenggu",
@@ -718,24 +869,14 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-mobile-neimenggu/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "内蒙古",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "移动"
-      ],
-      "language": [
-        "zh-CN"
+        "中国移动"
       ],
       "categories": [
-        "央视",
         "卫视",
+        "地方",
+        "央视",
         "广播",
-        "CETV",
-        "内蒙古台",
         "民族"
       ],
       "tags": [
@@ -765,7 +906,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 143,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "内蒙古",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-mobile-neimenggu"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "chinaiptv-unicast-mobile-shaanxi",
@@ -776,31 +940,19 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-mobile-shaanxi/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "陕西",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "移动"
-      ],
-      "language": [
-        "zh-CN"
+        "中国移动"
       ],
       "categories": [
-        "卫视",
-        "央视",
         "体育",
-        "陕西台",
-        "购物",
-        "少儿",
         "剧场",
-        "IPTV增值",
-        "CETV",
+        "卫视",
+        "地方",
+        "央视",
+        "少儿",
+        "电视",
         "财经",
-        "SiTV",
-        "CHC"
+        "购物"
       ],
       "tags": [
         "陕西",
@@ -835,7 +987,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 298,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "陕西",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-mobile-shaanxi"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "chinaiptv-unicast-mobile-shandong",
@@ -846,32 +1021,20 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-mobile-shandong/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "山东",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "移动"
-      ],
-      "language": [
-        "zh-CN"
+        "中国移动"
       ],
       "categories": [
+        "体育",
         "卫视",
+        "地方",
         "央视",
         "少儿",
-        "SiTV",
-        "山东台",
-        "外省台",
-        "体育",
+        "广播",
         "教育",
         "纪实",
         "综艺",
-        "CHC",
-        "购物",
-        "广播"
+        "购物"
       ],
       "tags": [
         "山东",
@@ -907,7 +1070,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 293,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "山东",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-mobile-shandong"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "chinaiptv-unicast-mobile-shanghai",
@@ -918,22 +1104,12 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-mobile-shanghai/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "上海",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "移动"
-      ],
-      "language": [
-        "zh-CN"
+        "中国移动"
       ],
       "categories": [
         "卫视",
-        "央视",
-        "CETV"
+        "央视"
       ],
       "tags": [
         "上海",
@@ -959,7 +1135,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 57,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "上海",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-mobile-shanghai"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "chinaiptv-unicast-mobile-yunnan",
@@ -970,22 +1169,13 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-mobile-yunnan/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "云南",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "移动"
-      ],
-      "language": [
-        "zh-CN"
+        "中国移动"
       ],
       "categories": [
         "卫视",
+        "地方",
         "央视",
-        "云南台",
         "少儿",
         "教育",
         "民族"
@@ -1017,7 +1207,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 312,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "云南",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-mobile-yunnan"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "chinaiptv-unicast-mobile-zhejiang",
@@ -1028,25 +1241,16 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-mobile-zhejiang/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "浙江",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "移动"
-      ],
-      "language": [
-        "zh-CN"
+        "中国移动"
       ],
       "categories": [
+        "体育",
+        "剧场",
         "卫视",
+        "地方",
         "央视",
         "少儿",
-        "浙江台",
-        "剧场",
-        "体育",
         "电影",
         "纪实"
       ],
@@ -1079,7 +1283,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 171,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "浙江",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-mobile-zhejiang"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "chinaiptv-unicast-telecom-anhui",
@@ -1090,28 +1317,18 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-telecom-anhui/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "安徽",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "电信"
-      ],
-      "language": [
-        "zh-CN"
+        "中国电信"
       ],
       "categories": [
+        "体育",
+        "剧场",
         "卫视",
+        "地方",
         "央视",
         "少儿",
-        "外省台",
-        "剧场",
-        "财经",
         "教育",
-        "CETV",
-        "体育"
+        "财经"
       ],
       "tags": [
         "安徽",
@@ -1143,7 +1360,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 109,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "安徽",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-telecom-anhui"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "chinaiptv-unicast-telecom-hunan",
@@ -1154,17 +1394,8 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-telecom-hunan/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "湖南",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "电信"
-      ],
-      "language": [
-        "zh-CN"
+        "中国电信"
       ],
       "categories": [],
       "tags": [
@@ -1188,7 +1419,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 1,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "湖南",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-telecom-hunan"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "chinaiptv-unicast-telecom-liaoning",
@@ -1199,27 +1453,17 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-telecom-liaoning/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "辽宁",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "电信"
-      ],
-      "language": [
-        "zh-CN"
+        "中国电信"
       ],
       "categories": [
-        "卫视",
-        "央视",
-        "辽宁台",
-        "少儿",
-        "剧场",
         "体育",
-        "纪实",
-        "CHC"
+        "剧场",
+        "卫视",
+        "地方",
+        "央视",
+        "少儿",
+        "纪实"
       ],
       "tags": [
         "辽宁",
@@ -1250,7 +1494,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 117,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "辽宁",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-telecom-liaoning"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "chinaiptv-unicast-telecom-neimenggu",
@@ -1261,23 +1528,13 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-telecom-neimenggu/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "内蒙古",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "电信"
-      ],
-      "language": [
-        "zh-CN"
+        "中国电信"
       ],
       "categories": [
         "卫视",
-        "央视",
-        "内蒙古台",
-        "CHC"
+        "地方",
+        "央视"
       ],
       "tags": [
         "内蒙古",
@@ -1304,7 +1561,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 1,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "内蒙古",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-telecom-neimenggu"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "chinaiptv-unicast-telecom-shandong",
@@ -1315,29 +1595,18 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-telecom-shandong/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "山东",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "电信"
-      ],
-      "language": [
-        "zh-CN"
+        "中国电信"
       ],
       "categories": [
+        "体育",
         "卫视",
+        "地方",
         "央视",
         "少儿",
-        "山东台",
-        "体育",
-        "综艺",
-        "CETV",
         "纪实",
-        "财经",
-        "CHC"
+        "综艺",
+        "财经"
       ],
       "tags": [
         "山东",
@@ -1370,7 +1639,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 248,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "山东",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-telecom-shandong"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "chinaiptv-unicast-unicom-anhui",
@@ -1381,24 +1673,14 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-unicom-anhui/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "安徽",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "联通"
-      ],
-      "language": [
-        "zh-CN"
+        "中国联通"
       ],
       "categories": [
         "卫视",
+        "地方",
         "央视",
-        "安徽台",
-        "IPTV增值",
-        "CETV"
+        "电视"
       ],
       "tags": [
         "安徽",
@@ -1426,7 +1708,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 69,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "安徽",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-unicom-anhui"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "chinaiptv-unicast-unicom-jiangxi",
@@ -1437,31 +1742,20 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-unicom-jiangxi/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "江西",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "联通"
-      ],
-      "language": [
-        "zh-CN"
+        "中国联通"
       ],
       "categories": [
+        "体育",
+        "剧场",
         "卫视",
+        "地方",
         "央视",
         "少儿",
-        "剧场",
-        "购物",
-        "纪实",
-        "江西台",
-        "体育",
-        "CETV",
-        "咪咕",
         "电影",
-        "综艺"
+        "纪实",
+        "综艺",
+        "购物"
       ],
       "tags": [
         "江西",
@@ -1496,7 +1790,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 168,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "江西",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-unicom-jiangxi"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "chinaiptv-unicast-unicom-sichuan",
@@ -1507,23 +1824,13 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-unicom-sichuan/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "四川",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "联通"
-      ],
-      "language": [
-        "zh-CN"
+        "中国联通"
       ],
       "categories": [
         "卫视",
-        "央视",
-        "四川台",
-        "CETV"
+        "地方",
+        "央视"
       ],
       "tags": [
         "四川",
@@ -1550,7 +1857,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 67,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "四川",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-unicom-sichuan"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "chinaiptv-unicast-unicom-zhejiang",
@@ -1561,23 +1891,14 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/chinaiptv-unicast-unicom-zhejiang/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "浙江",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "联通"
-      ],
-      "language": [
-        "zh-CN"
+        "中国联通"
       ],
       "categories": [
         "卫视",
+        "地方",
         "央视",
-        "少儿",
-        "浙江台"
+        "少儿"
       ],
       "tags": [
         "浙江",
@@ -1604,7 +1925,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 98,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "浙江",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-unicom-zhejiang"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "github-develop202-miguvideo",
@@ -1615,23 +1959,12 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/github-develop202-miguvideo/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": null,
-        "city": null
-      },
-      "operators": [
-        "cn"
-      ],
-      "language": [
-        "zh-CN"
-      ],
+      "operators": [],
       "categories": [
-        "咪咕",
-        "央视",
-        "卫视",
         "体育",
-        "动漫",
+        "动画",
+        "卫视",
+        "央视",
         "纪实"
       ],
       "tags": [
@@ -1658,7 +1991,32 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 0,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": null,
+          "city": null
+        }
+      ],
+      "providers": [
+        "咪咕"
+      ],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/github-develop202-miguvideo"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "github-imdazui-fujian-unicast",
@@ -1669,27 +2027,18 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/github-imdazui-fujian-unicast/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "福建",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "联通"
-      ],
-      "language": [
-        "zh-CN"
+        "中国联通"
       ],
       "categories": [
+        "剧场",
         "卫视",
         "央视",
-        "风景",
-        "教育",
         "少儿",
-        "IPTV增值",
-        "纪实",
-        "剧场"
+        "教育",
+        "生活",
+        "电视",
+        "纪实"
       ],
       "tags": [
         "福建",
@@ -1720,7 +2069,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 0,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "福建",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/github-imdazui-fujian-unicast"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "github-mzky-itvlist",
@@ -1731,28 +2103,17 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/github-mzky-itvlist/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": null,
-        "city": null
-      },
-      "operators": [
-        "cn"
-      ],
-      "language": [
-        "zh-CN"
-      ],
+      "operators": [],
       "categories": [
-        "央视",
-        "卫视",
-        "少儿",
-        "电影",
+        "体育",
         "剧场",
         "动画",
-        "体育",
+        "卫视",
+        "央视",
+        "少儿",
         "戏曲",
-        "港片",
-        "CETV"
+        "港澳台",
+        "电影"
       ],
       "tags": [
         "IPTV",
@@ -1782,7 +2143,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 0,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": null,
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/github-mzky-itvlist"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "github-vbskycn-iptv4",
@@ -1793,27 +2177,16 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/github-vbskycn-iptv4/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": null,
-        "city": null
-      },
-      "operators": [
-        "cn"
-      ],
-      "language": [
-        "zh-CN"
-      ],
+      "operators": [],
       "categories": [
-        "央视",
-        "卫视",
-        "春晚",
-        "电影",
-        "风景",
-        "少儿",
         "体育",
-        "CHC",
-        "港片"
+        "卫视",
+        "央视",
+        "少儿",
+        "港澳台",
+        "生活",
+        "电影",
+        "综艺"
       ],
       "tags": [
         "IPTV",
@@ -1842,7 +2215,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 0,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": null,
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/github-vbskycn-iptv4"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "japantv-public",
@@ -1853,30 +2249,18 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/japantv-public/manifest.json",
-      "region": {
-        "country": "JP",
-        "province": null,
-        "city": null
-      },
-      "operators": [
-        "jp"
-      ],
-      "language": [
-        "ja-JP"
-      ],
+      "operators": [],
       "categories": [
-        "地上デジタル",
-        "BS放送",
-        "CS放送",
+        "体育",
+        "剧场",
+        "动画",
+        "少儿",
         "新闻",
         "电影",
-        "体育",
-        "动漫",
-        "音乐",
-        "韩流",
+        "电视",
         "纪实",
-        "少儿",
-        "剧场"
+        "韩流",
+        "音乐"
       ],
       "tags": [
         "日本",
@@ -1907,7 +2291,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 0,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "JP",
+          "province": null,
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "ja-JP"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/japantv-public"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "waveflow-country-hk",
@@ -1918,22 +2325,10 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/waveflow-country-hk/manifest.json",
-      "region": {
-        "country": "HK",
-        "province": null,
-        "city": null
-      },
-      "operators": [
-        "香港"
-      ],
-      "language": [
-        "zh-HK"
-      ],
+      "operators": [],
       "categories": [
-        "tv",
-        "HK",
-        "香港台",
-        "香港"
+        "地方",
+        "电视"
       ],
       "tags": [
         "tv",
@@ -1955,7 +2350,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 0,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "HK",
+          "province": null,
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-HK"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/waveflow-country-hk"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "waveflow-country-tw",
@@ -1966,29 +2384,16 @@
       "version": "2026.06.14",
       "updated_at": "2026-06-14T00:00:00+08:00",
       "manifest_url": "packages/waveflow-country-tw/manifest.json",
-      "region": {
-        "country": "TW",
-        "province": null,
-        "city": null
-      },
-      "operators": [
-        "台湾"
-      ],
-      "language": [
-        "zh-TW"
-      ],
+      "operators": [],
       "categories": [
-        "tv",
-        "TW",
-        "台湾",
-        "youtube",
-        "新闻",
-        "购物",
-        "戏剧",
-        "综艺",
         "宗教",
         "少儿",
-        "纪实"
+        "影视",
+        "新闻",
+        "电视",
+        "纪实",
+        "综艺",
+        "购物"
       ],
       "tags": [
         "tv",
@@ -2017,7 +2422,32 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 0,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "TW",
+          "province": null,
+          "city": null
+        }
+      ],
+      "providers": [
+        "YouTube"
+      ],
+      "languages": [
+        "zh-TW"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-06-14T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/waveflow-country-tw"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "waveflow-fujian",
@@ -2028,20 +2458,9 @@
       "version": "2026.06.14",
       "updated_at": "2026-06-14T00:00:00+08:00",
       "manifest_url": "packages/waveflow-fujian/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "福建",
-        "city": null
-      },
-      "operators": [
-        "福建"
-      ],
-      "language": [
-        "zh-CN"
-      ],
+      "operators": [],
       "categories": [
-        "tv",
-        "福建"
+        "电视"
       ],
       "tags": [
         "tv",
@@ -2061,7 +2480,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 0,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "福建",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-06-14T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/waveflow-fujian"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "waveflow-unicom-fujian",
@@ -2072,27 +2514,18 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/waveflow-unicom-fujian/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "福建",
-        "city": null
-      },
       "operators": [
-        "cn",
-        "联通"
-      ],
-      "language": [
-        "zh-CN"
+        "中国联通"
       ],
       "categories": [
+        "剧场",
         "卫视",
         "央视",
-        "风景",
-        "教育",
         "少儿",
-        "IPTV增值",
-        "纪实",
-        "剧场"
+        "教育",
+        "生活",
+        "电视",
+        "纪实"
       ],
       "tags": [
         "福建",
@@ -2123,7 +2556,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 0,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "福建",
+          "city": null
+        }
+      ],
+      "providers": [],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/waveflow-unicom-fujian"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "waveflow-youtube-cartoon",
@@ -2134,21 +2590,11 @@
       "version": "2026.06.14",
       "updated_at": "2026-06-14T00:00:00+08:00",
       "manifest_url": "packages/waveflow-youtube-cartoon/manifest.json",
-      "region": {
-        "country": "global",
-        "province": null,
-        "city": null
-      },
-      "operators": [
-        "global"
-      ],
-      "language": [
-        "en-US"
-      ],
+      "operators": [],
       "categories": [
-        "tv",
-        "kids",
-        "animation"
+        "动画",
+        "少儿",
+        "电视"
       ],
       "tags": [
         "YouTube",
@@ -2174,7 +2620,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 29,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "global": true
+        }
+      ],
+      "providers": [
+        "YouTube"
+      ],
+      "languages": [
+        "en-US"
+      ],
+      "publisher": {
+        "id": "org.waveflow",
+        "name": "WaveFlow"
+      },
+      "published_at": "2026-06-14T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/waveflow-youtube-cartoon"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "waveflow-woniu-tv",
@@ -2185,22 +2654,11 @@
       "version": "2026.06.10",
       "updated_at": "2026-06-10T00:00:00+08:00",
       "manifest_url": "packages/waveflow-woniu-tv/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": "湖南",
-        "city": null
-      },
-      "operators": [
-        "cn"
-      ],
-      "language": [
-        "zh-CN"
-      ],
+      "operators": [],
       "categories": [
-        "湖南本地",
-        "CCTV",
         "卫视",
-        "其他"
+        "地方",
+        "央视"
       ],
       "tags": [
         "蜗牛TV",
@@ -2223,7 +2681,32 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 60,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": "湖南",
+          "city": null
+        }
+      ],
+      "providers": [
+        "蜗牛TV"
+      ],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-06-10T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/waveflow-woniu-tv"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "waveflow-german-tv",
@@ -2234,21 +2717,8 @@
       "version": "2026.06.10",
       "updated_at": "2026-06-10T00:00:00+08:00",
       "manifest_url": "packages/waveflow-german-tv/manifest.json",
-      "region": {
-        "country": "DE",
-        "province": null,
-        "city": null
-      },
-      "operators": [
-        "ard",
-        "zdf"
-      ],
-      "language": [
-        "de-DE"
-      ],
-      "categories": [
-        "德国"
-      ],
+      "operators": [],
+      "categories": [],
       "tags": [
         "德国",
         "ARD",
@@ -2270,7 +2740,33 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 3,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "DE",
+          "province": null,
+          "city": null
+        }
+      ],
+      "providers": [
+        "ARD",
+        "ZDF"
+      ],
+      "languages": [
+        "de-DE"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-06-10T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/waveflow-german-tv"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "waveflow-macau-tdm",
@@ -2281,21 +2777,10 @@
       "version": "2026.06.10",
       "updated_at": "2026-06-10T00:00:00+08:00",
       "manifest_url": "packages/waveflow-macau-tdm/manifest.json",
-      "region": {
-        "country": "MO",
-        "province": null,
-        "city": null
-      },
-      "operators": [
-        "tdm"
-      ],
-      "language": [
-        "zh-HK",
-        "pt-PT"
-      ],
+      "operators": [],
       "categories": [
-        "電視",
-        "電台"
+        "地方",
+        "电视"
       ],
       "tags": [
         "澳门",
@@ -2318,7 +2803,33 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 13,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "MO",
+          "province": null,
+          "city": null
+        }
+      ],
+      "providers": [
+        "TDM"
+      ],
+      "languages": [
+        "zh-HK",
+        "pt-PT"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-06-10T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/waveflow-macau-tdm"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "waveflow-migu",
@@ -2329,26 +2840,16 @@
       "version": "2026.06.10",
       "updated_at": "2026-06-10T00:00:00+08:00",
       "manifest_url": "packages/waveflow-migu/manifest.json",
-      "region": {
-        "country": "CN",
-        "province": null,
-        "city": null
-      },
       "operators": [
-        "cn",
-        "移动"
-      ],
-      "language": [
-        "zh-CN"
+        "中国移动"
       ],
       "categories": [
-        "央视",
         "卫视",
         "地方",
+        "央视",
         "影视",
-        "新闻",
         "教育",
-        "熊猫",
+        "新闻",
         "综艺"
       ],
       "tags": [
@@ -2377,7 +2878,32 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 155,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "country": "CN",
+          "province": null,
+          "city": null
+        }
+      ],
+      "providers": [
+        "咪咕"
+      ],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-06-10T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/waveflow-migu"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     },
     {
       "id": "youtube-public",
@@ -2388,19 +2914,9 @@
       "version": "2026.05.28",
       "updated_at": "2026-05-28T00:00:00+08:00",
       "manifest_url": "packages/youtube-public/manifest.json",
-      "region": {
-        "country": "global",
-        "province": null,
-        "city": null
-      },
-      "operators": [
-        "global"
-      ],
-      "language": [
-        "zh-CN"
-      ],
+      "operators": [],
       "categories": [
-        "tv"
+        "电视"
       ],
       "tags": [
         "YouTube",
@@ -2420,7 +2936,30 @@
       "requires_referer": false,
       "requires_custom_ua": false,
       "channel_count": 0,
-      "source_count": 1
+      "source_count": 1,
+      "regions": [
+        {
+          "global": true
+        }
+      ],
+      "providers": [
+        "YouTube"
+      ],
+      "languages": [
+        "zh-CN"
+      ],
+      "publisher": {
+        "id": "github:AmPlace",
+        "name": "AmPlace"
+      },
+      "published_at": "2026-05-28T00:00:00+08:00",
+      "links": {
+        "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/youtube-public"
+      },
+      "catalog": {
+        "sort_weight": 0,
+        "featured": false
+      }
     }
   ]
 }

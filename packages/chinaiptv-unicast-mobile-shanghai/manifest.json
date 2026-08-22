@@ -23,5 +23,47 @@
         "User-Agent": "Mozilla/5.0"
       }
     }
-  ]
+  ],
+  "description": "上海地区移动IPTV单播频道列表，含央视, 卫视, 其它等分类，共57个频道。",
+  "package_type": "content_package",
+  "regions": [
+    {
+      "country": "CN",
+      "province": "上海",
+      "city": null
+    }
+  ],
+  "operators": [
+    "中国移动"
+  ],
+  "providers": [],
+  "languages": [
+    "zh-CN"
+  ],
+  "categories": [
+    "卫视",
+    "央视"
+  ],
+  "tags": [
+    "上海",
+    "移动",
+    "单播",
+    "IPTV",
+    "卫视",
+    "央视",
+    "CETV",
+    "HLS"
+  ],
+  "publisher": {
+    "id": "github:AmPlace",
+    "name": "AmPlace"
+  },
+  "published_at": "2026-05-28T00:00:00+08:00",
+  "links": {
+    "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-mobile-shanghai"
+  },
+  "catalog": {
+    "sort_weight": 0,
+    "featured": false
+  }
 }

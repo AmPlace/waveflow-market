@@ -23,5 +23,51 @@
         "User-Agent": "Mozilla/5.0"
       }
     }
-  ]
+  ],
+  "description": "安徽地区联通IPTV单播频道列表，含央视, 卫视, 其它等分类，共69个频道。",
+  "package_type": "content_package",
+  "regions": [
+    {
+      "country": "CN",
+      "province": "安徽",
+      "city": null
+    }
+  ],
+  "operators": [
+    "中国联通"
+  ],
+  "providers": [],
+  "languages": [
+    "zh-CN"
+  ],
+  "categories": [
+    "卫视",
+    "地方",
+    "央视",
+    "电视"
+  ],
+  "tags": [
+    "安徽",
+    "联通",
+    "单播",
+    "IPTV",
+    "卫视",
+    "央视",
+    "安徽台",
+    "IPTV增值",
+    "CETV",
+    "HLS/HTTP"
+  ],
+  "publisher": {
+    "id": "github:AmPlace",
+    "name": "AmPlace"
+  },
+  "published_at": "2026-05-28T00:00:00+08:00",
+  "links": {
+    "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-unicom-anhui"
+  },
+  "catalog": {
+    "sort_weight": 0,
+    "featured": false
+  }
 }

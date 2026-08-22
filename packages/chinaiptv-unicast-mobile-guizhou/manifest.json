@@ -23,5 +23,52 @@
         "User-Agent": "Mozilla/5.0"
       }
     }
-  ]
+  ],
+  "description": "贵州地区移动IPTV单播频道列表，含央视, 卫视, 教育, 地方, 其它等分类，共196个频道。",
+  "package_type": "content_package",
+  "regions": [
+    {
+      "country": "CN",
+      "province": "贵州",
+      "city": null
+    }
+  ],
+  "operators": [
+    "中国移动"
+  ],
+  "providers": [],
+  "languages": [
+    "zh-CN"
+  ],
+  "categories": [
+    "卫视",
+    "地方",
+    "央视",
+    "少儿",
+    "纪实"
+  ],
+  "tags": [
+    "贵州",
+    "移动",
+    "单播",
+    "IPTV",
+    "卫视",
+    "央视",
+    "贵州台",
+    "少儿",
+    "纪实",
+    "HLS"
+  ],
+  "publisher": {
+    "id": "github:AmPlace",
+    "name": "AmPlace"
+  },
+  "published_at": "2026-05-28T00:00:00+08:00",
+  "links": {
+    "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-mobile-guizhou"
+  },
+  "catalog": {
+    "sort_weight": 0,
+    "featured": false
+  }
 }

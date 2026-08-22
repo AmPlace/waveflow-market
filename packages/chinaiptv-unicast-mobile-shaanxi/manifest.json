@@ -23,5 +23,63 @@
         "User-Agent": "Mozilla/5.0"
       }
     }
-  ]
+  ],
+  "description": "陕西地区移动IPTV单播频道列表，含央视, 卫视, 教育, 地方, 其它等分类，共298个频道。",
+  "package_type": "content_package",
+  "regions": [
+    {
+      "country": "CN",
+      "province": "陕西",
+      "city": null
+    }
+  ],
+  "operators": [
+    "中国移动"
+  ],
+  "providers": [],
+  "languages": [
+    "zh-CN"
+  ],
+  "categories": [
+    "体育",
+    "剧场",
+    "卫视",
+    "地方",
+    "央视",
+    "少儿",
+    "电视",
+    "财经",
+    "购物"
+  ],
+  "tags": [
+    "陕西",
+    "移动",
+    "单播",
+    "IPTV",
+    "卫视",
+    "央视",
+    "体育",
+    "陕西台",
+    "购物",
+    "少儿",
+    "剧场",
+    "IPTV增值",
+    "CETV",
+    "财经",
+    "SiTV",
+    "CHC",
+    "HLS"
+  ],
+  "publisher": {
+    "id": "github:AmPlace",
+    "name": "AmPlace"
+  },
+  "published_at": "2026-05-28T00:00:00+08:00",
+  "links": {
+    "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-mobile-shaanxi"
+  },
+  "catalog": {
+    "sort_weight": 0,
+    "featured": false
+  }
 }

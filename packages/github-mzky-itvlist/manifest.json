@@ -23,5 +23,56 @@
         "User-Agent": "Mozilla/5.0"
       }
     }
-  ]
+  ],
+  "description": "多源 IPTV 综合频道列表，含央视、卫视、体育、卡通、少儿等多分类，同一频道多个备用源。",
+  "package_type": "content_package",
+  "regions": [
+    {
+      "country": "CN",
+      "province": null,
+      "city": null
+    }
+  ],
+  "operators": [],
+  "providers": [],
+  "languages": [
+    "zh-CN"
+  ],
+  "categories": [
+    "体育",
+    "剧场",
+    "动画",
+    "卫视",
+    "央视",
+    "少儿",
+    "戏曲",
+    "港澳台",
+    "电影"
+  ],
+  "tags": [
+    "IPTV",
+    "央视",
+    "卫视",
+    "少儿",
+    "电影",
+    "剧场",
+    "动画",
+    "体育",
+    "戏曲",
+    "港片",
+    "CETV",
+    "HLS"
+  ],
+  "publisher": {
+    "id": "github:AmPlace",
+    "name": "AmPlace"
+  },
+  "published_at": "2026-05-28T00:00:00+08:00",
+  "links": {
+    "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/github-mzky-itvlist"
+  },
+  "catalog": {
+    "sort_weight": 0,
+    "featured": false
+  }
 }

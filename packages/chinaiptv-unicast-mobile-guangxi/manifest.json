@@ -23,5 +23,47 @@
         "User-Agent": "Mozilla/5.0"
       }
     }
-  ]
+  ],
+  "description": "广西地区移动IPTV单播频道列表，含移动, 卫视频道等分类，共111个频道。",
+  "package_type": "content_package",
+  "regions": [
+    {
+      "country": "CN",
+      "province": "广西",
+      "city": null
+    }
+  ],
+  "operators": [
+    "中国移动"
+  ],
+  "providers": [],
+  "languages": [
+    "zh-CN"
+  ],
+  "categories": [
+    "卫视",
+    "央视"
+  ],
+  "tags": [
+    "广西",
+    "移动",
+    "单播",
+    "IPTV",
+    "央视",
+    "卫视",
+    "CETV",
+    "HLS"
+  ],
+  "publisher": {
+    "id": "github:AmPlace",
+    "name": "AmPlace"
+  },
+  "published_at": "2026-05-28T00:00:00+08:00",
+  "links": {
+    "source": "https://github.com/AmPlace/waveflow-market/tree/main/packages/chinaiptv-unicast-mobile-guangxi"
+  },
+  "catalog": {
+    "sort_weight": 0,
+    "featured": false
+  }
 }
